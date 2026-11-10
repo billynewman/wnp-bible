@@ -1,0 +1,23 @@
+{
+  "app": {
+    "name": "KJV Bible · Scourby Audio & Text",
+    "shortName": "bible.wnp.app",
+    "domain": "bible.wnp.app",
+    "playlistUrl": "https://www.youtube.com/playlist?list=PLyH3jcNYnj_vee7HfFWgGmcW2E3qdsHLi",
+    "channelUrl": "https://www.youtube.com/@ScourbyYouBible"
+  },
+  "shows": [
+    {
+      "id": "scourby-kjv",
+      "title": "King James Bible · Alexander Scourby",
+      "subtitle": "67 Books · Audio & Text Synced (1991 Litchfield Associates)",
+      "type": "video",
+      "feedUrl": "/feeds/scourby-kjv.json",
+      "rssUrl": "/feeds/scourby-kjv.xml",
+      "channelUrl": "https://www.youtube.com/@ScourbyYouBible",
+      "playlistUrl": "https://www.youtube.com/playlist?list=PLyH3jcNYnj_vee7HfFWgGmcW2E3qdsHLi",
+      "cover": "https://i.ytimg.com/vi/OgFT_IxwJJY/maxresdefault.jpg",
+      "accent": "#d4a853"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+# === bible.wnp.app — Bluehost static PWA hosting (place in /home2/outletco/public_html/bible/.htaccess) ===
+
+# 1. Force HTTPS (required for PWA + Service Worker)
+<IfModule mod_rewrite.c>
+  RewriteEngine On
+  RewriteCond %{HTTPS} off
+  RewriteRule ^(.*)$ https://bible.wnp.app/$1 [R=301,L]
+</IfModule>
+
+# 2. SPA fallback: all non-file paths serve index.html
+<IfModule mod_rewrite.c>
+  RewriteEngine On
+  RewriteBase /
+  RewriteCond %{REQUEST_FILENAME} !-f
+  RewriteCond %{REQUEST_FILENAME} !-d
+  RewriteRule ^ index.html [L]
+</IfModule>
+
+# 3. Cache rules: service worker & feed manifests never stale; hashed assets immutable
+<IfModule mod_headers.c>
+  <Files "sw.js">
+    Header set Cache-Control "no-cache, no-store, must-revalidate"
+  </Files>
+  <Files "feeds.json">
+    Header set Cache-Control "public, max-age=300, must-revalidate"
+  </Files>
+  <FilesMatch "\.[0-9a-zA-Z_-]+\.(js|css)$">
+    Header set Cache-Control "public, max-age=31536000, immutable"
+  </FilesMatch>
+</IfModule>
+
+# 4. MIME types for Web App Manifest & XML feeds
+<IfModule mod_mime.c>
+  AddType application/manifest+json .webmanifest
+  AddType application/rss+xml .xml
+  AddType application/json .json
+</IfModule>

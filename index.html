@@ -1,0 +1,61 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+  <meta name="theme-color" content="#090a0f" />
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+  <meta name="apple-mobile-web-app-title" content="KJV Bible" />
+  <meta name="description" content="Complete 67-video King James Version (KJV) Bible series narrated by Alexander Scourby with synchronized text and 941 chapter timestamps." />
+  <link rel="manifest" href="/manifest.webmanifest" />
+  <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+  <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
+  <title>KJV Bible · Scourby Audio & Text · bible.wnp.app</title>
+  <link rel="stylesheet" href="/src/style.css" />
+</head>
+<body>
+  <main id="app">
+    <section id="now-deck" class="deck" aria-label="Now Playing Bible Deck">
+      <article class="card skeleton-card" aria-busy="true" aria-label="Loading KJV Bible Series">
+        <div class="slides">
+          <div class="slide">
+            <div class="skeleton-box skeleton-art"></div>
+            <div class="skeleton-box skeleton-kicker"></div>
+            <div class="skeleton-box skeleton-title"></div>
+            <div class="skeleton-box skeleton-bar"></div>
+          </div>
+        </div>
+      </article>
+    </section>
+    <section id="shows-plane" class="plane" hidden aria-label="Books 1–66 Index"></section>
+    <section id="you-plane" class="plane" hidden aria-label="Study & History"></section>
+  </main>
+
+  <dialog id="inspector-sheet" class="offer-sheet inspector-sheet" closedby="any" aria-label="Chapters & Books Quick Jumper">
+    <div id="inspector-body" class="inspector-body"></div>
+  </dialog>
+
+  <dialog id="offer-sheet" class="offer-sheet" closedby="any" aria-label="Book Chapters & Study Links">
+    <div id="offer-body"></div>
+  </dialog>
+
+  <aside id="mini-player" class="mini-player glass" hidden aria-label="Active Book Mini Player">
+    <img id="mini-player-art" class="mini-player-art" src="" alt="" />
+    <div class="mini-player-meta" id="mini-player-resume" role="button" tabindex="0">
+      <div id="mini-player-kicker" class="mini-player-kicker">NOW READING</div>
+      <div id="mini-player-title" class="mini-player-title">Select a Book</div>
+    </div>
+    <button id="mini-player-toggle" class="mini-player-btn" type="button" aria-label="Return to Video">▶ Video</button>
+    <button id="mini-player-open" class="mini-player-btn is-accent" type="button" aria-label="Open Now Deck">↑</button>
+  </aside>
+
+  <nav id="rail" class="rail glass" aria-label="Primary navigation">
+    <button data-plane="now" class="active" type="button">Now</button>
+    <button data-plane="shows" type="button">Books</button>
+    <button data-plane="you" type="button">Study</button>
+  </nav>
+
+  <script type="module" src="/src/main.ts"></script>
+</body>
+</html>

@@ -1,0 +1,5853 @@
+{
+  "series": "King James Bible · Alexander Scourby (Audio & Text Synced)",
+  "playlistId": "PLyH3jcNYnj_vee7HfFWgGmcW2E3qdsHLi",
+  "channelUrl": "https://www.youtube.com/@ScourbyYouBible",
+  "attribution": "Scourby YouBible Channel · © 1991 Litchfield Associates · Kindness Works International Foundation 501(c)(3)",
+  "count": 67,
+  "episodes": [
+    {
+      "id": "scourby-kjv-00-introduction-kjv-bible-audio-text",
+      "showId": "scourby-kjv",
+      "bookNum": 0,
+      "bookName": "Introduction · KJV Bible (Audio & Text)",
+      "title": "00 · Introduction to the Scourby YouBible",
+      "ytTitle": "An introduction to Alexander Scourby's Exceptional Reading  of the King James Bible, Like No Other,",
+      "testament": "Intro",
+      "totalBookChapters": 1,
+      "youtubeId": "VZYFExq0rFQ",
+      "durationSec": 52,
+      "coverUrl": "https://i.ytimg.com/vi/VZYFExq0rFQ/hqdefault.jpg",
+      "coverMaxUrl": "https://i.ytimg.com/vi/VZYFExq0rFQ/maxresdefault.jpg",
+      "synopsis": "We continue sharing these timeless recordings so listeners can experience The King James Bible and Great Classic Books with the same enduring power they had when Alexander Scourby first recorded them. Below is the playlist link to our most‑watched King James Bible Reading: Genesis to Revelation in 66 Books with audio and text synced together.",
+      "chapters": [
+        {
+          "timecode": "0:00",
+          "seconds": 0,
+          "label": "Welcome to the channel"
+        },
+        {
+          "timecode": "0:18",
+          "seconds": 18,
+          "label": "Navigating the playlist"
+        },
+        {
+          "timecode": "0:30",
+          "seconds": 30,
+          "label": "Sharing the word"
+        }
+      ]
+    },
+    {
+      "id": "scourby-kjv-01-genesis",
+      "showId": "scourby-kjv",
+      "bookNum": 1,
+      "bookName": "Genesis",
+      "title": "Book 01 · Genesis",
+      "ytTitle": "1 | The Book of GENESIS (KJV) | Read By Alexander Scourby | AUDIO and TEXT | Synced Together.",
+      "testament": "OT",
+      "totalBookChapters": 50,
+      "youtubeId": "OgFT_IxwJJY",
+      "durationSec": 12556,
+      "coverUrl": "https://i.ytimg.com/vi/OgFT_IxwJJY/hqdefault.jpg",
+      "coverMaxUrl": "https://i.ytimg.com/vi/OgFT_IxwJJY/maxresdefault.jpg",
+      "synopsis": "Genesis centers on God's creation of the World humanity’s early fall, God’s covenant with Abraham, and the rise of the patriarchs. It traces Noah and the flood, the call from Ur, promises to Abraham, and the unfolding family line through Isaac, Jacob, and Joseph, revealing God’s guiding purpose and intentions from creation to Israel’s beginnings.",
+      "chapters": [
+        {
+          "timecode": "0:10",
+          "seconds": 10,
+          "label": "Chapter 1-5"
+        },
+        {
+          "timecode": "18:54",
+          "seconds": 1134,
+          "label": "Chapter 6-10"
+        },
+        {
+          "timecode": "35:30",
+          "seconds": 2130,
+          "label": "Chapter 11-15"
+        },
+        {
+          "timecode": "50:07",
+          "seconds": 3007,
+          "label": "Chapter 16-20"
+        },
+        {
+          "timecode": "1:08:54",
+          "seconds": 4134,
+          "label": "Chapter 21-25"
+        },
+        {
+          "timecode": "1:32:25",
+          "seconds": 5545,
+          "label": "Chapter 26-30"
+        },
+        {
+          "timecode": "1:56:26",
+          "seconds": 6986,
+          "label": "Chapter 31-35"
+        },
+        {
+          "timecode": "2:18:19",
+          "seconds": 8299,
+          "label": "Chapter 36-40"
+        },
+        {
+          "timecode": "2:38:43",
+          "seconds": 9523,
+          "label": "Chapter 41-45"
+        },
+        {
+          "timecode": "3:05:52",
+          "seconds": 11152,
+          "label": "Chapter 46-50"
+        }
+      ]
+    },
+    {
+      "id": "scourby-kjv-02-exodus",
+      "showId": "scourby-kjv",
+      "bookNum": 2,
+      "bookName": "Exodus",
+      "title": "Book 02 · Exodus",
+      "ytTitle": "2  The Book of EXODUS (KJV) | Read By Alexander Scourby | AUDIO and TEXT | Synced Together.",
+      "testament": "OT",
+      "totalBookChapters": 40,
+      "youtubeId": "sdQHiRtzCg8",
+      "durationSec": 10643,
+      "coverUrl": "https://i.ytimg.com/vi/sdQHiRtzCg8/hqdefault.jpg",
+      "coverMaxUrl": "https://i.ytimg.com/vi/sdQHiRtzCg8/maxresdefault.jpg",
+      "synopsis": "Exodus reveals God’s mighty deliverance of Israel from Egypt, the calling of Moses, the Passover, the Red Sea crossing, and the giving of the Law at Sinai, it shows God’s power, covenant faithfulness, and desire to dwell with His people through the Tabernacle, a foundational book of redemption and divine guidance.",
+      "chapters": [
+        {
+          "timecode": "0:05",
+          "seconds": 5,
+          "label": "Chapter 1-5"
+        },
+        {
+          "timecode": "19:57",
+          "seconds": 1197,
+          "label": "Chapter 6-10"
+        },
+        {
+          "timecode": "43:15",
+          "seconds": 2595,
+          "label": "Chapter 11-15"
+        },
+        {
+          "timecode": "1:06:25",
+          "seconds": 3985,
+          "label": "Chapter 16-20"
+        },
+        {
+          "timecode": "1:25:26",
+          "seconds": 5126,
+          "label": "Chapter 21-25"
+        },
+        {
+          "timecode": "1:46:14",
+          "seconds": 6374,
+          "label": "Chapter 26-30"
+        },
+        {
+          "timecode": "2:12:50",
+          "seconds": 7970,
+          "label": "Chapter 31-35"
+        },
+        {
+          "timecode": "2:34:52",
+          "seconds": 9292,
+          "label": "Chapter 36-40"
+        }
+      ]
+    },
+    {
+      "id": "scourby-kjv-03-leviticus",
+      "showId": "scourby-kjv",
+      "bookNum": 3,
+      "bookName": "Leviticus",
+      "title": "Book 03 · Leviticus",
+      "ytTitle": "3  | The Book of LEVITICUS (KJV) Read By Alexander Scourby | AUDIO and TEXT | Synced Together.",
+      "testament": "OT",
+      "totalBookChapters": 27,
+      "youtubeId": "SUmk8OCjlqQ",
+      "durationSec": 7608,
+      "coverUrl": "https://i.ytimg.com/vi/SUmk8OCjlqQ/hqdefault.jpg",
+      "coverMaxUrl": "https://i.ytimg.com/vi/SUmk8OCjlqQ/maxresdefault.jpg",
+      "synopsis": "Leviticus unfolds a sacred blueprint for holiness, guiding Israel through divine laws, priestly duties, and rituals that shape a covenant people. This narrative reveals order, purity, sacrifice, and the nearness of God dwelling among His people, calling them to walk in reverence and obedience. Our channel is dedicated to preserving The World’s Greatest Books, read by Alexander Scourby, who the Chicago Tribune praised as having The Greatest Voice Ever Recorded, and The World’s Best Audiobook Narrator, bar none. His 1611 King James Bible reading is a classic and brings every chapter of the 66 books to life with unmatched depth, authenticity, and reverence. Nothing repetitive, nothing artificial, only Scourby’s singular voice presenting the beauty of The Scriptures.",
+      "chapters": [
+        {
+          "timecode": "0:00",
+          "seconds": 0,
+          "label": "The burnt offerings"
+        },
+        {
+          "timecode": "2:40",
+          "seconds": 160,
+          "label": "The meat offerings"
+        },
+        {
+          "timecode": "5:13",
+          "seconds": 313,
+          "label": "The peace offerings"
+        },
+        {
+          "timecode": "7:34",
+          "seconds": 454,
+          "label": "The sin offerings"
+        },
+        {
+          "timecode": "12:46",
+          "seconds": 766,
+          "label": "The trespass offerings"
+        },
+        {
+          "timecode": "16:10",
+          "seconds": 970,
+          "label": "Laws for the priests"
+        },
+        {
+          "timecode": "20:38",
+          "seconds": 1238,
+          "label": "Peace offering regulations"
+        },
+        {
+          "timecode": "24:14",
+          "seconds": 1454,
+          "label": "The priests' portion"
+        },
+        {
+          "timecode": "25:52",
+          "seconds": 1552,
+          "label": "Consecration of the priests"
+        },
+        {
+          "timecode": "30:55",
+          "seconds": 1855,
+          "label": "The eighth day ministry"
+        },
+        {
+          "timecode": "34:02",
+          "seconds": 2042,
+          "label": "The sin of Nadab and Abihu"
+        },
+        {
+          "timecode": "37:30",
+          "seconds": 2250,
+          "label": "Clean and unclean animals"
+        },
+        {
+          "timecode": "43:37",
+          "seconds": 2617,
+          "label": "Laws of purification"
+        },
+        {
+          "timecode": "44:59",
+          "seconds": 2699,
+          "label": "Laws of leprosy"
+        },
+        {
+          "timecode": "53:56",
+          "seconds": 3236,
+          "label": "Cleansing the leper"
+        },
+        {
+          "timecode": "1:01:46",
+          "seconds": 3706,
+          "label": "Bodily uncleanness"
+        },
+        {
+          "timecode": "1:06:21",
+          "seconds": 3981,
+          "label": "The Day of Atonement"
+        },
+        {
+          "timecode": "1:11:57",
+          "seconds": 4317,
+          "label": "Sacrifice and blood"
+        },
+        {
+          "timecode": "1:15:00",
+          "seconds": 4500,
+          "label": "Laws of morality"
+        },
+        {
+          "timecode": "1:18:50",
+          "seconds": 4730,
+          "label": "Social and religious laws"
+        },
+        {
+          "timecode": "1:24:17",
+          "seconds": 5057,
+          "label": "Penalties for sins"
+        },
+        {
+          "timecode": "1:28:43",
+          "seconds": 5323,
+          "label": "Priestly holiness"
+        },
+        {
+          "timecode": "1:31:55",
+          "seconds": 5515,
+          "label": "Handling holy things"
+        },
+        {
+          "timecode": "1:36:42",
+          "seconds": 5802,
+          "label": "The feasts of the Lord"
+        },
+        {
+          "timecode": "1:43:20",
+          "seconds": 6200,
+          "label": "Blasphemy and justice"
+        },
+        {
+          "timecode": "1:46:20",
+          "seconds": 6380,
+          "label": "Sabbath and Jubilee"
+        },
+        {
+          "timecode": "1:54:11",
+          "seconds": 6851,
+          "label": "Blessings and curses"
+        },
+        {
+          "timecode": "2:01:36",
+          "seconds": 7296,
+          "label": "Vows and tithes"
+        }
+      ]
+    },
+    {
+      "id": "scourby-kjv-04-numbers",
+      "showId": "scourby-kjv",
+      "bookNum": 4,
+      "bookName": "Numbers",
+      "title": "Book 04 · Numbers",
+      "ytTitle": "4 | The Book of NUMBERS  (KJV) | Read By Alexander Scourby | AUDIO and TEXT | Synced Together.",
+      "testament": "OT",
+      "totalBookChapters": 36,
+      "youtubeId": "G-4ukdNJERw",
+      "durationSec": 10066,
+      "coverUrl": "https://i.ytimg.com/vi/G-4ukdNJERw/hqdefault.jpg",
+      "coverMaxUrl": "https://i.ytimg.com/vi/G-4ukdNJERw/maxresdefault.jpg",
+      "synopsis": "Numbers unfolds Israel’s wilderness journey, revealing census records, tribal order, rebellion, mercy, and God’s unwavering guidance. This narrative traces a people shaped by discipline and promise as they move from Sinai toward the land prepared for them, highlighting faith, leadership, and divine purpose.",
+      "chapters": [
+        {
+          "timecode": "0:00",
+          "seconds": 0,
+          "label": "Census and camp organization"
+        },
+        {
+          "timecode": "6:38",
+          "seconds": 398,
+          "label": "Tribe positions and marching"
+        },
+        {
+          "timecode": "10:48",
+          "seconds": 648,
+          "label": "Levite duties and selection"
+        },
+        {
+          "timecode": "15:50",
+          "seconds": 950,
+          "label": "Levite census and redemption"
+        },
+        {
+          "timecode": "17:24",
+          "seconds": 1044,
+          "label": "Duties of Levite families"
+        },
+        {
+          "timecode": "24:17",
+          "seconds": 1457,
+          "label": "Purity and laws"
+        },
+        {
+          "timecode": "28:53",
+          "seconds": 1733,
+          "label": "The Nazirite vow and blessing"
+        },
+        {
+          "timecode": "32:38",
+          "seconds": 1958,
+          "label": "Dedication of the Tabernacle"
+        },
+        {
+          "timecode": "41:58",
+          "seconds": 2518,
+          "label": "Levite consecration and service"
+        },
+        {
+          "timecode": "45:33",
+          "seconds": 2733,
+          "label": "Passover and the cloud"
+        },
+        {
+          "timecode": "49:11",
+          "seconds": 2951,
+          "label": "Trumpets and setting out"
+        },
+        {
+          "timecode": "53:41",
+          "seconds": 3221,
+          "label": "Complaints and quail"
+        },
+        {
+          "timecode": "59:27",
+          "seconds": 3567,
+          "label": "Miriam's rebellion and leprosy"
+        },
+        {
+          "timecode": "1:01:35",
+          "seconds": 3695,
+          "label": "Spies sent to Canaan"
+        },
+        {
+          "timecode": "1:05:18",
+          "seconds": 3918,
+          "label": "Rebellion and judgment"
+        },
+        {
+          "timecode": "1:11:34",
+          "seconds": 4294,
+          "label": "Offerings and sabbath law"
+        },
+        {
+          "timecode": "1:16:13",
+          "seconds": 4573,
+          "label": "Korah's rebellion"
+        },
+        {
+          "timecode": "1:22:46",
+          "seconds": 4966,
+          "label": "Plague and aaron's rod"
+        },
+        {
+          "timecode": "1:24:04",
+          "seconds": 5044,
+          "label": "Priestly duties and tithes"
+        },
+        {
+          "timecode": "1:25:54",
+          "seconds": 5154,
+          "label": "Law of purification"
+        },
+        {
+          "timecode": "1:31:33",
+          "seconds": 5493,
+          "label": "Water from the rock"
+        },
+        {
+          "timecode": "1:39:22",
+          "seconds": 5962,
+          "label": "The bronze serpent and conquest"
+        },
+        {
+          "timecode": "1:44:03",
+          "seconds": 6243,
+          "label": "Balaam and Balak"
+        },
+        {
+          "timecode": "1:49:57",
+          "seconds": 6597,
+          "label": "Balaam's prophecies"
+        },
+        {
+          "timecode": "1:53:55",
+          "seconds": 6835,
+          "label": "Israel's idolatry"
+        },
+        {
+          "timecode": "1:57:35",
+          "seconds": 7055,
+          "label": "Second census"
+        },
+        {
+          "timecode": "2:00:42",
+          "seconds": 7242,
+          "label": "Inheritance and Joshua's appointment"
+        },
+        {
+          "timecode": "2:07:24",
+          "seconds": 7644,
+          "label": "Festivals and vows"
+        },
+        {
+          "timecode": "2:10:28",
+          "seconds": 7828,
+          "label": "War against Midian"
+        },
+        {
+          "timecode": "2:22:35",
+          "seconds": 8555,
+          "label": "Land allocation east of Jordan"
+        },
+        {
+          "timecode": "2:32:30",
+          "seconds": 9150,
+          "label": "Journey and land boundaries"
+        },
+        {
+          "timecode": "2:40:23",
+          "seconds": 9623,
+          "label": "Levite cities and refuge"
+        },
+        {
+          "timecode": "2:45:10",
+          "seconds": 9910,
+          "label": "Inheritance of daughters"
+        }
+      ]
+    },
+    {
+      "id": "scourby-kjv-05-deuteronomy",
+      "showId": "scourby-kjv",
+      "bookNum": 5,
+      "bookName": "Deuteronomy",
+      "title": "Book 05 · Deuteronomy",
+      "ytTitle": "5 | The Book of  DEUTERONOMY (KJV) Read By Alexander Scourby | AUDIO and TEXT | Synced Together.",
+      "testament": "OT",
+      "totalBookChapters": 34,
+      "youtubeId": "dlIpwsb9hNY",
+      "durationSec": 8992,
+      "coverUrl": "https://i.ytimg.com/vi/dlIpwsb9hNY/hqdefault.jpg",
+      "coverMaxUrl": "https://i.ytimg.com/vi/dlIpwsb9hNY/maxresdefault.jpg",
+      "synopsis": "Deuteronomy unfolds as Moses speaks his final words to Israel, recalling their journey, renewing God’s covenant, and urging faithful obedience. This narrative bridges wilderness wandering and promised hope, calling listeners to remember, choose life, and walk in enduring devotion to the Lord.",
+      "chapters": [
+        {
+          "timecode": "7:05",
+          "seconds": 425,
+          "label": "Chapter 2"
+        },
+        {
+          "timecode": "12:22",
+          "seconds": 742,
+          "label": "Chapter Three"
+        },
+        {
+          "timecode": "16:52",
+          "seconds": 1012,
+          "label": "Chapter 4"
+        },
+        {
+          "timecode": "25:04",
+          "seconds": 1504,
+          "label": "Chapter 5"
+        },
+        {
+          "timecode": "29:37",
+          "seconds": 1777,
+          "label": "Chapter Six"
+        },
+        {
+          "timecode": "31:52",
+          "seconds": 1912,
+          "label": "Keep the Commandments"
+        },
+        {
+          "timecode": "33:10",
+          "seconds": 1990,
+          "label": "Chapter 7"
+        },
+        {
+          "timecode": "49:05",
+          "seconds": 2945,
+          "label": "Chapter 11"
+        },
+        {
+          "timecode": "53:47",
+          "seconds": 3227,
+          "label": "Chapter 12"
+        },
+        {
+          "timecode": "59:04",
+          "seconds": 3544,
+          "label": "Chapter 13"
+        },
+        {
+          "timecode": "1:05:54",
+          "seconds": 3954,
+          "label": "Chapter 15"
+        },
+        {
+          "timecode": "1:09:34",
+          "seconds": 4174,
+          "label": "Chapter 16 Observe the Month of Abib"
+        },
+        {
+          "timecode": "1:16:39",
+          "seconds": 4599,
+          "label": "Chapter 18 the Priests the Levites"
+        },
+        {
+          "timecode": "1:19:42",
+          "seconds": 4782,
+          "label": "Chapter 19"
+        },
+        {
+          "timecode": "1:22:54",
+          "seconds": 4974,
+          "label": "Chapter 20"
+        },
+        {
+          "timecode": "1:29:45",
+          "seconds": 5385,
+          "label": "Chapter 22"
+        },
+        {
+          "timecode": "1:38:02",
+          "seconds": 5882,
+          "label": "Chapter 24"
+        },
+        {
+          "timecode": "1:41:31",
+          "seconds": 6091,
+          "label": "Chapter 25"
+        }
+      ]
+    },
+    {
+      "id": "scourby-kjv-06-joshua",
+      "showId": "scourby-kjv",
+      "bookNum": 6,
+      "bookName": "Joshua",
+      "title": "Book 06 · Joshua",
+      "ytTitle": "6 | The Book of JOSHUA (KJV) Read By Alexander Scourby | AUDIO and TEXT | Synced Together.",
+      "testament": "OT",
+      "totalBookChapters": 24,
+      "youtubeId": "6Oza6-YNN4o",
+      "durationSec": 5817,
+      "coverUrl": "https://i.ytimg.com/vi/6Oza6-YNN4o/hqdefault.jpg",
+      "coverMaxUrl": "https://i.ytimg.com/vi/6Oza6-YNN4o/maxresdefault.jpg",
+      "synopsis": "A sweeping tale of conquest and covenant, the book of Joshua follows Israel’s bold journey into the Promised Land, revealing leadership, faith, and divine power shaping a new nation as battles unfold, promises are kept, and God’s guidance directs every step forward.",
+      "chapters": [
+        {
+          "timecode": "0:00",
+          "seconds": 0,
+          "label": "Joshua commissioned"
+        },
+        {
+          "timecode": "2:53",
+          "seconds": 173,
+          "label": "Spies and Rahab"
+        },
+        {
+          "timecode": "6:26",
+          "seconds": 386,
+          "label": "Crossing the Jordan"
+        },
+        {
+          "timecode": "9:13",
+          "seconds": 553,
+          "label": "Memorial stones"
+        },
+        {
+          "timecode": "12:43",
+          "seconds": 763,
+          "label": "Circumcision at Gilgal"
+        },
+        {
+          "timecode": "15:30",
+          "seconds": 930,
+          "label": "Fall of Jericho"
+        },
+        {
+          "timecode": "19:52",
+          "seconds": 1192,
+          "label": "Achan's sin"
+        },
+        {
+          "timecode": "24:41",
+          "seconds": 1481,
+          "label": "Conquest of Ai"
+        },
+        {
+          "timecode": "30:30",
+          "seconds": 1830,
+          "label": "Gibeonite deception"
+        },
+        {
+          "timecode": "34:34",
+          "seconds": 2074,
+          "label": "Southern campaign"
+        },
+        {
+          "timecode": "41:38",
+          "seconds": 2498,
+          "label": "Northern campaign"
+        },
+        {
+          "timecode": "45:14",
+          "seconds": 2714,
+          "label": "List of defeated kings"
+        },
+        {
+          "timecode": "47:32",
+          "seconds": 2852,
+          "label": "Division of the land"
+        },
+        {
+          "timecode": "51:57",
+          "seconds": 3117,
+          "label": "Caleb's inheritance"
+        },
+        {
+          "timecode": "54:20",
+          "seconds": 3260,
+          "label": "Judah's territory"
+        },
+        {
+          "timecode": "1:00:20",
+          "seconds": 3620,
+          "label": "Ephraim's territory"
+        },
+        {
+          "timecode": "1:01:40",
+          "seconds": 3700,
+          "label": "Manasseh's territory"
+        },
+        {
+          "timecode": "1:04:49",
+          "seconds": 3889,
+          "label": "Tabernacle at Shiloh"
+        },
+        {
+          "timecode": "1:08:46",
+          "seconds": 4126,
+          "label": "Final tribal allotments"
+        },
+        {
+          "timecode": "1:14:25",
+          "seconds": 4465,
+          "label": "Cities of refuge"
+        },
+        {
+          "timecode": "1:16:01",
+          "seconds": 4561,
+          "label": "Levitical cities"
+        },
+        {
+          "timecode": "1:21:13",
+          "seconds": 4873,
+          "label": "Eastern tribes return"
+        },
+        {
+          "timecode": "1:27:47",
+          "seconds": 5267,
+          "label": "Joshua's farewell"
+        },
+        {
+          "timecode": "1:30:47",
+          "seconds": 5447,
+          "label": "Covenant and death"
+        }
+      ]
+    },
+    {
+      "id": "scourby-kjv-07-judges",
+      "showId": "scourby-kjv",
+      "bookNum": 7,
+      "bookName": "Judges",
+      "title": "Book 07 · Judges",
+      "ytTitle": "7 | The Book of JUDGES (KJV) | Read By Alexander Scourby | AUDIO and TEXT | Synced Together.",
+      "testament": "OT",
+      "totalBookChapters": 21,
+      "youtubeId": "38wEZJfHhY8",
+      "durationSec": 5729,
+      "coverUrl": "https://i.ytimg.com/vi/38wEZJfHhY8/hqdefault.jpg",
+      "coverMaxUrl": "https://i.ytimg.com/vi/38wEZJfHhY8/maxresdefault.jpg",
+      "synopsis": "The book of Judges unfolds a turbulent era in Israel’s history, revealing cycles of rebellion, deliverance, and divine mercy as leaders rise to confront chaos, guiding a struggling nation through conflict, covenant, and the consequences of forgetting God’s calling",
+      "chapters": [
+        {
+          "timecode": "0:00",
+          "seconds": 0,
+          "label": "The conquest of Canaan"
+        },
+        {
+          "timecode": "5:14",
+          "seconds": 314,
+          "label": "The cycle of disobedience"
+        },
+        {
+          "timecode": "8:57",
+          "seconds": 537,
+          "label": "Early judges: Othniel to Ehud"
+        },
+        {
+          "timecode": "13:30",
+          "seconds": 810,
+          "label": "Deborah and Barak"
+        },
+        {
+          "timecode": "17:32",
+          "seconds": 1052,
+          "label": "The song of Deborah"
+        },
+        {
+          "timecode": "22:05",
+          "seconds": 1325,
+          "label": "Gideon's call and signs"
+        },
+        {
+          "timecode": "28:37",
+          "seconds": 1717,
+          "label": "Gideon's victory over Midian"
+        },
+        {
+          "timecode": "33:22",
+          "seconds": 2002,
+          "label": "Gideon's legacy and aftermath"
+        },
+        {
+          "timecode": "38:31",
+          "seconds": 2311,
+          "label": "The reign of Abimelech"
+        },
+        {
+          "timecode": "46:41",
+          "seconds": 2801,
+          "label": "Judges Tola and Jair"
+        },
+        {
+          "timecode": "49:05",
+          "seconds": 2945,
+          "label": "Jephthah and his vow"
+        },
+        {
+          "timecode": "55:15",
+          "seconds": 3315,
+          "label": "Minor judges and conflicts"
+        },
+        {
+          "timecode": "57:27",
+          "seconds": 3447,
+          "label": "The birth of Samson"
+        },
+        {
+          "timecode": "1:01:21",
+          "seconds": 3681,
+          "label": "Samson's early conflicts"
+        },
+        {
+          "timecode": "1:04:44",
+          "seconds": 3884,
+          "label": "Samson and the Philistines"
+        },
+        {
+          "timecode": "1:07:56",
+          "seconds": 4076,
+          "label": "Samson's betrayal and death"
+        },
+        {
+          "timecode": "1:13:14",
+          "seconds": 4394,
+          "label": "Micah's idol and the Danites"
+        },
+        {
+          "timecode": "1:19:41",
+          "seconds": 4781,
+          "label": "The outrage at Gibeah"
+        },
+        {
+          "timecode": "1:24:45",
+          "seconds": 5085,
+          "label": "Civil war against Benjamin"
+        },
+        {
+          "timecode": "1:31:27",
+          "seconds": 5487,
+          "label": "Restoring the tribe of Benjamin"
+        }
+      ]
+    },
+    {
+      "id": "scourby-kjv-08-ruth",
+      "showId": "scourby-kjv",
+      "bookNum": 8,
+      "bookName": "Ruth",
+      "title": "Book 08 · Ruth",
+      "ytTitle": "8 | The Book of RUTH (KJV) | Read By Alexander Scourby | AUDIO and TEXT | Synced Together.",
+      "testament": "OT",
+      "totalBookChapters": 4,
+      "youtubeId": "KzZFteHKudE",
+      "durationSec": 824,
+      "coverUrl": "https://i.ytimg.com/vi/KzZFteHKudE/hqdefault.jpg",
+      "coverMaxUrl": "https://i.ytimg.com/vi/KzZFteHKudE/maxresdefault.jpg",
+      "synopsis": "Ruth’s story unfolds with quiet strength as she journeys from loss to hope, guided by loyalty, faith, and divine providence, her path intertwining with Naomi and Boaz, revealing how steadfast love transforms ordinary lives and shapes the lineage leading to Israel’s future king.",
+      "chapters": [
+        {
+          "timecode": "0:00",
+          "seconds": 0,
+          "label": "Chapter 1"
+        },
+        {
+          "timecode": "3:29",
+          "seconds": 209,
+          "label": "chapter 2"
+        },
+        {
+          "timecode": "7:15",
+          "seconds": 435,
+          "label": "Chapter 3"
+        },
+        {
+          "timecode": "9:57",
+          "seconds": 597,
+          "label": "Chapter 4"
+        }
+      ]
+    },
+    {
+      "id": "scourby-kjv-09-1-samuel",
+      "showId": "scourby-kjv",
+      "bookNum": 9,
+      "bookName": "1 Samuel",
+      "title": "Book 09 · 1 Samuel",
+      "ytTitle": "9 | The Book of  1 SAMUEL, (KJV) | Read By Alexander Scourby | AUDIO and TEXT | Synced Together.",
+      "testament": "OT",
+      "totalBookChapters": 31,
+      "youtubeId": "9yiTuqhwbyM",
+      "durationSec": 8025,
+      "coverUrl": "https://i.ytimg.com/vi/9yiTuqhwbyM/hqdefault.jpg",
+      "coverMaxUrl": "https://i.ytimg.com/vi/9yiTuqhwbyM/maxresdefault.jpg",
+      "synopsis": "The book of 1 Samuel unfolds a powerful transition in Israel’s history, revealing Hannah’s prayer, Samuel’s calling, Saul’s rise and fall, and David’s anointing, guiding viewers through faith, leadership, and God’s unfolding purpose across a nation shaped by divine direction.",
+      "chapters": [
+        {
+          "timecode": "0:00",
+          "seconds": 0,
+          "label": "The story of Hannah"
+        },
+        {
+          "timecode": "4:14",
+          "seconds": 254,
+          "label": "Eli's sons and Samuel"
+        },
+        {
+          "timecode": "10:13",
+          "seconds": 613,
+          "label": "Samuel called as a prophet"
+        },
+        {
+          "timecode": "13:30",
+          "seconds": 810,
+          "label": "The ark is captured"
+        },
+        {
+          "timecode": "17:25",
+          "seconds": 1045,
+          "label": "The ark plagues Philistines"
+        },
+        {
+          "timecode": "19:39",
+          "seconds": 1179,
+          "label": "The ark is returned"
+        },
+        {
+          "timecode": "23:46",
+          "seconds": 1426,
+          "label": "Samuel judges Israel"
+        },
+        {
+          "timecode": "26:46",
+          "seconds": 1606,
+          "label": "Israel demands a king"
+        },
+        {
+          "timecode": "29:46",
+          "seconds": 1786,
+          "label": "Saul is chosen as king"
+        },
+        {
+          "timecode": "34:55",
+          "seconds": 2095,
+          "label": "Saul is publicly anointed"
+        },
+        {
+          "timecode": "39:47",
+          "seconds": 2387,
+          "label": "Saul defeats the Ammonites"
+        },
+        {
+          "timecode": "42:20",
+          "seconds": 2540,
+          "label": "Samuel's final address"
+        },
+        {
+          "timecode": "46:37",
+          "seconds": 2797,
+          "label": "Saul's disobedience"
+        },
+        {
+          "timecode": "50:17",
+          "seconds": 3017,
+          "label": "Jonathan defeats Philistines"
+        },
+        {
+          "timecode": "58:36",
+          "seconds": 3516,
+          "label": "Saul rejected as king"
+        },
+        {
+          "timecode": "1:04:20",
+          "seconds": 3860,
+          "label": "David is anointed"
+        },
+        {
+          "timecode": "1:08:06",
+          "seconds": 4086,
+          "label": "David kills Goliath"
+        },
+        {
+          "timecode": "1:16:42",
+          "seconds": 4602,
+          "label": "Saul's jealousy"
+        },
+        {
+          "timecode": "1:21:13",
+          "seconds": 4873,
+          "label": "David flees from Saul"
+        },
+        {
+          "timecode": "1:24:54",
+          "seconds": 5094,
+          "label": "Jonathan warns David"
+        },
+        {
+          "timecode": "1:27:55",
+          "seconds": 5275,
+          "label": "David flees to Gath"
+        },
+        {
+          "timecode": "1:31:40",
+          "seconds": 5500,
+          "label": "Priests killed at Nob"
+        },
+        {
+          "timecode": "1:37:55",
+          "seconds": 5875,
+          "label": "Saul pursues David"
+        },
+        {
+          "timecode": "1:42:22",
+          "seconds": 6142,
+          "label": "David spares Saul"
+        },
+        {
+          "timecode": "1:46:02",
+          "seconds": 6362,
+          "label": "David and Nabal"
+        },
+        {
+          "timecode": "1:53:08",
+          "seconds": 6788,
+          "label": "David spares Saul again"
+        },
+        {
+          "timecode": "2:00:08",
+          "seconds": 7208,
+          "label": "David in Philistia"
+        },
+        {
+          "timecode": "2:06:32",
+          "seconds": 7592,
+          "label": "David defeats Amalekites"
+        },
+        {
+          "timecode": "2:11:22",
+          "seconds": 7882,
+          "label": "Death of Saul and sons"
+        }
+      ]
+    },
+    {
+      "id": "scourby-kjv-10-2-samuel",
+      "showId": "scourby-kjv",
+      "bookNum": 10,
+      "bookName": "2 Samuel",
+      "title": "Book 10 · 2 Samuel",
+      "ytTitle": "10 | The Book of 2 SAMUEL (KJV) | Read By Alexander Scourby | AUDIO and TEXT | Synced Together.",
+      "testament": "OT",
+      "totalBookChapters": 24,
+      "youtubeId": "CnffHJCDZPM",
+      "durationSec": 6617,
+      "coverUrl": "https://i.ytimg.com/vi/CnffHJCDZPM/hqdefault.jpg",
+      "coverMaxUrl": "https://i.ytimg.com/vi/CnffHJCDZPM/maxresdefault.jpg",
+      "synopsis": "The Book of 2 Samuel continues Israel’s unfolding story, revealing David’s rise, triumphs, failures, and deep reliance on God as the nation transforms. This powerful narrative explores leadership, covenant, justice, and redemption, guiding readers through dramatic moments that shape biblical history. Our channel is dedicated to preserving The World’s Greatest Books, read by Alexander Scourby, who the Chicago Tribune praised as having The Greatest Voice Ever Recorded, and The World’s Best Audiobook Narrator, bar none. His 1611 King James Bible reading is a classic and brings every chapter of the 66 books to life with unmatched depth, authenticity, and reverence. Nothing repetitive, nothing artificial, only Scourby’s singular voice presenting the beauty of The Scriptures.",
+      "chapters": [
+        {
+          "timecode": "0:00",
+          "seconds": 0,
+          "label": "David mourns Saul and Jonathan"
+        },
+        {
+          "timecode": "2:15",
+          "seconds": 135,
+          "label": "David's lamentation"
+        },
+        {
+          "timecode": "3:58",
+          "seconds": 238,
+          "label": "Civil war begins"
+        },
+        {
+          "timecode": "8:56",
+          "seconds": 536,
+          "label": "Abner joins David"
+        },
+        {
+          "timecode": "13:37",
+          "seconds": 817,
+          "label": "David mourns Abner"
+        },
+        {
+          "timecode": "15:02",
+          "seconds": 902,
+          "label": "Ish-bosheth assassinated"
+        },
+        {
+          "timecode": "17:05",
+          "seconds": 1025,
+          "label": "David unites Israel"
+        },
+        {
+          "timecode": "20:33",
+          "seconds": 1233,
+          "label": "Ark brought to Jerusalem"
+        },
+        {
+          "timecode": "24:02",
+          "seconds": 1442,
+          "label": "The Davidic covenant"
+        },
+        {
+          "timecode": "29:00",
+          "seconds": 1740,
+          "label": "David's military victories"
+        },
+        {
+          "timecode": "31:34",
+          "seconds": 1894,
+          "label": "David's kindness to Mephibosheth"
+        },
+        {
+          "timecode": "33:48",
+          "seconds": 2028,
+          "label": "War against Ammon"
+        },
+        {
+          "timecode": "36:54",
+          "seconds": 2214,
+          "label": "David and Bathsheba"
+        },
+        {
+          "timecode": "41:13",
+          "seconds": 2473,
+          "label": "Nathan confronts David"
+        },
+        {
+          "timecode": "46:42",
+          "seconds": 2802,
+          "label": "Absalom murders Amnon"
+        },
+        {
+          "timecode": "52:39",
+          "seconds": 3159,
+          "label": "Absalom returns to Jerusalem"
+        },
+        {
+          "timecode": "58:27",
+          "seconds": 3507,
+          "label": "Absalom's rebellion"
+        },
+        {
+          "timecode": "1:04:24",
+          "seconds": 3864,
+          "label": "David flees Jerusalem"
+        },
+        {
+          "timecode": "1:08:22",
+          "seconds": 4102,
+          "label": "Hushai defeats Ahithophel"
+        },
+        {
+          "timecode": "1:13:12",
+          "seconds": 4392,
+          "label": "Death of Absalom"
+        },
+        {
+          "timecode": "1:19:08",
+          "seconds": 4748,
+          "label": "David returns"
+        },
+        {
+          "timecode": "1:26:41",
+          "seconds": 5201,
+          "label": "Sheba's revolt"
+        },
+        {
+          "timecode": "1:31:06",
+          "seconds": 5466,
+          "label": "Famine and war"
+        },
+        {
+          "timecode": "1:35:08",
+          "seconds": 5708,
+          "label": "David's song of praise"
+        },
+        {
+          "timecode": "1:40:38",
+          "seconds": 6038,
+          "label": "David's last words"
+        },
+        {
+          "timecode": "1:45:22",
+          "seconds": 6322,
+          "label": "David's census and plague"
+        }
+      ]
+    },
+    {
+      "id": "scourby-kjv-11-1-kings",
+      "showId": "scourby-kjv",
+      "bookNum": 11,
+      "bookName": "1 Kings",
+      "title": "Book 11 · 1 Kings",
+      "ytTitle": "11 | The Book of 1 KINGS (KJV) | Read By Alexander Scourby | AUDIO and TEXT | Synced Together.",
+      "testament": "OT",
+      "totalBookChapters": 22,
+      "youtubeId": "ZJyRYTvrGCg",
+      "durationSec": 7904,
+      "coverUrl": "https://i.ytimg.com/vi/ZJyRYTvrGCg/hqdefault.jpg",
+      "coverMaxUrl": "https://i.ytimg.com/vi/ZJyRYTvrGCg/maxresdefault.jpg",
+      "synopsis": "I Kings unfolds the rise and reign of Israel’s monarchs, revealing triumphs, failures, prophecy, and divine judgment as the nation seeks identity and direction. This narrative invites reflection on leadership, faith, and the enduring consequences of obedience, disobedience, and covenant purpose.",
+      "chapters": [
+        {
+          "timecode": "0:00",
+          "seconds": 0,
+          "label": "The decline of David"
+        },
+        {
+          "timecode": "1:08",
+          "seconds": 68,
+          "label": "Solomon anointed king"
+        },
+        {
+          "timecode": "4:23",
+          "seconds": 263,
+          "label": "Adonijah surrenders"
+        },
+        {
+          "timecode": "7:09",
+          "seconds": 429,
+          "label": "David's final charges"
+        },
+        {
+          "timecode": "9:57",
+          "seconds": 597,
+          "label": "Solomon secures the throne"
+        },
+        {
+          "timecode": "12:14",
+          "seconds": 734,
+          "label": "Eliminating threats"
+        },
+        {
+          "timecode": "16:05",
+          "seconds": 965,
+          "label": "Solomon's wisdom"
+        },
+        {
+          "timecode": "18:48",
+          "seconds": 1128,
+          "label": "The case of two mothers"
+        },
+        {
+          "timecode": "20:42",
+          "seconds": 1242,
+          "label": "Solomon's prosperity"
+        },
+        {
+          "timecode": "24:51",
+          "seconds": 1491,
+          "label": "Preparing the temple"
+        },
+        {
+          "timecode": "27:39",
+          "seconds": 1659,
+          "label": "Building the temple"
+        },
+        {
+          "timecode": "33:00",
+          "seconds": 1980,
+          "label": "The temple furnishings"
+        },
+        {
+          "timecode": "40:39",
+          "seconds": 2439,
+          "label": "Dedication of the temple"
+        },
+        {
+          "timecode": "52:55",
+          "seconds": 3175,
+          "label": "God's covenant"
+        },
+        {
+          "timecode": "57:26",
+          "seconds": 3446,
+          "label": "Queen of Sheba visits"
+        },
+        {
+          "timecode": "1:01:59",
+          "seconds": 3719,
+          "label": "Solomon's idolatry"
+        },
+        {
+          "timecode": "1:08:50",
+          "seconds": 4130,
+          "label": "The kingdom divides"
+        },
+        {
+          "timecode": "1:14:18",
+          "seconds": 4458,
+          "label": "Judah and Israel's sins"
+        },
+        {
+          "timecode": "1:19:55",
+          "seconds": 4795,
+          "label": "Judgment on Jeroboam"
+        },
+        {
+          "timecode": "1:25:05",
+          "seconds": 5105,
+          "label": "Kings of Judah and Israel"
+        },
+        {
+          "timecode": "1:29:44",
+          "seconds": 5384,
+          "label": "Ahab and Elijah"
+        },
+        {
+          "timecode": "1:35:02",
+          "seconds": 5702,
+          "label": "Elijah on Carmel"
+        },
+        {
+          "timecode": "1:41:35",
+          "seconds": 6095,
+          "label": "Elijah's victory"
+        },
+        {
+          "timecode": "1:46:29",
+          "seconds": 6389,
+          "label": "Elijah at Horeb"
+        },
+        {
+          "timecode": "1:50:39",
+          "seconds": 6639,
+          "label": "Ahab's final days"
+        }
+      ]
+    },
+    {
+      "id": "scourby-kjv-12-2-kings",
+      "showId": "scourby-kjv",
+      "bookNum": 12,
+      "bookName": "2 Kings",
+      "title": "Book 12 · 2 Kings",
+      "ytTitle": "12 | The Book of 2 KINGS (KJV) | Read By Alexander Scourby | AUDIO and TEXT | Synced Together.",
+      "testament": "OT",
+      "totalBookChapters": 25,
+      "youtubeId": "0w32hHs4CwY",
+      "durationSec": 7421,
+      "coverUrl": "https://i.ytimg.com/vi/0w32hHs4CwY/hqdefault.jpg",
+      "coverMaxUrl": "https://i.ytimg.com/vi/0w32hHs4CwY/maxresdefault.jpg",
+      "synopsis": "2 Kings unfolds a sweeping story of prophets, kings, judgment, and divine mercy, revealing Israel’s rise and fall while highlighting God’s unwavering presence. This narrative invites viewers to explore powerful moments of faith, consequence, and hope woven through every chapter of this biblical book today.",
+      "chapters": [
+        {
+          "timecode": "3:27",
+          "seconds": 207,
+          "label": "Chapter 2"
+        },
+        {
+          "timecode": "12:30",
+          "seconds": 750,
+          "label": "Chapter 4"
+        },
+        {
+          "timecode": "19:37",
+          "seconds": 1177,
+          "label": "Chapter Five"
+        },
+        {
+          "timecode": "24:52",
+          "seconds": 1492,
+          "label": "Chapter Six"
+        },
+        {
+          "timecode": "30:21",
+          "seconds": 1821,
+          "label": "Chapter 7"
+        },
+        {
+          "timecode": "58:54",
+          "seconds": 3534,
+          "label": "Chapter 13"
+        },
+        {
+          "timecode": "1:03:17",
+          "seconds": 3797,
+          "label": "Chapter 14"
+        },
+        {
+          "timecode": "1:13:29",
+          "seconds": 4409,
+          "label": "Chapter 16"
+        },
+        {
+          "timecode": "1:23:50",
+          "seconds": 5030,
+          "label": "Chapter 18"
+        },
+        {
+          "timecode": "1:36:54",
+          "seconds": 5814,
+          "label": "Chapter 20"
+        },
+        {
+          "timecode": "1:44:10",
+          "seconds": 6250,
+          "label": "Chapter 22"
+        }
+      ]
+    },
+    {
+      "id": "scourby-kjv-13-1-chronicles",
+      "showId": "scourby-kjv",
+      "bookNum": 13,
+      "bookName": "1 Chronicles",
+      "title": "Book 13 · 1 Chronicles",
+      "ytTitle": "13 | The Book of I CHRONICLES (KJV) | Read By Alexander Scourby | AUDIO and TEXT | Synced Together.",
+      "testament": "OT",
+      "totalBookChapters": 29,
+      "youtubeId": "5lw_e0hLH2U",
+      "durationSec": 6858,
+      "coverUrl": "https://i.ytimg.com/vi/5lw_e0hLH2U/hqdefault.jpg",
+      "coverMaxUrl": "https://i.ytimg.com/vi/5lw_e0hLH2U/maxresdefault.jpg",
+      "synopsis": "A sweeping narrative of lineage, devotion, and divine purpose, **I Chronicles** unfolds the heritage of Israel with vivid detail, guiding readers through generations shaped by covenant, courage, and faith. This introduction invites reflection on God’s enduring presence woven through every recorded moment.",
+      "chapters": [
+        {
+          "timecode": "12:27",
+          "seconds": 747,
+          "label": "Chapter Four the Sons of Judah"
+        },
+        {
+          "timecode": "17:44",
+          "seconds": 1064,
+          "label": "Chapter Five Now the Sons of Reuben the Firstborn of Israel"
+        },
+        {
+          "timecode": "36:44",
+          "seconds": 2204,
+          "label": "Chapter Nine"
+        },
+        {
+          "timecode": "43:57",
+          "seconds": 2637,
+          "label": "Chapter 11"
+        },
+        {
+          "timecode": "49:09",
+          "seconds": 2949,
+          "label": "Chapter 12"
+        },
+        {
+          "timecode": "56:11",
+          "seconds": 3371,
+          "label": "Chapter 14"
+        },
+        {
+          "timecode": "58:08",
+          "seconds": 3488,
+          "label": "Chapter 15"
+        },
+        {
+          "timecode": "1:02:04",
+          "seconds": 3724,
+          "label": "Chapter 16"
+        },
+        {
+          "timecode": "1:06:55",
+          "seconds": 4015,
+          "label": "Chapter 17"
+        },
+        {
+          "timecode": "1:11:16",
+          "seconds": 4276,
+          "label": "Chapter 18"
+        },
+        {
+          "timecode": "1:13:33",
+          "seconds": 4413,
+          "label": "Chapter 19"
+        },
+        {
+          "timecode": "1:16:40",
+          "seconds": 4600,
+          "label": "Chapter 20"
+        },
+        {
+          "timecode": "1:18:02",
+          "seconds": 4682,
+          "label": "Chapter 21"
+        },
+        {
+          "timecode": "1:22:44",
+          "seconds": 4964,
+          "label": "Chapter 22"
+        },
+        {
+          "timecode": "1:25:55",
+          "seconds": 5155,
+          "label": "Chapter 23"
+        },
+        {
+          "timecode": "1:27:30",
+          "seconds": 5250,
+          "label": "Sons of Moses"
+        },
+        {
+          "timecode": "1:29:32",
+          "seconds": 5372,
+          "label": "Chapter 24"
+        },
+        {
+          "timecode": "1:39:48",
+          "seconds": 5988,
+          "label": "Chapter 27"
+        },
+        {
+          "timecode": "1:48:23",
+          "seconds": 6503,
+          "label": "Chapter 29"
+        }
+      ]
+    },
+    {
+      "id": "scourby-kjv-14-2-chronicles",
+      "showId": "scourby-kjv",
+      "bookNum": 14,
+      "bookName": "2 Chronicles",
+      "title": "Book 14 · 2 Chronicles",
+      "ytTitle": "14 | The Book of 2 CHRONICLES (KJV) | Read By Alexander Scourby | AUDIO and TEXT | Synced Together.",
+      "testament": "OT",
+      "totalBookChapters": 36,
+      "youtubeId": "bWpL1q45VqY",
+      "durationSec": 8256,
+      "coverUrl": "https://i.ytimg.com/vi/bWpL1q45VqY/hqdefault.jpg",
+      "coverMaxUrl": "https://i.ytimg.com/vi/bWpL1q45VqY/maxresdefault.jpg",
+      "synopsis": "A sweeping account of Judah’s kings, 2 Chronicles highlights Solomon’s temple, national worship, covenant loyalty, prophetic warnings, repeated reforms, pride and decline, God’s mercy, eventual exile, and yet hope remains through restoration.",
+      "chapters": [
+        {
+          "timecode": "0:00",
+          "seconds": 0,
+          "label": "Solomon's reign begins"
+        },
+        {
+          "timecode": "3:00",
+          "seconds": 180,
+          "label": "Temple preparations"
+        },
+        {
+          "timecode": "6:18",
+          "seconds": 378,
+          "label": "Building the Temple"
+        },
+        {
+          "timecode": "8:54",
+          "seconds": 534,
+          "label": "Temple furnishings"
+        },
+        {
+          "timecode": "12:02",
+          "seconds": 722,
+          "label": "Dedication of the Temple"
+        },
+        {
+          "timecode": "14:34",
+          "seconds": 874,
+          "label": "Solomon's prayer"
+        },
+        {
+          "timecode": "22:29",
+          "seconds": 1349,
+          "label": "Dedication and promise"
+        },
+        {
+          "timecode": "26:33",
+          "seconds": 1593,
+          "label": "Solomon's accomplishments"
+        },
+        {
+          "timecode": "29:15",
+          "seconds": 1755,
+          "label": "Queen of Sheba"
+        },
+        {
+          "timecode": "33:55",
+          "seconds": 2035,
+          "label": "The kingdom divides"
+        },
+        {
+          "timecode": "36:50",
+          "seconds": 2210,
+          "label": "Rehoboam's reign"
+        },
+        {
+          "timecode": "39:35",
+          "seconds": 2375,
+          "label": "Shishak's invasion"
+        },
+        {
+          "timecode": "42:17",
+          "seconds": 2537,
+          "label": "Abijah's war"
+        },
+        {
+          "timecode": "45:53",
+          "seconds": 2753,
+          "label": "Asa's reforms"
+        },
+        {
+          "timecode": "48:16",
+          "seconds": 2896,
+          "label": "Asa's covenant"
+        },
+        {
+          "timecode": "50:54",
+          "seconds": 3054,
+          "label": "Asa's later years"
+        },
+        {
+          "timecode": "53:29",
+          "seconds": 3209,
+          "label": "Jehoshaphat's reign"
+        },
+        {
+          "timecode": "56:02",
+          "seconds": 3362,
+          "label": "Alliance with Ahab"
+        },
+        {
+          "timecode": "1:01:26",
+          "seconds": 3686,
+          "label": "Rebuke and reforms"
+        },
+        {
+          "timecode": "1:03:19",
+          "seconds": 3799,
+          "label": "Victory through prayer"
+        },
+        {
+          "timecode": "1:09:31",
+          "seconds": 4171,
+          "label": "Jehoram's wicked reign"
+        },
+        {
+          "timecode": "1:12:48",
+          "seconds": 4368,
+          "label": "Ahaziah's reign"
+        },
+        {
+          "timecode": "1:15:03",
+          "seconds": 4503,
+          "label": "Joash becomes king"
+        },
+        {
+          "timecode": "1:18:49",
+          "seconds": 4729,
+          "label": "Joash's reign and fall"
+        },
+        {
+          "timecode": "1:23:19",
+          "seconds": 4999,
+          "label": "Amaziah's reign"
+        },
+        {
+          "timecode": "1:26:11",
+          "seconds": 5171,
+          "label": "Conspiracy against Amaziah"
+        },
+        {
+          "timecode": "1:28:21",
+          "seconds": 5301,
+          "label": "Uzziah's success and sin"
+        },
+        {
+          "timecode": "1:32:08",
+          "seconds": 5528,
+          "label": "Jotham's righteous reign"
+        },
+        {
+          "timecode": "1:33:25",
+          "seconds": 5605,
+          "label": "Ahaz's idolatry"
+        },
+        {
+          "timecode": "1:38:11",
+          "seconds": 5891,
+          "label": "Hezekiah's reforms"
+        },
+        {
+          "timecode": "1:44:13",
+          "seconds": 6253,
+          "label": "The Passover kept"
+        },
+        {
+          "timecode": "1:52:52",
+          "seconds": 6772,
+          "label": "Sennacherib's invasion"
+        },
+        {
+          "timecode": "1:58:39",
+          "seconds": 7119,
+          "label": "Manasseh's sin and repentance"
+        },
+        {
+          "timecode": "2:02:00",
+          "seconds": 7320,
+          "label": "Amon's wicked reign"
+        },
+        {
+          "timecode": "2:02:48",
+          "seconds": 7368,
+          "label": "Josiah's reforms"
+        },
+        {
+          "timecode": "2:08:41",
+          "seconds": 7721,
+          "label": "Josiah's Passover and death"
+        },
+        {
+          "timecode": "2:13:13",
+          "seconds": 7993,
+          "label": "Fall of Jerusalem"
+        }
+      ]
+    },
+    {
+      "id": "scourby-kjv-15-ezra",
+      "showId": "scourby-kjv",
+      "bookNum": 15,
+      "bookName": "Ezra",
+      "title": "Book 15 · Ezra",
+      "ytTitle": "15 | The Book EZRA (KJV) | Read By Alexander Scourby | AUDIO and TEXT | Synced Together.",
+      "testament": "OT",
+      "totalBookChapters": 10,
+      "youtubeId": "3McAVeaPZhw",
+      "durationSec": 2386,
+      "coverUrl": "https://i.ytimg.com/vi/3McAVeaPZhw/hqdefault.jpg",
+      "coverMaxUrl": "https://i.ytimg.com/vi/3McAVeaPZhw/maxresdefault.jpg",
+      "synopsis": "The Book EZRA is about the restoration begining in Persia. Cyrus decrees return, exiles rebuild the altar, opposition rises, the temple halts then resumes. Ezra arrives, teaches the law, confronts sin, renews covenant faithfulness, restoring worship and identity.",
+      "chapters": [
+        {
+          "timecode": "0:00",
+          "seconds": 0,
+          "label": "The decree of Cyrus"
+        },
+        {
+          "timecode": "1:53",
+          "seconds": 113,
+          "label": "Returning exiles"
+        },
+        {
+          "timecode": "7:19",
+          "seconds": 439,
+          "label": "Restoring worship"
+        },
+        {
+          "timecode": "10:03",
+          "seconds": 603,
+          "label": "Opposition to building"
+        },
+        {
+          "timecode": "13:57",
+          "seconds": 837,
+          "label": "Work resumes under Darius"
+        },
+        {
+          "timecode": "16:38",
+          "seconds": 998,
+          "label": "Temple dedication"
+        },
+        {
+          "timecode": "20:34",
+          "seconds": 1234,
+          "label": "Ezra's mission"
+        },
+        {
+          "timecode": "24:49",
+          "seconds": 1489,
+          "label": "The journey to Jerusalem"
+        },
+        {
+          "timecode": "30:08",
+          "seconds": 1808,
+          "label": "Ezra's confession"
+        },
+        {
+          "timecode": "33:49",
+          "seconds": 2029,
+          "label": "Covenant to reform"
+        }
+      ]
+    },
+    {
+      "id": "scourby-kjv-16-nehemiah",
+      "showId": "scourby-kjv",
+      "bookNum": 16,
+      "bookName": "Nehemiah",
+      "title": "Book 16 · Nehemiah",
+      "ytTitle": "16 | The Book of NEHEMIAH (KJV) | Read By Alexander Scourby | AUDIO and TEXT | Synced Together.",
+      "testament": "OT",
+      "totalBookChapters": 13,
+      "youtubeId": "nnbAsyF3LfA",
+      "durationSec": 3497,
+      "coverUrl": "https://i.ytimg.com/vi/nnbAsyF3LfA/hqdefault.jpg",
+      "coverMaxUrl": "https://i.ytimg.com/vi/nnbAsyF3LfA/maxresdefault.jpg",
+      "synopsis": "A stirring journey unfolds as Nehemiah rises with unwavering faith, rebuilding Jerusalem’s walls amid opposition, prayer, and perseverance, revealing God’s guidance, covenant purpose, and restoration power, inviting every listener to witness courage, devotion, and divine strength shaping a nation’s renewal.",
+      "chapters": [
+        {
+          "timecode": "0:00",
+          "seconds": 0,
+          "label": "Nehemiah's burden and prayer"
+        },
+        {
+          "timecode": "2:05",
+          "seconds": 125,
+          "label": "Return and rebuild the walls"
+        },
+        {
+          "timecode": "5:41",
+          "seconds": 341,
+          "label": "Work assignments on the wall"
+        },
+        {
+          "timecode": "10:50",
+          "seconds": 650,
+          "label": "Overcoming opposition"
+        },
+        {
+          "timecode": "14:26",
+          "seconds": 866,
+          "label": "Social and economic reform"
+        },
+        {
+          "timecode": "17:48",
+          "seconds": 1068,
+          "label": "Completion of the wall"
+        },
+        {
+          "timecode": "20:54",
+          "seconds": 1254,
+          "label": "Census and community records"
+        },
+        {
+          "timecode": "27:21",
+          "seconds": 1641,
+          "label": "Ezra reads the law"
+        },
+        {
+          "timecode": "31:14",
+          "seconds": 1874,
+          "label": "Corporate confession"
+        },
+        {
+          "timecode": "39:06",
+          "seconds": 2346,
+          "label": "The covenant agreement"
+        },
+        {
+          "timecode": "42:59",
+          "seconds": 2579,
+          "label": "Resettling Jerusalem"
+        },
+        {
+          "timecode": "47:24",
+          "seconds": 2844,
+          "label": "Dedication of the wall"
+        },
+        {
+          "timecode": "52:56",
+          "seconds": 3176,
+          "label": "Final reforms and purification"
+        }
+      ]
+    },
+    {
+      "id": "scourby-kjv-17-esther",
+      "showId": "scourby-kjv",
+      "bookNum": 17,
+      "bookName": "Esther",
+      "title": "Book 17 · Esther",
+      "ytTitle": "17 | The Book ESTHER (KJV) | Read By Alexander Scourby | AUDIO and TEXT | Synced Together.",
+      "testament": "OT",
+      "totalBookChapters": 10,
+      "youtubeId": "WVtz1yaj1AU",
+      "durationSec": 1775,
+      "coverUrl": "https://i.ytimg.com/vi/WVtz1yaj1AU/hqdefault.jpg",
+      "coverMaxUrl": "https://i.ytimg.com/vi/WVtz1yaj1AU/maxresdefault.jpg",
+      "synopsis": "A timeless story unfolds as Esther rises with courage, faith, and purpose, guiding viewers through a powerful journey of destiny, devotion, and divine protection, inviting every listener to experience the beauty, strength, and enduring hope found within the King James Bible’s Book of Esther.",
+      "chapters": [
+        {
+          "timecode": "0:00",
+          "seconds": 0,
+          "label": "Chapter 1"
+        },
+        {
+          "timecode": "3:42",
+          "seconds": 222,
+          "label": "Chapter 2"
+        },
+        {
+          "timecode": "7:54",
+          "seconds": 474,
+          "label": "Chapter 3"
+        },
+        {
+          "timecode": "10:47",
+          "seconds": 647,
+          "label": "Chapter 4"
+        },
+        {
+          "timecode": "13:34",
+          "seconds": 814,
+          "label": "Chapter 5"
+        },
+        {
+          "timecode": "16:05",
+          "seconds": 965,
+          "label": "Chapter 6"
+        },
+        {
+          "timecode": "18:29",
+          "seconds": 1109,
+          "label": "Chapter 7"
+        },
+        {
+          "timecode": "20:16",
+          "seconds": 1216,
+          "label": "Chapter 8"
+        },
+        {
+          "timecode": "23:30",
+          "seconds": 1410,
+          "label": "Chapter 9"
+        }
+      ]
+    },
+    {
+      "id": "scourby-kjv-18-job",
+      "showId": "scourby-kjv",
+      "bookNum": 18,
+      "bookName": "Job",
+      "title": "Book 18 · Job",
+      "ytTitle": "18 | The Book of JOB (KJV) | Read By Alexander Scourby | AUDIO and TEXT | Synced Together.",
+      "testament": "OT",
+      "totalBookChapters": 42,
+      "youtubeId": "3xjKCAPjxpg",
+      "durationSec": 6313,
+      "coverUrl": "https://i.ytimg.com/vi/3xjKCAPjxpg/hqdefault.jpg",
+      "coverMaxUrl": "https://i.ytimg.com/vi/3xjKCAPjxpg/maxresdefault.jpg",
+      "synopsis": "Job endures devastating loss, wrestles with suffering, challenges his friends’ assumptions, seeks answers from God, encounters divine power, recognizes human limitation, repents humbly, receives restored blessings, gains deeper understanding, reveals God’s sovereignty, highlights faith under trial, shows divine justice, inspires enduring trust.",
+      "chapters": [
+        {
+          "timecode": "0:00",
+          "seconds": 0,
+          "label": "Job's testing"
+        },
+        {
+          "timecode": "3:33",
+          "seconds": 213,
+          "label": "Friends arrive"
+        },
+        {
+          "timecode": "5:41",
+          "seconds": 341,
+          "label": "Job's complaint and Eliphaz"
+        },
+        {
+          "timecode": "9:20",
+          "seconds": 560,
+          "label": "Debate with Eliphaz"
+        },
+        {
+          "timecode": "12:44",
+          "seconds": 764,
+          "label": "Job's reply and despair"
+        },
+        {
+          "timecode": "15:31",
+          "seconds": 931,
+          "label": "Debate with Bildad"
+        },
+        {
+          "timecode": "17:46",
+          "seconds": 1066,
+          "label": "Job's reply to Bildad"
+        },
+        {
+          "timecode": "19:46",
+          "seconds": 1186,
+          "label": "Job's complaint to God"
+        },
+        {
+          "timecode": "23:02",
+          "seconds": 1382,
+          "label": "Debate with Zophar"
+        },
+        {
+          "timecode": "25:23",
+          "seconds": 1523,
+          "label": "Job's reply to Zophar"
+        },
+        {
+          "timecode": "27:16",
+          "seconds": 1636,
+          "label": "Job's confidence in God"
+        },
+        {
+          "timecode": "29:38",
+          "seconds": 1778,
+          "label": "Job calls for justice"
+        },
+        {
+          "timecode": "31:57",
+          "seconds": 1917,
+          "label": "Job's plea for mercy"
+        },
+        {
+          "timecode": "34:30",
+          "seconds": 2070,
+          "label": "Eliphaz's second speech"
+        },
+        {
+          "timecode": "37:31",
+          "seconds": 2251,
+          "label": "Job's defense"
+        },
+        {
+          "timecode": "39:42",
+          "seconds": 2382,
+          "label": "Bildad's second speech"
+        },
+        {
+          "timecode": "42:58",
+          "seconds": 2578,
+          "label": "Job's reply and Zophar's reply"
+        },
+        {
+          "timecode": "45:47",
+          "seconds": 2747,
+          "label": "Job argues with friends"
+        },
+        {
+          "timecode": "48:22",
+          "seconds": 2902,
+          "label": "Eliphaz's third speech"
+        },
+        {
+          "timecode": "51:14",
+          "seconds": 3074,
+          "label": "Job seeks God's presence"
+        },
+        {
+          "timecode": "54:04",
+          "seconds": 3244,
+          "label": "Job's complaint of injustice"
+        },
+        {
+          "timecode": "55:46",
+          "seconds": 3346,
+          "label": "Bildad's third speech"
+        },
+        {
+          "timecode": "58:43",
+          "seconds": 3523,
+          "label": "Job's closing defense"
+        },
+        {
+          "timecode": "1:00:33",
+          "seconds": 3633,
+          "label": "Wisdom and Job's legacy"
+        },
+        {
+          "timecode": "1:02:39",
+          "seconds": 3759,
+          "label": "Job's suffering and righteousness"
+        },
+        {
+          "timecode": "1:05:11",
+          "seconds": 3911,
+          "label": "Elihu's speech"
+        },
+        {
+          "timecode": "1:07:28",
+          "seconds": 4048,
+          "label": "Elihu defends God's justice"
+        },
+        {
+          "timecode": "1:10:29",
+          "seconds": 4229,
+          "label": "Elihu emphasizes God's power"
+        },
+        {
+          "timecode": "1:14:08",
+          "seconds": 4448,
+          "label": "God answers Job"
+        },
+        {
+          "timecode": "1:19:04",
+          "seconds": 4744,
+          "label": "God displays His power"
+        },
+        {
+          "timecode": "1:22:32",
+          "seconds": 4952,
+          "label": "Job's repentance"
+        },
+        {
+          "timecode": "1:25:24",
+          "seconds": 5124,
+          "label": "God rebukes the friends"
+        },
+        {
+          "timecode": "1:29:17",
+          "seconds": 5357,
+          "label": "Restoration of Job"
+        }
+      ]
+    },
+    {
+      "id": "scourby-kjv-19-psalms",
+      "showId": "scourby-kjv",
+      "bookNum": 19,
+      "bookName": "Psalms",
+      "title": "Book 19 · Psalms",
+      "ytTitle": "19 | The Book PSALMS (KJV) | Read By Alexander Scourby | AUDIO and TEXT | Synced Together.",
+      "testament": "OT",
+      "totalBookChapters": 150,
+      "youtubeId": "YeKppPL-Emo",
+      "durationSec": 15814,
+      "coverUrl": "https://i.ytimg.com/vi/YeKppPL-Emo/hqdefault.jpg",
+      "coverMaxUrl": "https://i.ytimg.com/vi/YeKppPL-Emo/maxresdefault.jpg",
+      "synopsis": "Psalm highlights praise, lament, trust, and God’s kingship. Across its 150 songs, believers cry out in distress, celebrate God’s deliverance, confess sin, and proclaim His sovereignty. David’s prayers, Israel’s worship, and hope in God’s eternal reign shape its core message: every human emotion can be brought honestly before the Lord.",
+      "chapters": [
+        {
+          "timecode": "0:00",
+          "seconds": 0,
+          "label": "Psalm 1-10"
+        },
+        {
+          "timecode": "13:16",
+          "seconds": 796,
+          "label": "Psalm  11-20"
+        },
+        {
+          "timecode": "28:20",
+          "seconds": 1700,
+          "label": "Psalm  21-30"
+        },
+        {
+          "timecode": "43:36",
+          "seconds": 2616,
+          "label": "Psalm  31-40"
+        },
+        {
+          "timecode": "1:06:38",
+          "seconds": 3998,
+          "label": "Psalm  41-50"
+        },
+        {
+          "timecode": "1:23:29",
+          "seconds": 5009,
+          "label": "Psalm  51-60"
+        },
+        {
+          "timecode": "1:38:38",
+          "seconds": 5918,
+          "label": "Psalm  61-70"
+        },
+        {
+          "timecode": "1:56:40",
+          "seconds": 7000,
+          "label": "Psalm  71-80"
+        },
+        {
+          "timecode": "2:23:03",
+          "seconds": 8583,
+          "label": "Psalm  81-90"
+        },
+        {
+          "timecode": "2:41:45",
+          "seconds": 9705,
+          "label": "Psalm  91-100"
+        },
+        {
+          "timecode": "2:53:58",
+          "seconds": 10438,
+          "label": "Psalm  101-110"
+        },
+        {
+          "timecode": "3:21:37",
+          "seconds": 12097,
+          "label": "Psalm  111-120"
+        },
+        {
+          "timecode": "3:48:16",
+          "seconds": 13696,
+          "label": "Psalm  121-130"
+        },
+        {
+          "timecode": "3:55:33",
+          "seconds": 14133,
+          "label": "Psalm  131-140"
+        },
+        {
+          "timecode": "4:09:01",
+          "seconds": 14941,
+          "label": "Psalm  141-150"
+        },
+        {
+          "timecode": "28:20",
+          "seconds": 1700,
+          "label": "Psalm  21"
+        },
+        {
+          "timecode": "38:03",
+          "seconds": 2283,
+          "label": "Psalm  27"
+        },
+        {
+          "timecode": "2:41:45",
+          "seconds": 9705,
+          "label": "Psalm  91"
+        },
+        {
+          "timecode": "2:53:24",
+          "seconds": 10404,
+          "label": "Psalm  100"
+        },
+        {
+          "timecode": "4:05:00",
+          "seconds": 14700,
+          "label": "Psalm 139"
+        }
+      ]
+    },
+    {
+      "id": "scourby-kjv-20-proverbs",
+      "showId": "scourby-kjv",
+      "bookNum": 20,
+      "bookName": "Proverbs",
+      "title": "Book 20 · Proverbs",
+      "ytTitle": "20 | The Book of PROVERBS (KJV) | Read By Alexander Scourby | AUDIO and TEXT | Synced Together.",
+      "testament": "OT",
+      "totalBookChapters": 31,
+      "youtubeId": "lMLCM9ULM14",
+      "durationSec": 5920,
+      "coverUrl": "https://i.ytimg.com/vi/lMLCM9ULM14/hqdefault.jpg",
+      "coverMaxUrl": "https://i.ytimg.com/vi/lMLCM9ULM14/maxresdefault.jpg",
+      "synopsis": "A timeless journey unfolds through the sacred wisdom of Proverbs, guiding hearts toward understanding, virtue, and spiritual clarity, this video invites you to explore the enduring teachings of the King James Bible, offering insight, reflection, and strength for every step of life’s path.",
+      "chapters": [
+        {
+          "timecode": "0:00",
+          "seconds": 0,
+          "label": "Introduction to Wisdom"
+        },
+        {
+          "timecode": "3:27",
+          "seconds": 207,
+          "label": "Value of Wisdom"
+        },
+        {
+          "timecode": "5:31",
+          "seconds": 331,
+          "label": "Trust and Discipline"
+        },
+        {
+          "timecode": "8:51",
+          "seconds": 531,
+          "label": "Guard Your Heart"
+        },
+        {
+          "timecode": "11:31",
+          "seconds": 691,
+          "label": "Avoid Immorality"
+        },
+        {
+          "timecode": "13:54",
+          "seconds": 834,
+          "label": "Warnings for Life"
+        },
+        {
+          "timecode": "17:29",
+          "seconds": 1049,
+          "label": "The Adulterous Woman"
+        },
+        {
+          "timecode": "19:59",
+          "seconds": 1199,
+          "label": "Wisdom's Call"
+        },
+        {
+          "timecode": "23:46",
+          "seconds": 1426,
+          "label": "Wisdom vs. Folly"
+        },
+        {
+          "timecode": "25:47",
+          "seconds": 1547,
+          "label": "Proverbs of Solomon"
+        },
+        {
+          "timecode": "29:17",
+          "seconds": 1757,
+          "label": "Integrity and Wealth"
+        },
+        {
+          "timecode": "32:52",
+          "seconds": 1972,
+          "label": "Speech and Conduct"
+        },
+        {
+          "timecode": "35:57",
+          "seconds": 2157,
+          "label": "Instruction and Diligence"
+        },
+        {
+          "timecode": "38:42",
+          "seconds": 2322,
+          "label": "Prudence and Righteousness"
+        },
+        {
+          "timecode": "42:24",
+          "seconds": 2544,
+          "label": "Words and Humility"
+        },
+        {
+          "timecode": "45:45",
+          "seconds": 2745,
+          "label": "Sovereignty and Advice"
+        },
+        {
+          "timecode": "49:09",
+          "seconds": 2949,
+          "label": "Friendship and Conflict"
+        },
+        {
+          "timecode": "52:23",
+          "seconds": 3143,
+          "label": "Speech and Trust"
+        },
+        {
+          "timecode": "55:01",
+          "seconds": 3301,
+          "label": "Wisdom in Action"
+        },
+        {
+          "timecode": "58:20",
+          "seconds": 3500,
+          "label": "Conduct and Caution"
+        },
+        {
+          "timecode": "1:01:37",
+          "seconds": 3697,
+          "label": "King and Commoner"
+        },
+        {
+          "timecode": "1:05:03",
+          "seconds": 3903,
+          "label": "Reputation and Training"
+        },
+        {
+          "timecode": "1:08:02",
+          "seconds": 4082,
+          "label": "Diligence and Excess"
+        },
+        {
+          "timecode": "1:11:38",
+          "seconds": 4298,
+          "label": "Wisdom and Industry"
+        },
+        {
+          "timecode": "1:15:20",
+          "seconds": 4520,
+          "label": "Proverbs of Hezekiah"
+        },
+        {
+          "timecode": "1:18:46",
+          "seconds": 4726,
+          "label": "Folly and Strife"
+        },
+        {
+          "timecode": "1:21:44",
+          "seconds": 4904,
+          "label": "Friendship and Care"
+        },
+        {
+          "timecode": "1:24:55",
+          "seconds": 5095,
+          "label": "Justice and Leadership"
+        },
+        {
+          "timecode": "1:28:22",
+          "seconds": 5302,
+          "label": "Discipline and Order"
+        },
+        {
+          "timecode": "1:31:16",
+          "seconds": 5476,
+          "label": "Words of Agur"
+        },
+        {
+          "timecode": "1:35:19",
+          "seconds": 5719,
+          "label": "Words of Lemuel"
+        }
+      ]
+    },
+    {
+      "id": "scourby-kjv-21-ecclesiastes",
+      "showId": "scourby-kjv",
+      "bookNum": 21,
+      "bookName": "Ecclesiastes",
+      "title": "Book 21 · Ecclesiastes",
+      "ytTitle": "21 | The Book ECCLESIASTES (KJV) | Read By Alexander Scourby | AUDIO and TEXT | Synced Together.",
+      "testament": "OT",
+      "totalBookChapters": 12,
+      "youtubeId": "4me89GgHM6Y",
+      "durationSec": 2058,
+      "coverUrl": "https://i.ytimg.com/vi/4me89GgHM6Y/hqdefault.jpg",
+      "coverMaxUrl": "https://i.ytimg.com/vi/4me89GgHM6Y/maxresdefault.jpg",
+      "synopsis": "Ecclesiastes invites viewers into a reflective journey through time, revealing the wisdom of Solomon as he contemplates life’s purpose, human striving, and the search for meaning, this King James Bible reading offers a timeless meditation on existence, guiding hearts toward deeper understanding.",
+      "chapters": [
+        {
+          "timecode": "0:00",
+          "seconds": 0,
+          "label": "The vanity of wisdom"
+        },
+        {
+          "timecode": "2:24",
+          "seconds": 144,
+          "label": "The vanity of pleasure"
+        },
+        {
+          "timecode": "6:58",
+          "seconds": 418,
+          "label": "A time for all things"
+        },
+        {
+          "timecode": "10:12",
+          "seconds": 612,
+          "label": "Oppression and companionship"
+        },
+        {
+          "timecode": "12:39",
+          "seconds": 759,
+          "label": "Fear God and enjoy life"
+        },
+        {
+          "timecode": "15:43",
+          "seconds": 943,
+          "label": "Inequality in life"
+        },
+        {
+          "timecode": "17:28",
+          "seconds": 1048,
+          "label": "Wisdom over folly"
+        },
+        {
+          "timecode": "21:15",
+          "seconds": 1275,
+          "label": "Righteousness and injustice"
+        },
+        {
+          "timecode": "24:04",
+          "seconds": 1444,
+          "label": "The common fate of man"
+        },
+        {
+          "timecode": "27:28",
+          "seconds": 1648,
+          "label": "Wisdom and governance"
+        },
+        {
+          "timecode": "29:54",
+          "seconds": 1794,
+          "label": "Admonitions for the young"
+        },
+        {
+          "timecode": "31:29",
+          "seconds": 1889,
+          "label": "Conclusion of the matter"
+        }
+      ]
+    },
+    {
+      "id": "scourby-kjv-22-song-of-solomon",
+      "showId": "scourby-kjv",
+      "bookNum": 22,
+      "bookName": "Song of Solomon",
+      "title": "Book 22 · Song of Solomon",
+      "ytTitle": "22 | The Book SONG OF SOLOMON (KJV) | Read By Alexander Scourby | AUDIO and TEXT | Synced Together.",
+      "testament": "OT",
+      "totalBookChapters": 8,
+      "youtubeId": "hsIQO6Ctzg8",
+      "durationSec": 963,
+      "coverUrl": "https://i.ytimg.com/vi/hsIQO6Ctzg8/hqdefault.jpg",
+      "coverMaxUrl": "https://i.ytimg.com/vi/hsIQO6Ctzg8/maxresdefault.jpg",
+      "synopsis": "Song of Solomon celebrates devoted love, mutual desire, beauty praised, intimate longing, joyful union, seasonal imagery, faithful commitment, romantic pursuit, celebrated marriage, enduring love.",
+      "chapters": [
+        {
+          "timecode": "0:02",
+          "seconds": 2,
+          "label": "Chapter 1"
+        },
+        {
+          "timecode": "1:58",
+          "seconds": 118,
+          "label": "chapter 2"
+        },
+        {
+          "timecode": "4:01",
+          "seconds": 241,
+          "label": "Chapter 3"
+        },
+        {
+          "timecode": "5:35",
+          "seconds": 335,
+          "label": "Chapter 4"
+        },
+        {
+          "timecode": "7:53",
+          "seconds": 473,
+          "label": "Chapter 5"
+        },
+        {
+          "timecode": "10:16",
+          "seconds": 616,
+          "label": "Chapter 6"
+        },
+        {
+          "timecode": "11:57",
+          "seconds": 717,
+          "label": "Chapter 7"
+        },
+        {
+          "timecode": "13:36",
+          "seconds": 816,
+          "label": "Chapter 8"
+        }
+      ]
+    },
+    {
+      "id": "scourby-kjv-23-isaiah",
+      "showId": "scourby-kjv",
+      "bookNum": 23,
+      "bookName": "Isaiah",
+      "title": "Book 23 · Isaiah",
+      "ytTitle": "23 | The Book of ISAIAH (KJV) | Read By Alexander Scourby | AUDIO and TEXT | Synced Together.",
+      "testament": "OT",
+      "totalBookChapters": 66,
+      "youtubeId": "XyFpmO3IMHM",
+      "durationSec": 13016,
+      "coverUrl": "https://i.ytimg.com/vi/XyFpmO3IMHM/hqdefault.jpg",
+      "coverMaxUrl": "https://i.ytimg.com/vi/XyFpmO3IMHM/maxresdefault.jpg",
+      "synopsis": "Isaiah prophecy of Messiah, visions of judgment and hope, call to repentance, promise of restoration, suffering servant, covenant faithfulness, light to the nations. Isaiah speaks across centuries with messages of warning, hope, judgment, and redemption.",
+      "chapters": [
+        {
+          "timecode": "0:00",
+          "seconds": 0,
+          "label": "Chapter 1-5"
+        },
+        {
+          "timecode": "17:51",
+          "seconds": 1071,
+          "label": "Chapter 6-10"
+        },
+        {
+          "timecode": "36:09",
+          "seconds": 2169,
+          "label": "Chapter 11-15"
+        },
+        {
+          "timecode": "50:24",
+          "seconds": 3024,
+          "label": "Chapter 16-20"
+        },
+        {
+          "timecode": "1:02:26",
+          "seconds": 3746,
+          "label": "Chapter 21-25"
+        },
+        {
+          "timecode": "1:17:36",
+          "seconds": 4656,
+          "label": "Chapter 26-30"
+        },
+        {
+          "timecode": "1:38:09",
+          "seconds": 5889,
+          "label": "Chapter 31-35"
+        },
+        {
+          "timecode": "1:50:59",
+          "seconds": 6659,
+          "label": "Chapter 36-40"
+        },
+        {
+          "timecode": "2:10:17",
+          "seconds": 7817,
+          "label": "Chapter 41-45"
+        },
+        {
+          "timecode": "2:33:39",
+          "seconds": 9219,
+          "label": "Chapter 46-50"
+        },
+        {
+          "timecode": "2:48:51",
+          "seconds": 10131,
+          "label": "Chapter 51-55"
+        },
+        {
+          "timecode": "3:02:44",
+          "seconds": 10964,
+          "label": "Chapter 56-60"
+        },
+        {
+          "timecode": "3:18:35",
+          "seconds": 11915,
+          "label": "Chapter 61-66"
+        }
+      ]
+    },
+    {
+      "id": "scourby-kjv-24-jeremiah",
+      "showId": "scourby-kjv",
+      "bookNum": 24,
+      "bookName": "Jeremiah",
+      "title": "Book 24 · Jeremiah",
+      "ytTitle": "24 | The Book JEREMIAH (KJV) | Read By Alexander Scourby | AUDIO and TEXT | Synced Together.",
+      "testament": "OT",
+      "totalBookChapters": 52,
+      "youtubeId": "iF77Ea1rIAI",
+      "durationSec": 13650,
+      "coverUrl": "https://i.ytimg.com/vi/iF77Ea1rIAI/hqdefault.jpg",
+      "coverMaxUrl": "https://i.ytimg.com/vi/iF77Ea1rIAI/maxresdefault.jpg",
+      "synopsis": "JEREMIAH delivers powerful prophetic warnings, calling God’s people to repentance, truth, and covenant faithfulness. This book reveals divine judgment, deep sorrow, and unwavering hope as God urges Israel to return to Him and trust His enduring promises.",
+      "chapters": [
+        {
+          "timecode": "0:00",
+          "seconds": 0,
+          "label": "Call of Jeremiah"
+        },
+        {
+          "timecode": "2:46",
+          "seconds": 166,
+          "label": "Israel's Infidelity"
+        },
+        {
+          "timecode": "8:50",
+          "seconds": 530,
+          "label": "Call to Repentance"
+        },
+        {
+          "timecode": "13:32",
+          "seconds": 812,
+          "label": "Approaching Judgment"
+        },
+        {
+          "timecode": "18:45",
+          "seconds": 1125,
+          "label": "Corruption in Judah"
+        },
+        {
+          "timecode": "23:58",
+          "seconds": 1438,
+          "label": "Warning of Destruction"
+        },
+        {
+          "timecode": "28:57",
+          "seconds": 1737,
+          "label": "False Security"
+        },
+        {
+          "timecode": "34:13",
+          "seconds": 2053,
+          "label": "The Prophet's Lament"
+        },
+        {
+          "timecode": "38:19",
+          "seconds": 2299,
+          "label": "Call to Wailing"
+        },
+        {
+          "timecode": "42:39",
+          "seconds": 2559,
+          "label": "Idol Worship Condemned"
+        },
+        {
+          "timecode": "46:16",
+          "seconds": 2776,
+          "label": "Broken Covenant"
+        },
+        {
+          "timecode": "50:05",
+          "seconds": 3005,
+          "label": "Jeremiah's Complaint"
+        },
+        {
+          "timecode": "53:11",
+          "seconds": 3191,
+          "label": "Linen Girdle Parable"
+        },
+        {
+          "timecode": "57:26",
+          "seconds": 3446,
+          "label": "Drought and False Prophecy"
+        },
+        {
+          "timecode": "1:01:36",
+          "seconds": 3696,
+          "label": "Judgment Confirmed"
+        },
+        {
+          "timecode": "1:05:19",
+          "seconds": 3919,
+          "label": "Jeremiah's Loneliness"
+        },
+        {
+          "timecode": "1:08:50",
+          "seconds": 4130,
+          "label": "Sin and Sabbath"
+        },
+        {
+          "timecode": "1:13:14",
+          "seconds": 4394,
+          "label": "The Potter's House"
+        },
+        {
+          "timecode": "1:16:45",
+          "seconds": 4605,
+          "label": "Broken Vessel Parable"
+        },
+        {
+          "timecode": "1:19:44",
+          "seconds": 4784,
+          "label": "Jeremiah Persecuted"
+        },
+        {
+          "timecode": "1:22:52",
+          "seconds": 4972,
+          "label": "Zedekiah's Inquiry"
+        },
+        {
+          "timecode": "1:25:25",
+          "seconds": 5125,
+          "label": "Judgment on Kings"
+        },
+        {
+          "timecode": "1:30:20",
+          "seconds": 5420,
+          "label": "False Shepherds"
+        },
+        {
+          "timecode": "1:36:55",
+          "seconds": 5815,
+          "label": "Two Baskets of Figs"
+        },
+        {
+          "timecode": "1:38:41",
+          "seconds": 5921,
+          "label": "Seventy Year Exile"
+        },
+        {
+          "timecode": "1:44:40",
+          "seconds": 6280,
+          "label": "Threats Against Jeremiah"
+        },
+        {
+          "timecode": "1:48:36",
+          "seconds": 6516,
+          "label": "Yoke of Babylon"
+        },
+        {
+          "timecode": "1:52:23",
+          "seconds": 6743,
+          "label": "Hananiah's Death"
+        },
+        {
+          "timecode": "1:55:13",
+          "seconds": 6913,
+          "label": "Letter to Exiles"
+        },
+        {
+          "timecode": "2:00:22",
+          "seconds": 7222,
+          "label": "Future Restoration"
+        },
+        {
+          "timecode": "2:04:28",
+          "seconds": 7468,
+          "label": "New Covenant"
+        },
+        {
+          "timecode": "2:11:39",
+          "seconds": 7899,
+          "label": "Jeremiah's Field Purchase"
+        },
+        {
+          "timecode": "2:18:51",
+          "seconds": 8331,
+          "label": "Promises of Healing"
+        },
+        {
+          "timecode": "2:22:37",
+          "seconds": 8557,
+          "label": "Zedekiah Warned"
+        },
+        {
+          "timecode": "2:27:20",
+          "seconds": 8840,
+          "label": "Rechabite Example"
+        },
+        {
+          "timecode": "2:30:42",
+          "seconds": 9042,
+          "label": "The Burned Scroll"
+        },
+        {
+          "timecode": "2:35:56",
+          "seconds": 9356,
+          "label": "Siege of Jerusalem"
+        },
+        {
+          "timecode": "2:39:10",
+          "seconds": 9550,
+          "label": "Jeremiah in the Dungeon"
+        },
+        {
+          "timecode": "2:43:57",
+          "seconds": 9837,
+          "label": "Fall of Jerusalem"
+        },
+        {
+          "timecode": "2:46:46",
+          "seconds": 10006,
+          "label": "Gedaliah's Governorship"
+        },
+        {
+          "timecode": "2:50:02",
+          "seconds": 10202,
+          "label": "Flight to Egypt"
+        },
+        {
+          "timecode": "2:53:02",
+          "seconds": 10382,
+          "label": "Judgments on Egypt"
+        },
+        {
+          "timecode": "2:58:34",
+          "seconds": 10714,
+          "label": "Idolatry in Egypt"
+        },
+        {
+          "timecode": "3:04:21",
+          "seconds": 11061,
+          "label": "Message to Baruch"
+        },
+        {
+          "timecode": "3:05:16",
+          "seconds": 11116,
+          "label": "Judgments on Nations"
+        },
+        {
+          "timecode": "3:15:36",
+          "seconds": 11736,
+          "label": "Judgment on Babylon"
+        },
+        {
+          "timecode": "3:27:30",
+          "seconds": 12450,
+          "label": "Historical Appendix"
+        }
+      ]
+    },
+    {
+      "id": "scourby-kjv-25-lamentations",
+      "showId": "scourby-kjv",
+      "bookNum": 25,
+      "bookName": "Lamentations",
+      "title": "Book 25 · Lamentations",
+      "ytTitle": "25 | The Book of LAMENTATIONS (KJV) | Read By Alexander Scourby | AUDIO and TEXT | Synced Together.",
+      "testament": "OT",
+      "totalBookChapters": 5,
+      "youtubeId": "QDlxE1p70_4",
+      "durationSec": 1233,
+      "coverUrl": "https://i.ytimg.com/vi/QDlxE1p70_4/hqdefault.jpg",
+      "coverMaxUrl": "https://i.ytimg.com/vi/QDlxE1p70_4/maxresdefault.jpg",
+      "synopsis": "LAMENTATIONS reveals Jerusalem’s sorrow, mourning over sin, and the weight of divine judgment, yet it shines with hope in God’s mercy. This powerful book calls hearts to repentance, endurance, and trust in the Lord’s unfailing compassion even in seasons of deep suffering.",
+      "chapters": [
+        {
+          "timecode": "0:00",
+          "seconds": 0,
+          "label": "Jeremiah chapter 1"
+        },
+        {
+          "timecode": "4:49",
+          "seconds": 289,
+          "label": "Jeremiah chapter 2"
+        },
+        {
+          "timecode": "9:45",
+          "seconds": 585,
+          "label": "Jeremiah chapter 3"
+        },
+        {
+          "timecode": "14:45",
+          "seconds": 885,
+          "label": "Jeremiah chapter 4"
+        },
+        {
+          "timecode": "18:12",
+          "seconds": 1092,
+          "label": "Jeremiah chapter 5"
+        }
+      ]
+    },
+    {
+      "id": "scourby-kjv-26-ezekiel",
+      "showId": "scourby-kjv",
+      "bookNum": 26,
+      "bookName": "Ezekiel",
+      "title": "Book 26 · Ezekiel",
+      "ytTitle": "26 | The Book EZEKIEL (KJV) | Read By Alexander Scourby | AUDIO and TEXT | Synced Together.",
+      "testament": "OT",
+      "totalBookChapters": 48,
+      "youtubeId": "kdJGnhGas1E",
+      "durationSec": 12144,
+      "coverUrl": "https://i.ytimg.com/vi/kdJGnhGas1E/hqdefault.jpg",
+      "coverMaxUrl": "https://i.ytimg.com/vi/kdJGnhGas1E/maxresdefault.jpg",
+      "synopsis": "EZEKIEL reveals God’s power through vivid visions, prophetic warnings, and promised restoration. This narrative calls listeners to repentance, holiness, and hope as God restores His people and displays His glory among the nations.",
+      "chapters": [
+        {
+          "timecode": "0:00",
+          "seconds": 0,
+          "label": "Ezekiel's vision of God"
+        },
+        {
+          "timecode": "4:17",
+          "seconds": 257,
+          "label": "Commissioned as prophet"
+        },
+        {
+          "timecode": "5:48",
+          "seconds": 348,
+          "label": "Watchman over Israel"
+        },
+        {
+          "timecode": "9:52",
+          "seconds": 592,
+          "label": "Signs of siege"
+        },
+        {
+          "timecode": "12:37",
+          "seconds": 757,
+          "label": "Judgment on Jerusalem"
+        },
+        {
+          "timecode": "16:03",
+          "seconds": 963,
+          "label": "Prophecy against mountains"
+        },
+        {
+          "timecode": "18:38",
+          "seconds": 1118,
+          "label": "The end has come"
+        },
+        {
+          "timecode": "23:05",
+          "seconds": 1385,
+          "label": "Visions of abominations"
+        },
+        {
+          "timecode": "26:31",
+          "seconds": 1591,
+          "label": "Execution of judgment"
+        },
+        {
+          "timecode": "28:35",
+          "seconds": 1715,
+          "label": "Glory leaves the temple"
+        },
+        {
+          "timecode": "31:55",
+          "seconds": 1915,
+          "label": "Judgment on leaders"
+        },
+        {
+          "timecode": "35:26",
+          "seconds": 2126,
+          "label": "Signs of exile"
+        },
+        {
+          "timecode": "39:37",
+          "seconds": 2377,
+          "label": "False prophets condemned"
+        },
+        {
+          "timecode": "43:38",
+          "seconds": 2618,
+          "label": "Idolatry and judgment"
+        },
+        {
+          "timecode": "47:25",
+          "seconds": 2845,
+          "label": "Jerusalem as a vine"
+        },
+        {
+          "timecode": "48:27",
+          "seconds": 2907,
+          "label": "Unfaithful Jerusalem"
+        },
+        {
+          "timecode": "58:42",
+          "seconds": 3522,
+          "label": "Parable of the eagles"
+        },
+        {
+          "timecode": "1:02:41",
+          "seconds": 3761,
+          "label": "Individual responsibility"
+        },
+        {
+          "timecode": "1:08:02",
+          "seconds": 4082,
+          "label": "Lament for princes"
+        },
+        {
+          "timecode": "1:10:02",
+          "seconds": 4202,
+          "label": "History of Israel's rebellion"
+        },
+        {
+          "timecode": "1:17:38",
+          "seconds": 4658,
+          "label": "Prophecy of fire"
+        },
+        {
+          "timecode": "1:18:22",
+          "seconds": 4702,
+          "label": "The sharp sword"
+        },
+        {
+          "timecode": "1:22:19",
+          "seconds": 4939,
+          "label": "Judgment on the prince"
+        },
+        {
+          "timecode": "1:23:43",
+          "seconds": 5023,
+          "label": "Sins of Jerusalem"
+        },
+        {
+          "timecode": "1:26:46",
+          "seconds": 5206,
+          "label": "The dross of Israel"
+        },
+        {
+          "timecode": "1:28:17",
+          "seconds": 5297,
+          "label": "Two sisters, two nations"
+        },
+        {
+          "timecode": "1:32:40",
+          "seconds": 5560,
+          "label": "Judgment on sisters"
+        },
+        {
+          "timecode": "1:35:32",
+          "seconds": 5732,
+          "label": "The boiling pot"
+        },
+        {
+          "timecode": "1:37:40",
+          "seconds": 5860,
+          "label": "Ezekiel's wife"
+        },
+        {
+          "timecode": "1:40:23",
+          "seconds": 6023,
+          "label": "Judgment on nations"
+        },
+        {
+          "timecode": "1:42:34",
+          "seconds": 6154,
+          "label": "Prophecy against Tyre"
+        },
+        {
+          "timecode": "1:46:13",
+          "seconds": 6373,
+          "label": "Lament for Tyre"
+        },
+        {
+          "timecode": "1:51:24",
+          "seconds": 6684,
+          "label": "Judgment on the King"
+        },
+        {
+          "timecode": "1:54:30",
+          "seconds": 6870,
+          "label": "Restoration of Israel"
+        },
+        {
+          "timecode": "1:55:43",
+          "seconds": 6943,
+          "label": "Judgment on Egypt"
+        },
+        {
+          "timecode": "1:58:20",
+          "seconds": 7100,
+          "label": "Egypt as spoil"
+        },
+        {
+          "timecode": "1:59:16",
+          "seconds": 7156,
+          "label": "Fall of Egypt"
+        },
+        {
+          "timecode": "2:02:50",
+          "seconds": 7370,
+          "label": "The fallen cedar"
+        },
+        {
+          "timecode": "2:06:05",
+          "seconds": 7565,
+          "label": "Lament for Egypt"
+        },
+        {
+          "timecode": "2:11:24",
+          "seconds": 7884,
+          "label": "Role of the watchman"
+        },
+        {
+          "timecode": "2:17:03",
+          "seconds": 8223,
+          "label": "The Good Shepherd"
+        },
+        {
+          "timecode": "2:21:58",
+          "seconds": 8518,
+          "label": "Judgment on Edom"
+        },
+        {
+          "timecode": "2:24:00",
+          "seconds": 8640,
+          "label": "Restoration of Israel"
+        },
+        {
+          "timecode": "2:29:40",
+          "seconds": 8980,
+          "label": "Valley of dry bones"
+        },
+        {
+          "timecode": "2:32:16",
+          "seconds": 9136,
+          "label": "Two sticks become one"
+        },
+        {
+          "timecode": "2:34:22",
+          "seconds": 9262,
+          "label": "Prophecy against Gog"
+        },
+        {
+          "timecode": "2:38:12",
+          "seconds": 9492,
+          "label": "Destruction of Gog"
+        },
+        {
+          "timecode": "2:42:20",
+          "seconds": 9740,
+          "label": "Temple vision"
+        },
+        {
+          "timecode": "2:49:54",
+          "seconds": 10194,
+          "label": "Temple measurements"
+        },
+        {
+          "timecode": "2:56:13",
+          "seconds": 10573,
+          "label": "God's glory returns"
+        },
+        {
+          "timecode": "3:02:02",
+          "seconds": 10922,
+          "label": "Temple ordinances"
+        },
+        {
+          "timecode": "3:05:22",
+          "seconds": 11122,
+          "label": "Land division"
+        },
+        {
+          "timecode": "3:09:30",
+          "seconds": 11370,
+          "label": "Temple sacrifices"
+        },
+        {
+          "timecode": "3:13:32",
+          "seconds": 11612,
+          "label": "The holy river"
+        },
+        {
+          "timecode": "3:17:20",
+          "seconds": 11840,
+          "label": "Tribal land division"
+        }
+      ]
+    },
+    {
+      "id": "scourby-kjv-27-daniel",
+      "showId": "scourby-kjv",
+      "bookNum": 27,
+      "bookName": "Daniel",
+      "title": "Book 27 · Daniel",
+      "ytTitle": "27 | The Book of  DANIEL (KJV) | Read By Alexander Scourby | AUDIO and TEXT | Synced Together.",
+      "testament": "OT",
+      "totalBookChapters": 12,
+      "youtubeId": "FPHy934L-5w",
+      "durationSec": 3732,
+      "coverUrl": "https://i.ytimg.com/vi/FPHy934L-5w/hqdefault.jpg",
+      "coverMaxUrl": "https://i.ytimg.com/vi/FPHy934L-5w/maxresdefault.jpg",
+      "synopsis": "Daniel reveals God’s sovereignty as He protects His faithful servant in exile. From fiery trials to prophetic visions, this book shows how faith overcomes kingdoms and how God’s eternal rule stands unshaken. A powerful reminder that unwavering trust leads to divine victory.",
+      "chapters": [
+        {
+          "timecode": "0:00",
+          "seconds": 0,
+          "label": "Daniel's training"
+        },
+        {
+          "timecode": "3:00",
+          "seconds": 180,
+          "label": "The dream of the image"
+        },
+        {
+          "timecode": "10:56",
+          "seconds": 656,
+          "label": "The fiery furnace"
+        },
+        {
+          "timecode": "16:22",
+          "seconds": 982,
+          "label": "Nebuchadnezzar's madness"
+        },
+        {
+          "timecode": "23:27",
+          "seconds": 1407,
+          "label": "The writing on the wall"
+        },
+        {
+          "timecode": "28:47",
+          "seconds": 1727,
+          "label": "Daniel in the lions' den"
+        },
+        {
+          "timecode": "33:29",
+          "seconds": 2009,
+          "label": "The vision of four beasts"
+        },
+        {
+          "timecode": "38:41",
+          "seconds": 2321,
+          "label": "Ram and goat vision"
+        },
+        {
+          "timecode": "43:13",
+          "seconds": 2593,
+          "label": "Seventy weeks prophecy"
+        },
+        {
+          "timecode": "48:36",
+          "seconds": 2916,
+          "label": "The final vision"
+        }
+      ]
+    },
+    {
+      "id": "scourby-kjv-28-hosea",
+      "showId": "scourby-kjv",
+      "bookNum": 28,
+      "bookName": "Hosea",
+      "title": "Book 28 · Hosea",
+      "ytTitle": "28 | The Book HOSEA (KJV) |Read By Alexander Scourby | AUDIO and TEXT | Synced Together.",
+      "testament": "OT",
+      "totalBookChapters": 14,
+      "youtubeId": "P65WjjJMFac",
+      "durationSec": 1721,
+      "coverUrl": "https://i.ytimg.com/vi/P65WjjJMFac/hqdefault.jpg",
+      "coverMaxUrl": "https://i.ytimg.com/vi/P65WjjJMFac/maxresdefault.jpg",
+      "synopsis": "HOSEA reveals God’s relentless RESTORATION as He calls Israel from betrayal back to covenant love. This prophetic book shows judgment, mercy, and the promise of renewed hope, urging every believer to return to God’s faithful compassion and experience His transforming grace.",
+      "chapters": [
+        {
+          "timecode": "0:00",
+          "seconds": 0,
+          "label": "The marriage of Hosea"
+        },
+        {
+          "timecode": "1:47",
+          "seconds": 107,
+          "label": "Israel's punishment and hope"
+        },
+        {
+          "timecode": "5:10",
+          "seconds": 310,
+          "label": "Hosea redeems his wife"
+        },
+        {
+          "timecode": "5:58",
+          "seconds": 358,
+          "label": "Judgment on Israel's sin"
+        },
+        {
+          "timecode": "8:41",
+          "seconds": 521,
+          "label": "Warnings to leaders and people"
+        },
+        {
+          "timecode": "10:40",
+          "seconds": 640,
+          "label": "A call to repentance"
+        },
+        {
+          "timecode": "12:06",
+          "seconds": 726,
+          "label": "The moral decay of Israel"
+        },
+        {
+          "timecode": "14:14",
+          "seconds": 854,
+          "label": "The reaping of the whirlwind"
+        },
+        {
+          "timecode": "16:05",
+          "seconds": 965,
+          "label": "Exile and abandonment"
+        },
+        {
+          "timecode": "18:46",
+          "seconds": 1126,
+          "label": "Divided heart, divided nation"
+        },
+        {
+          "timecode": "21:11",
+          "seconds": 1271,
+          "label": "God's fatherly compassion"
+        },
+        {
+          "timecode": "22:54",
+          "seconds": 1374,
+          "label": "Accusations against Ephraim"
+        },
+        {
+          "timecode": "24:37",
+          "seconds": 1477,
+          "label": "Final destruction of Samaria"
+        },
+        {
+          "timecode": "26:56",
+          "seconds": 1616,
+          "label": "Restoration and wisdom"
+        }
+      ]
+    },
+    {
+      "id": "scourby-kjv-29-joel",
+      "showId": "scourby-kjv",
+      "bookNum": 29,
+      "bookName": "Joel",
+      "title": "Book 29 · Joel",
+      "ytTitle": "29 | The Book of  JOEL (KJV) | Read By Alexander Scourby | AUDIO and TEXT | Synced Together.",
+      "testament": "OT",
+      "totalBookChapters": 3,
+      "youtubeId": "LZXTRvwJA9o",
+      "durationSec": 723,
+      "coverUrl": "https://i.ytimg.com/vi/LZXTRvwJA9o/hqdefault.jpg",
+      "coverMaxUrl": "https://i.ytimg.com/vi/LZXTRvwJA9o/maxresdefault.jpg",
+      "synopsis": "JOEL warns of coming judgment yet promises powerful restoration. In this prophetic call, God urges His people to return with wholehearted repentance. JOEL, highlights a message of awakening, renewal, and the outpouring of God’s Spirit for all who seek",
+      "chapters": [
+        {
+          "timecode": "0:01",
+          "seconds": 1,
+          "label": "Chapter 1"
+        },
+        {
+          "timecode": "2:55",
+          "seconds": 175,
+          "label": "chapter 2"
+        },
+        {
+          "timecode": "8:15",
+          "seconds": 495,
+          "label": "Chapter 3"
+        }
+      ]
+    },
+    {
+      "id": "scourby-kjv-30-amos",
+      "showId": "scourby-kjv",
+      "bookNum": 30,
+      "bookName": "Amos",
+      "title": "Book 30 · Amos",
+      "ytTitle": "30 The Book AMOS (KJV) |Read By Alexander Scourby | AUDIO and TEXT | Synced Together.",
+      "testament": "OT",
+      "totalBookChapters": 9,
+      "youtubeId": "dJaAxIQJ_tU",
+      "durationSec": 1367,
+      "coverUrl": "https://i.ytimg.com/vi/dJaAxIQJ_tU/hqdefault.jpg",
+      "coverMaxUrl": "https://i.ytimg.com/vi/dJaAxIQJ_tU/maxresdefault.jpg",
+      "synopsis": "AMOS delivers a powerful call to JUSTICE, exposing corruption and urging Israel to return to God. This prophetic book warns of judgment while offering hope through repentance, revealing timeless BIBLICAL TRUTH that challenges believers to live with righteousness and compassion.",
+      "chapters": [
+        {
+          "timecode": "0:00",
+          "seconds": 0,
+          "label": "Chapter 1"
+        },
+        {
+          "timecode": "02:15",
+          "seconds": 135,
+          "label": "Chapter 2"
+        },
+        {
+          "timecode": "04:37",
+          "seconds": 277,
+          "label": "Chapter 3"
+        },
+        {
+          "timecode": "06:45",
+          "seconds": 405,
+          "label": "Chapter 4"
+        },
+        {
+          "timecode": "09:16",
+          "seconds": 556,
+          "label": "Chapter 5"
+        },
+        {
+          "timecode": "12:57",
+          "seconds": 777,
+          "label": "Chapter 6"
+        },
+        {
+          "timecode": "15:02",
+          "seconds": 902,
+          "label": "Chapter 7"
+        },
+        {
+          "timecode": "17:33",
+          "seconds": 1053,
+          "label": "Chapter 8"
+        },
+        {
+          "timecode": "19:41",
+          "seconds": 1181,
+          "label": "Chapter 9"
+        }
+      ]
+    },
+    {
+      "id": "scourby-kjv-31-obadiah",
+      "showId": "scourby-kjv",
+      "bookNum": 31,
+      "bookName": "Obadiah",
+      "title": "Book 31 · Obadiah",
+      "ytTitle": "31 | The Book of  OBADIAH (KJV) | Read By Alexander Scourby | AUDIO and TEXT | Synced Together.",
+      "testament": "OT",
+      "totalBookChapters": 1,
+      "youtubeId": "9Ta9q7KZIEE",
+      "durationSec": 233,
+      "coverUrl": "https://i.ytimg.com/vi/9Ta9q7KZIEE/hqdefault.jpg",
+      "coverMaxUrl": "https://i.ytimg.com/vi/9Ta9q7KZIEE/maxresdefault.jpg",
+      "synopsis": "OBADIAH warns of Divine Judgment as Edom’s pride collapses and betrayal is exposed. God declares His unshakable Justice, promising restoration for Zion and the triumph of the Lord’s kingdom. A powerful prophetic reminder that no nation can stand against God’s sovereign plan.",
+      "chapters": [
+        {
+          "timecode": "0:00",
+          "seconds": 0,
+          "label": "Judgment on Edom"
+        },
+        {
+          "timecode": "0:14",
+          "seconds": 14,
+          "label": "Pride and destruction"
+        },
+        {
+          "timecode": "0:53",
+          "seconds": 53,
+          "label": "Betrayal and wisdom loss"
+        },
+        {
+          "timecode": "1:19",
+          "seconds": 79,
+          "label": "Violence against Jacob"
+        },
+        {
+          "timecode": "2:13",
+          "seconds": 133,
+          "label": "Day of the Lord"
+        },
+        {
+          "timecode": "2:33",
+          "seconds": 153,
+          "label": "Restoration of Israel"
+        }
+      ]
+    },
+    {
+      "id": "scourby-kjv-32-jonah",
+      "showId": "scourby-kjv",
+      "bookNum": 32,
+      "bookName": "Jonah",
+      "title": "Book 32 · Jonah",
+      "ytTitle": "32 | The Book JONAH (KJV) | Read By Alexander Scourby | AUDIO and TEXT | Synced Together.",
+      "testament": "OT",
+      "totalBookChapters": 4,
+      "youtubeId": "wc6KSJPG65s",
+      "durationSec": 431,
+      "coverUrl": "https://i.ytimg.com/vi/wc6KSJPG65s/hqdefault.jpg",
+      "coverMaxUrl": "https://i.ytimg.com/vi/wc6KSJPG65s/maxresdefault.jpg",
+      "synopsis": "Jonah’s powerful story reveals God’s mercy as the prophet flees his calling, faces the storm, and is rescued by a great fish. When Jonah finally obeys, JONAH delivers God’s warning to Nineveh, leading the city to repent. A vivid reminder of divine compassion, second chances, and God’s desire to save.",
+      "chapters": [
+        {
+          "timecode": "0:00",
+          "seconds": 0,
+          "label": "Jonah flees and is caught"
+        },
+        {
+          "timecode": "2:26",
+          "seconds": 146,
+          "label": "Jonah's prayer inside fish"
+        },
+        {
+          "timecode": "3:38",
+          "seconds": 218,
+          "label": "Nineveh repents"
+        },
+        {
+          "timecode": "4:58",
+          "seconds": 298,
+          "label": "Jonah's anger and God's mercy"
+        }
+      ]
+    },
+    {
+      "id": "scourby-kjv-33-micah",
+      "showId": "scourby-kjv",
+      "bookNum": 33,
+      "bookName": "Micah",
+      "title": "Book 33 · Micah",
+      "ytTitle": "33 | The Book of  MICAH  (KJV) | Read By Alexander Scourby | AUDIO and TEXT | Synced Together.",
+      "testament": "OT",
+      "totalBookChapters": 7,
+      "youtubeId": "7N04imaXvWg",
+      "durationSec": 1046,
+      "coverUrl": "https://i.ytimg.com/vi/7N04imaXvWg/hqdefault.jpg",
+      "coverMaxUrl": "https://i.ytimg.com/vi/7N04imaXvWg/maxresdefault.jpg",
+      "synopsis": "MICAH exposes injustice and calls God’s people to repentance, revealing divine judgment and unstoppable mercy. This prophetic book points to the coming Messiah, promises restoration, and reminds us that God delights in compassion as He rebuilds a faithful, righteous remnant.",
+      "chapters": [
+        {
+          "timecode": "0:00",
+          "seconds": 0,
+          "label": "Judgment on Israel and Judah"
+        },
+        {
+          "timecode": "2:29",
+          "seconds": 149,
+          "label": "Woes of the Oppressors"
+        },
+        {
+          "timecode": "4:34",
+          "seconds": 274,
+          "label": "Corruption of Leaders"
+        },
+        {
+          "timecode": "6:24",
+          "seconds": 384,
+          "label": "Future Peace and Restoration"
+        },
+        {
+          "timecode": "8:55",
+          "seconds": 535,
+          "label": "The Coming Ruler"
+        },
+        {
+          "timecode": "11:14",
+          "seconds": 674,
+          "label": "God's Controversy"
+        },
+        {
+          "timecode": "13:40",
+          "seconds": 820,
+          "label": "Lament and Final Hope"
+        }
+      ]
+    },
+    {
+      "id": "scourby-kjv-34-nahum",
+      "showId": "scourby-kjv",
+      "bookNum": 34,
+      "bookName": "Nahum",
+      "title": "Book 34 · Nahum",
+      "ytTitle": "34 | The Book NAHUM (KJV) | Read By Alexander Scourby | AUDIO and TEXT | Synced Together.",
+      "testament": "OT",
+      "totalBookChapters": 3,
+      "youtubeId": "svD3XgEdnts",
+      "durationSec": 465,
+      "coverUrl": "https://i.ytimg.com/vi/svD3XgEdnts/hqdefault.jpg",
+      "coverMaxUrl": "https://i.ytimg.com/vi/svD3XgEdnts/maxresdefault.jpg",
+      "synopsis": "NAHUM delivers a powerful prophecy of God’s judgment against oppressive Nineveh, revealing His unwavering justice and fierce defense of His people. This prophetic book highlights divine vengeance, righteous wrath, and the ultimate triumph of God’s sovereign power over evil.",
+      "chapters": [
+        {
+          "timecode": "0:00",
+          "seconds": 0,
+          "label": "The holiness of God"
+        },
+        {
+          "timecode": "1:08",
+          "seconds": 68,
+          "label": "Prophecy against Nineveh"
+        },
+        {
+          "timecode": "2:12",
+          "seconds": 132,
+          "label": "The siege of the city"
+        },
+        {
+          "timecode": "4:12",
+          "seconds": 252,
+          "label": "The fall of Nineveh"
+        }
+      ]
+    },
+    {
+      "id": "scourby-kjv-35-habakkuk",
+      "showId": "scourby-kjv",
+      "bookNum": 35,
+      "bookName": "Habakkuk",
+      "title": "Book 35 · Habakkuk",
+      "ytTitle": "35 | The Book of  HABAKKUK (KJV) | Read By Alexander Scourby | AUDIO and TEXT | Synced Together.",
+      "testament": "OT",
+      "totalBookChapters": 3,
+      "youtubeId": "BNEbM7W8zHM",
+      "durationSec": 535,
+      "coverUrl": "https://i.ytimg.com/vi/BNEbM7W8zHM/hqdefault.jpg",
+      "coverMaxUrl": "https://i.ytimg.com/vi/BNEbM7W8zHM/maxresdefault.jpg",
+      "synopsis": "HABAKKUK confronts injustice and cries out for answers as God reveals His coming judgment and the call to live by faith. This powerful prophetic book exposes corruption, warns of divine justice, and declares unshakable hope in God’s sovereignty even in seasons of chaos and waiting.",
+      "chapters": [
+        {
+          "timecode": "0:00",
+          "seconds": 0,
+          "label": "Chapter 1 The Burden"
+        },
+        {
+          "timecode": "2:31",
+          "seconds": 151,
+          "label": "Chapter 2 The Vision"
+        },
+        {
+          "timecode": "5:43",
+          "seconds": 343,
+          "label": "Chapter 3 A Prayer"
+        }
+      ]
+    },
+    {
+      "id": "scourby-kjv-36-zephaniah",
+      "showId": "scourby-kjv",
+      "bookNum": 36,
+      "bookName": "Zephaniah",
+      "title": "Book 36 · Zephaniah",
+      "ytTitle": "36 | The Book ZEPHANIAH (KJV) | Read By Alexander Scourby | AUDIO and TEXT | Synced Together.",
+      "testament": "OT",
+      "totalBookChapters": 3,
+      "youtubeId": "3K2-Pjh5G3U",
+      "durationSec": 572,
+      "coverUrl": "https://i.ytimg.com/vi/3K2-Pjh5G3U/hqdefault.jpg",
+      "coverMaxUrl": "https://i.ytimg.com/vi/3K2-Pjh5G3U/maxresdefault.jpg",
+      "synopsis": "ZEPHANIAH warns of coming judgment and calls God’s people to repentance, revealing the power of the Day of the Lord. This prophetic book declares justice, purifying hope, and the promise that God will restore a humble, faithful, remnant who trust in His righteousness.",
+      "chapters": [
+        {
+          "timecode": "0:00",
+          "seconds": 0,
+          "label": "Judgment on Judah"
+        },
+        {
+          "timecode": "2:55",
+          "seconds": 175,
+          "label": "Judgment on Nations"
+        },
+        {
+          "timecode": "5:41",
+          "seconds": 341,
+          "label": "Restoration of Zion"
+        }
+      ]
+    },
+    {
+      "id": "scourby-kjv-37-haggai",
+      "showId": "scourby-kjv",
+      "bookNum": 37,
+      "bookName": "Haggai",
+      "title": "Book 37 · Haggai",
+      "ytTitle": "37 | The Book of  HAGGAI (KJV) | Read By Alexander Scourby | AUDIO and TEXT | Synced Together.",
+      "testament": "OT",
+      "totalBookChapters": 2,
+      "youtubeId": "ViNrre6UEAc",
+      "durationSec": 363,
+      "coverUrl": "https://i.ytimg.com/vi/ViNrre6UEAc/hqdefault.jpg",
+      "coverMaxUrl": "https://i.ytimg.com/vi/ViNrre6UEAc/maxresdefault.jpg",
+      "synopsis": "A stirring call to rebuild and return to God’s purpose, the book of Haggai urges renewed devotion, highlights divine presence, and inspires courage as the people restore the temple, revealing how obedience, faith, and perseverance invite God’s blessing and transform a discouraged nation toward hope and restoration.",
+      "chapters": [
+        {
+          "timecode": "0:00",
+          "seconds": 0,
+          "label": "Call to rebuild the temple"
+        },
+        {
+          "timecode": "2:17",
+          "seconds": 137,
+          "label": "The future glory of the house"
+        },
+        {
+          "timecode": "3:31",
+          "seconds": 211,
+          "label": "Blessing for obedience"
+        },
+        {
+          "timecode": "5:05",
+          "seconds": 305,
+          "label": "Zerubbabel as a signet ring"
+        }
+      ]
+    },
+    {
+      "id": "scourby-kjv-38-zechariah",
+      "showId": "scourby-kjv",
+      "bookNum": 38,
+      "bookName": "Zechariah",
+      "title": "Book 38 · Zechariah",
+      "ytTitle": "38 | The Book of ZECHARIAH (KJV) | Read By Alexander Scourby | AUDIO and TEXT | Synced Together.",
+      "testament": "OT",
+      "totalBookChapters": 14,
+      "youtubeId": "7aGCrAWCsc4",
+      "durationSec": 2011,
+      "coverUrl": "https://i.ytimg.com/vi/7aGCrAWCsc4/hqdefault.jpg",
+      "coverMaxUrl": "https://i.ytimg.com/vi/7aGCrAWCsc4/maxresdefault.jpg",
+      "synopsis": "ZECHARIAH reveals God’s powerful visions calling His people to return, rebuild, and trust His coming Messiah. This prophetic book unveils hope, restoration, and divine justice as the Lord promises to dwell among His people and establish His everlasting kingdom through ZECHARIAH’s Spirit‑filled message.",
+      "chapters": [
+        {
+          "timecode": "0:00",
+          "seconds": 0,
+          "label": "Call to repentance"
+        },
+        {
+          "timecode": "1:08",
+          "seconds": 68,
+          "label": "Vision of horses and comfort"
+        },
+        {
+          "timecode": "2:45",
+          "seconds": 165,
+          "label": "Vision of horns and craftsmen"
+        },
+        {
+          "timecode": "3:18",
+          "seconds": 198,
+          "label": "Jerusalem measured and restored"
+        },
+        {
+          "timecode": "4:56",
+          "seconds": 296,
+          "label": "Joshua the high priest"
+        },
+        {
+          "timecode": "6:33",
+          "seconds": 393,
+          "label": "The golden candlestick"
+        },
+        {
+          "timecode": "8:27",
+          "seconds": 507,
+          "label": "The flying roll and ephah"
+        },
+        {
+          "timecode": "10:08",
+          "seconds": 608,
+          "label": "Vision of four chariots"
+        },
+        {
+          "timecode": "12:13",
+          "seconds": 733,
+          "label": "True judgment and fasts"
+        },
+        {
+          "timecode": "14:09",
+          "seconds": 849,
+          "label": "Jerusalem's future prosperity"
+        },
+        {
+          "timecode": "17:49",
+          "seconds": 1069,
+          "label": "Judgment on neighbors and king"
+        },
+        {
+          "timecode": "20:42",
+          "seconds": 1242,
+          "label": "Restoration of Judah and Israel"
+        },
+        {
+          "timecode": "22:43",
+          "seconds": 1363,
+          "label": "The foolish shepherd"
+        },
+        {
+          "timecode": "25:17",
+          "seconds": 1517,
+          "label": "Jerusalem's defense and mourning"
+        },
+        {
+          "timecode": "27:38",
+          "seconds": 1658,
+          "label": "A fountain for cleansing"
+        },
+        {
+          "timecode": "29:24",
+          "seconds": 1764,
+          "label": "The day of the Lord"
+        }
+      ]
+    },
+    {
+      "id": "scourby-kjv-39-malachi",
+      "showId": "scourby-kjv",
+      "bookNum": 39,
+      "bookName": "Malachi",
+      "title": "Book 39 · Malachi",
+      "ytTitle": "39 | The Book of  MALACHI KJV) | Read By Alexander Scourby | AUDIO and TEXT | Synced Together",
+      "testament": "OT",
+      "totalBookChapters": 4,
+      "youtubeId": "UTbbxqp02pA",
+      "durationSec": 611,
+      "coverUrl": "https://i.ytimg.com/vi/UTbbxqp02pA/hqdefault.jpg",
+      "coverMaxUrl": "https://i.ytimg.com/vi/UTbbxqp02pA/maxresdefault.jpg",
+      "synopsis": "MALACHI reveals God’s powerful visions calling His people to return, rebuild, and trust His coming Messiah. This prophetic book unveils hope, restoration, and divine justice as the Lord promises to dwell among His people and establish His everlasting kingdom through ZECHARIAH’s Spirit filled message.",
+      "chapters": [
+        {
+          "timecode": "0:00",
+          "seconds": 0,
+          "label": "Malachi Chapter 1"
+        },
+        {
+          "timecode": "2:39",
+          "seconds": 159,
+          "label": "Malachi Chapter 2"
+        },
+        {
+          "timecode": "5:36",
+          "seconds": 336,
+          "label": "Malachi Chapter 3"
+        },
+        {
+          "timecode": "8:41",
+          "seconds": 521,
+          "label": "Malachi Chapter 4"
+        }
+      ]
+    },
+    {
+      "id": "scourby-kjv-40-matthew",
+      "showId": "scourby-kjv",
+      "bookNum": 40,
+      "bookName": "Matthew",
+      "title": "Book 40 · Matthew",
+      "ytTitle": "40 | The Book MATTHEW (KJV) | Read By Alexander Scourby | AUDIO and TEXT | Synced Together.",
+      "testament": "NT",
+      "totalBookChapters": 28,
+      "youtubeId": "iHvCzDGgvuQ",
+      "durationSec": 8375,
+      "coverUrl": "https://i.ytimg.com/vi/iHvCzDGgvuQ/hqdefault.jpg",
+      "coverMaxUrl": "https://i.ytimg.com/vi/iHvCzDGgvuQ/maxresdefault.jpg",
+      "synopsis": "MATTHEW reveals Jesus as the promised Messiah, teaching with authority, healing the broken, and unveiling God’s kingdom through parables and prophecy. His call to follow Christ becomes a life‑changing journey. MATTHEW anchors faith in the Savior who fulfills God’s plan.",
+      "chapters": [
+        {
+          "timecode": "0:04",
+          "seconds": 4,
+          "label": "Chapter 1"
+        },
+        {
+          "timecode": "3:07",
+          "seconds": 187,
+          "label": "Chapter 2"
+        },
+        {
+          "timecode": "6:38",
+          "seconds": 398,
+          "label": "Chapter 3"
+        },
+        {
+          "timecode": "8:59",
+          "seconds": 539,
+          "label": "Chapter 4"
+        },
+        {
+          "timecode": "12:21",
+          "seconds": 741,
+          "label": "Chapter 5"
+        },
+        {
+          "timecode": "18:47",
+          "seconds": 1127,
+          "label": "Chapter 6"
+        },
+        {
+          "timecode": "23:35",
+          "seconds": 1415,
+          "label": "Chapter 7"
+        },
+        {
+          "timecode": "27:12",
+          "seconds": 1632,
+          "label": "Chapter 8"
+        },
+        {
+          "timecode": "31:27",
+          "seconds": 1887,
+          "label": "Chapter 9"
+        },
+        {
+          "timecode": "36:23",
+          "seconds": 2183,
+          "label": "Chapter 10"
+        },
+        {
+          "timecode": "41:56",
+          "seconds": 2516,
+          "label": "Chapter 11"
+        },
+        {
+          "timecode": "45:58",
+          "seconds": 2758,
+          "label": "Chapter 12"
+        },
+        {
+          "timecode": "52:32",
+          "seconds": 3152,
+          "label": "Chapter 13"
+        },
+        {
+          "timecode": "1:00:38",
+          "seconds": 3638,
+          "label": "Chapter 14"
+        },
+        {
+          "timecode": "1:04:31",
+          "seconds": 3871,
+          "label": "Chapter 15"
+        },
+        {
+          "timecode": "1:09:18",
+          "seconds": 4158,
+          "label": "Chapter 16"
+        },
+        {
+          "timecode": "1:13:11",
+          "seconds": 4391,
+          "label": "Chapter 17"
+        },
+        {
+          "timecode": "1:17:01",
+          "seconds": 4621,
+          "label": "Chapter 18"
+        },
+        {
+          "timecode": "1:21:54",
+          "seconds": 4914,
+          "label": "Chapter 19"
+        },
+        {
+          "timecode": "1:26:18",
+          "seconds": 5178,
+          "label": "Chapter 20"
+        },
+        {
+          "timecode": "1:30:30",
+          "seconds": 5430,
+          "label": "Chapter 21"
+        },
+        {
+          "timecode": "1:36:56",
+          "seconds": 5816,
+          "label": "Chapter 22"
+        },
+        {
+          "timecode": "1:41:54",
+          "seconds": 6114,
+          "label": "Chapter 23"
+        },
+        {
+          "timecode": "1:47:31",
+          "seconds": 6451,
+          "label": "Chapter 24"
+        },
+        {
+          "timecode": "1:53:39",
+          "seconds": 6819,
+          "label": "Chapter 25"
+        },
+        {
+          "timecode": "1:59:16",
+          "seconds": 7156,
+          "label": "Chapter 26"
+        },
+        {
+          "timecode": "2:08:53",
+          "seconds": 7733,
+          "label": "Chapter 27"
+        },
+        {
+          "timecode": "2:16:40",
+          "seconds": 8200,
+          "label": "Chapter 28"
+        }
+      ]
+    },
+    {
+      "id": "scourby-kjv-41-mark",
+      "showId": "scourby-kjv",
+      "bookNum": 41,
+      "bookName": "Mark",
+      "title": "Book 41 · Mark",
+      "ytTitle": "41 | The Book MARK (KJV) | Read By Alexander Scourby | AUDIO & TEXT | Synced Together.",
+      "testament": "NT",
+      "totalBookChapters": 16,
+      "youtubeId": "KHr4ieXipLM",
+      "durationSec": 5076,
+      "coverUrl": "https://i.ytimg.com/vi/KHr4ieXipLM/hqdefault.jpg",
+      "coverMaxUrl": "https://i.ytimg.com/vi/KHr4ieXipLM/maxresdefault.jpg",
+      "synopsis": "MARK reveals Jesus as the powerful, compassionate Son of God in actio, healing, teaching, and confronting darkness. This fast moving Gospel calls viewers to witness His authority and respond with faith as the Kingdom of God breaks into the world.",
+      "chapters": [
+        {
+          "timecode": "0:03",
+          "seconds": 3,
+          "label": "Chapter 1"
+        },
+        {
+          "timecode": "5:07",
+          "seconds": 307,
+          "label": "Chapter 2"
+        },
+        {
+          "timecode": "8:56",
+          "seconds": 536,
+          "label": "Chapter 3"
+        },
+        {
+          "timecode": "12:40",
+          "seconds": 760,
+          "label": "Chapter 4"
+        },
+        {
+          "timecode": "17:45",
+          "seconds": 1065,
+          "label": "Chapter 5"
+        },
+        {
+          "timecode": "22:52",
+          "seconds": 1372,
+          "label": "Chapter 6"
+        },
+        {
+          "timecode": "29:28",
+          "seconds": 1768,
+          "label": "Chapter 7"
+        },
+        {
+          "timecode": "33:59",
+          "seconds": 2039,
+          "label": "Chapter 8"
+        },
+        {
+          "timecode": "38:39",
+          "seconds": 2319,
+          "label": "Chapter 9"
+        },
+        {
+          "timecode": "45:19",
+          "seconds": 2719,
+          "label": "Chapter 10"
+        },
+        {
+          "timecode": "52:10",
+          "seconds": 3130,
+          "label": "Chapter 11"
+        },
+        {
+          "timecode": "56:29",
+          "seconds": 3389,
+          "label": "Chapter 12"
+        },
+        {
+          "timecode": "1:02:51",
+          "seconds": 3771,
+          "label": "Chapter 13"
+        },
+        {
+          "timecode": "1:07:55",
+          "seconds": 4075,
+          "label": "Chapter 14"
+        },
+        {
+          "timecode": "1:16:53",
+          "seconds": 4613,
+          "label": "Chapter 15"
+        },
+        {
+          "timecode": "1:22:08",
+          "seconds": 4928,
+          "label": "Chapter 16"
+        }
+      ]
+    },
+    {
+      "id": "scourby-kjv-42-luke",
+      "showId": "scourby-kjv",
+      "bookNum": 42,
+      "bookName": "Luke",
+      "title": "Book 42 · Luke",
+      "ytTitle": "42 | The Book LUKE (KJV) | Read By Alexander Scourby | AUDIO and TEXT | Synced Together.",
+      "testament": "NT",
+      "totalBookChapters": 24,
+      "youtubeId": "ytMSvm58CTY",
+      "durationSec": 8946,
+      "coverUrl": "https://i.ytimg.com/vi/ytMSvm58CTY/hqdefault.jpg",
+      "coverMaxUrl": "https://i.ytimg.com/vi/ytMSvm58CTY/maxresdefault.jpg",
+      "synopsis": "The Gospel of Luke highlights Jesus’ miraculous birth, His Spirit‑filled ministry, compassionate healings, powerful parables, the call to repentance, His journey toward Jerusalem, the Last Supper, crucifixion, and victorious resurrection. Luke emphasizes God’s mercy, the inclusion of outsiders, and the certainty of Christ’s salvation for all who believe.",
+      "chapters": [
+        {
+          "timecode": "0:02",
+          "seconds": 2,
+          "label": "Chapter 1"
+        },
+        {
+          "timecode": "8:48",
+          "seconds": 528,
+          "label": "Chapter 2"
+        },
+        {
+          "timecode": "14:56",
+          "seconds": 896,
+          "label": "Chapter 3"
+        },
+        {
+          "timecode": "20:03",
+          "seconds": 1203,
+          "label": "Chapter 4"
+        },
+        {
+          "timecode": "25:28",
+          "seconds": 1528,
+          "label": "Chapter 5"
+        },
+        {
+          "timecode": "30:36",
+          "seconds": 1836,
+          "label": "Chapter 6"
+        },
+        {
+          "timecode": "37:36",
+          "seconds": 2256,
+          "label": "Chapter 7"
+        },
+        {
+          "timecode": "44:31",
+          "seconds": 2671,
+          "label": "Chapter 8"
+        },
+        {
+          "timecode": "59:08",
+          "seconds": 3548,
+          "label": "Chapter 9"
+        },
+        {
+          "timecode": "1:00:50",
+          "seconds": 3650,
+          "label": "Chapter 10"
+        },
+        {
+          "timecode": "1:06:53",
+          "seconds": 4013,
+          "label": "Chapter 11"
+        },
+        {
+          "timecode": "1:14:44",
+          "seconds": 4484,
+          "label": "Chapter 12"
+        },
+        {
+          "timecode": "1:23:19",
+          "seconds": 4999,
+          "label": "Chapter 13"
+        },
+        {
+          "timecode": "1:28:27",
+          "seconds": 5307,
+          "label": "Chapter 14"
+        },
+        {
+          "timecode": "1:32:55",
+          "seconds": 5575,
+          "label": "Chapter 15"
+        },
+        {
+          "timecode": "1:37:06",
+          "seconds": 5826,
+          "label": "Chapter 16"
+        },
+        {
+          "timecode": "1:41:35",
+          "seconds": 6095,
+          "label": "Chapter 17"
+        },
+        {
+          "timecode": "1:46:21",
+          "seconds": 6381,
+          "label": "Chapter 18"
+        },
+        {
+          "timecode": "1:51:40",
+          "seconds": 6700,
+          "label": "Chapter 19"
+        },
+        {
+          "timecode": "1:57:09",
+          "seconds": 7029,
+          "label": "Chapter 20"
+        },
+        {
+          "timecode": "2:02:49",
+          "seconds": 7369,
+          "label": "Chapter 21"
+        },
+        {
+          "timecode": "2:07:52",
+          "seconds": 7672,
+          "label": "Chapter 22"
+        },
+        {
+          "timecode": "2:16:14",
+          "seconds": 8174,
+          "label": "Chapter 23"
+        },
+        {
+          "timecode": "2:22:43",
+          "seconds": 8563,
+          "label": "Chapter 24"
+        }
+      ]
+    },
+    {
+      "id": "scourby-kjv-43-john",
+      "showId": "scourby-kjv",
+      "bookNum": 43,
+      "bookName": "John",
+      "title": "Book 43 · John",
+      "ytTitle": "43 | The Book JOHN (KJV) | Read By Alexander Scourby | AUDIO and TEXT | Synced Together.",
+      "testament": "NT",
+      "totalBookChapters": 21,
+      "youtubeId": "az3iXhXglfY",
+      "durationSec": 6787,
+      "coverUrl": "https://i.ytimg.com/vi/az3iXhXglfY/hqdefault.jpg",
+      "coverMaxUrl": "https://i.ytimg.com/vi/az3iXhXglfY/maxresdefault.jpg",
+      "synopsis": "In John 17:2 God granted Jesus power to grant eternal life to all that God gave . In John 17:3, Jesus for the first time reveals what eternal life truly is in saying: \"And this is life eternal, that they might know thee the only true God, and Jesus Christ, whom thou hast sent.\"",
+      "chapters": [
+        {
+          "timecode": "0:00",
+          "seconds": 0,
+          "label": "Chapter 1"
+        },
+        {
+          "timecode": "6:11",
+          "seconds": 371,
+          "label": "Chapter 2"
+        },
+        {
+          "timecode": "9:02",
+          "seconds": 542,
+          "label": "Chapter 3"
+        },
+        {
+          "timecode": "13:43",
+          "seconds": 823,
+          "label": "Chapter 4"
+        },
+        {
+          "timecode": "20:01",
+          "seconds": 1201,
+          "label": "Chapter 5"
+        },
+        {
+          "timecode": "25:47",
+          "seconds": 1547,
+          "label": "Chapter 6"
+        },
+        {
+          "timecode": "34:24",
+          "seconds": 2064,
+          "label": "Chapter 7"
+        },
+        {
+          "timecode": "40:05",
+          "seconds": 2405,
+          "label": "Chapter 8"
+        },
+        {
+          "timecode": "47:50",
+          "seconds": 2870,
+          "label": "Chapter 9"
+        },
+        {
+          "timecode": "52:51",
+          "seconds": 3171,
+          "label": "Chapter 10"
+        },
+        {
+          "timecode": "57:36",
+          "seconds": 3456,
+          "label": "Chapter 11"
+        },
+        {
+          "timecode": "1:04:29",
+          "seconds": 3869,
+          "label": "Chapter 12"
+        },
+        {
+          "timecode": "1:10:48",
+          "seconds": 4248,
+          "label": "Chapter 13"
+        },
+        {
+          "timecode": "1:16:00",
+          "seconds": 4560,
+          "label": "Chapter 14"
+        },
+        {
+          "timecode": "1:20:35",
+          "seconds": 4835,
+          "label": "Chapter 15"
+        },
+        {
+          "timecode": "1:24:23",
+          "seconds": 5063,
+          "label": "Chapter 16"
+        },
+        {
+          "timecode": "1:29:04",
+          "seconds": 5344,
+          "label": "Chapter 17"
+        },
+        {
+          "timecode": "1:32:48",
+          "seconds": 5568,
+          "label": "Chapter 18"
+        },
+        {
+          "timecode": "1:38:19",
+          "seconds": 5899,
+          "label": "Chapter 19"
+        },
+        {
+          "timecode": "1:44:14",
+          "seconds": 6254,
+          "label": "Chapter 20"
+        },
+        {
+          "timecode": "1:48:34",
+          "seconds": 6514,
+          "label": "Chapter 21"
+        },
+        {
+          "timecode": "0:00",
+          "seconds": 0,
+          "label": "John 1-1"
+        },
+        {
+          "timecode": "10:56",
+          "seconds": 656,
+          "label": "John 3-16"
+        },
+        {
+          "timecode": "53:56",
+          "seconds": 3236,
+          "label": "John 10-10"
+        },
+        {
+          "timecode": "1:16:40",
+          "seconds": 4600,
+          "label": "John 14-6"
+        },
+        {
+          "timecode": "1:29:25",
+          "seconds": 5365,
+          "label": "John 17-3"
+        },
+        {
+          "timecode": "1:31:24",
+          "seconds": 5484,
+          "label": "John 17-17"
+        },
+        {
+          "timecode": "1:31:47",
+          "seconds": 5507,
+          "label": "John 17-21"
+        }
+      ]
+    },
+    {
+      "id": "scourby-kjv-44-acts",
+      "showId": "scourby-kjv",
+      "bookNum": 44,
+      "bookName": "Acts",
+      "title": "Book 44 · Acts",
+      "ytTitle": "44 | The Book ACTS (KJV) | Read By Alexander Scourby | AUDIO and TEXT | Synced Together.",
+      "testament": "NT",
+      "totalBookChapters": 28,
+      "youtubeId": "vDQXqeylVfM",
+      "durationSec": 8282,
+      "coverUrl": "https://i.ytimg.com/vi/vDQXqeylVfM/hqdefault.jpg",
+      "coverMaxUrl": "https://i.ytimg.com/vi/vDQXqeylVfM/maxresdefault.jpg",
+      "synopsis": "ACTS unfolds the rise of the early church as the Holy Spirit empowers bold witnesses, miraculous signs, and unstoppable mission. From Jerusalem to the nations, ACTS reveals transformed lives carrying Christ’s message with courage, unity, and world‑shaping faith.",
+      "chapters": [
+        {
+          "timecode": "0:03",
+          "seconds": 3,
+          "label": "Chapter 1"
+        },
+        {
+          "timecode": "3:49",
+          "seconds": 229,
+          "label": "Chapter 2"
+        },
+        {
+          "timecode": "10:04",
+          "seconds": 604,
+          "label": "Chapter 3"
+        },
+        {
+          "timecode": "13:55",
+          "seconds": 835,
+          "label": "Chapter 4"
+        },
+        {
+          "timecode": "18:46",
+          "seconds": 1126,
+          "label": "Chapter 5"
+        },
+        {
+          "timecode": "24:36",
+          "seconds": 1476,
+          "label": "Chapter 6"
+        },
+        {
+          "timecode": "26:40",
+          "seconds": 1600,
+          "label": "Chapter 7"
+        },
+        {
+          "timecode": "34:45",
+          "seconds": 2085,
+          "label": "Chapter 8"
+        },
+        {
+          "timecode": "39:40",
+          "seconds": 2380,
+          "label": "Chapter 9"
+        },
+        {
+          "timecode": "45:55",
+          "seconds": 2755,
+          "label": "Chapter 10"
+        },
+        {
+          "timecode": "52:32",
+          "seconds": 3152,
+          "label": "Chapter 11"
+        },
+        {
+          "timecode": "56:18",
+          "seconds": 3378,
+          "label": "Chapter 12"
+        },
+        {
+          "timecode": "59:58",
+          "seconds": 3598,
+          "label": "Chapter 13"
+        },
+        {
+          "timecode": "1:07:36",
+          "seconds": 4056,
+          "label": "Chapter 14"
+        },
+        {
+          "timecode": "1:11:12",
+          "seconds": 4272,
+          "label": "Chapter 15"
+        },
+        {
+          "timecode": "1:16:24",
+          "seconds": 4584,
+          "label": "Chapter 16"
+        },
+        {
+          "timecode": "1:21:25",
+          "seconds": 4885,
+          "label": "Chapter 17"
+        },
+        {
+          "timecode": "1:26:23",
+          "seconds": 5183,
+          "label": "Chapter 18"
+        },
+        {
+          "timecode": "1:30:13",
+          "seconds": 5413,
+          "label": "Chapter 19"
+        },
+        {
+          "timecode": "1:35:43",
+          "seconds": 5743,
+          "label": "Chapter 20"
+        },
+        {
+          "timecode": "1:40:47",
+          "seconds": 6047,
+          "label": "Chapter 21"
+        },
+        {
+          "timecode": "1:46:29",
+          "seconds": 6389,
+          "label": "Chapter 22"
+        },
+        {
+          "timecode": "1:50:47",
+          "seconds": 6647,
+          "label": "Chapter 23"
+        },
+        {
+          "timecode": "1:55:38",
+          "seconds": 6938,
+          "label": "Chapter 24"
+        },
+        {
+          "timecode": "1:59:12",
+          "seconds": 7152,
+          "label": "Chapter 25"
+        },
+        {
+          "timecode": "2:03:02",
+          "seconds": 7382,
+          "label": "Chapter 26"
+        },
+        {
+          "timecode": "2:07:36",
+          "seconds": 7656,
+          "label": "Chapter 27"
+        },
+        {
+          "timecode": "2:13:04",
+          "seconds": 7984,
+          "label": "Chapter 28"
+        }
+      ]
+    },
+    {
+      "id": "scourby-kjv-45-romans",
+      "showId": "scourby-kjv",
+      "bookNum": 45,
+      "bookName": "Romans",
+      "title": "Book 45 · Romans",
+      "ytTitle": "45 | The Book ROMANS (KJV) | Read By Alexander Scourby | AUDIO and TEXT | Synced Together.",
+      "testament": "NT",
+      "totalBookChapters": 16,
+      "youtubeId": "o91Jp1JENtw",
+      "durationSec": 3624,
+      "coverUrl": "https://i.ytimg.com/vi/o91Jp1JENtw/hqdefault.jpg",
+      "coverMaxUrl": "https://i.ytimg.com/vi/o91Jp1JENtw/maxresdefault.jpg",
+      "synopsis": "Book of Romans reveals God’s plan to redeem humanity through Christ, calling believers to live transformed lives shaped by faith. Paul explains the power of grace, the gift of righteousness, and unity in the Spirit: “, who walk not after the flesh, but after the Spirit.” (Romans 8:4)",
+      "chapters": [
+        {
+          "timecode": "0:00",
+          "seconds": 0,
+          "label": "Chapter 1"
+        },
+        {
+          "timecode": "4:32",
+          "seconds": 272,
+          "label": "Chapter 2"
+        },
+        {
+          "timecode": "8:36",
+          "seconds": 516,
+          "label": "Chapter 3"
+        },
+        {
+          "timecode": "12:16",
+          "seconds": 736,
+          "label": "Chapter 4"
+        },
+        {
+          "timecode": "15:35",
+          "seconds": 935,
+          "label": "Chapter 5"
+        },
+        {
+          "timecode": "18:46",
+          "seconds": 1126,
+          "label": "Chapter 6"
+        },
+        {
+          "timecode": "21:51",
+          "seconds": 1311,
+          "label": "Chapter 7"
+        },
+        {
+          "timecode": "25:33",
+          "seconds": 1533,
+          "label": "Chapter 8"
+        },
+        {
+          "timecode": "31:11",
+          "seconds": 1871,
+          "label": "Chapter 9"
+        },
+        {
+          "timecode": "35:39",
+          "seconds": 2139,
+          "label": "Chapter 10"
+        },
+        {
+          "timecode": "38:35",
+          "seconds": 2315,
+          "label": "Chapter 11"
+        },
+        {
+          "timecode": "43:44",
+          "seconds": 2624,
+          "label": "Chapter 12"
+        },
+        {
+          "timecode": "46:46",
+          "seconds": 2806,
+          "label": "Chapter 13"
+        },
+        {
+          "timecode": "49:11",
+          "seconds": 2951,
+          "label": "Chapter 14"
+        },
+        {
+          "timecode": "52:36",
+          "seconds": 3156,
+          "label": "Chapter 15"
+        },
+        {
+          "timecode": "56:48",
+          "seconds": 3408,
+          "label": "Chapter 16"
+        }
+      ]
+    },
+    {
+      "id": "scourby-kjv-46-1-corinthians",
+      "showId": "scourby-kjv",
+      "bookNum": 46,
+      "bookName": "1 Corinthians",
+      "title": "Book 46 · 1 Corinthians",
+      "ytTitle": "46 I The Book 1 CORINTHIANS (KJV) | Read By Alexander Scourby | AUDIO and TEXT | Synced Together",
+      "testament": "NT",
+      "totalBookChapters": 16,
+      "youtubeId": "R9aK4Rkw7rk",
+      "durationSec": 3678,
+      "coverUrl": "https://i.ytimg.com/vi/R9aK4Rkw7rk/hqdefault.jpg",
+      "coverMaxUrl": "https://i.ytimg.com/vi/R9aK4Rkw7rk/maxresdefault.jpg",
+      "synopsis": "1 CORINTHIANS calls believers to unity, holiness, and love as Paul confronts division and guides the church toward spiritual maturity. This letter highlights the power of bold faith, the supremacy of charity, and the call to live transformed lives grounded in Christ’s wisdom and resurrection hope. Our channel is dedicated to preserving The World’s Greatest Books, read by Alexander Scourby, who the Chicago Tribune praised as having The Greatest Voice Ever Recorded, and The World’s Best Audiobook Narrator, bar none. His 1611 King James Bible reading is a classic and brings every chapter of the 66 books to life with unmatched depth, authenticity, and reverence. Nothing repetitive, nothing artificial, only Scourby’s singular voice presenting the beauty of The Scriptures.",
+      "chapters": [
+        {
+          "timecode": "0:00",
+          "seconds": 0,
+          "label": "Paul's greeting"
+        },
+        {
+          "timecode": "1:03",
+          "seconds": 63,
+          "label": "Divisions and wisdom"
+        },
+        {
+          "timecode": "4:05",
+          "seconds": 245,
+          "label": "The wisdom of God"
+        },
+        {
+          "timecode": "6:26",
+          "seconds": 386,
+          "label": "Church unity"
+        },
+        {
+          "timecode": "9:31",
+          "seconds": 571,
+          "label": "Apostolic ministry"
+        },
+        {
+          "timecode": "12:47",
+          "seconds": 767,
+          "label": "Church discipline"
+        },
+        {
+          "timecode": "14:44",
+          "seconds": 884,
+          "label": "Legal and moral disputes"
+        },
+        {
+          "timecode": "17:52",
+          "seconds": 1072,
+          "label": "Marriage and singleness"
+        },
+        {
+          "timecode": "21:14",
+          "seconds": 1274,
+          "label": "Christian liberty"
+        },
+        {
+          "timecode": "23:46",
+          "seconds": 1426,
+          "label": "Idols and freedom"
+        },
+        {
+          "timecode": "25:39",
+          "seconds": 1539,
+          "label": "Paul's authority"
+        },
+        {
+          "timecode": "29:45",
+          "seconds": 1785,
+          "label": "Warnings from history"
+        },
+        {
+          "timecode": "34:05",
+          "seconds": 2045,
+          "label": "Order in worship"
+        },
+        {
+          "timecode": "38:33",
+          "seconds": 2313,
+          "label": "Spiritual gifts"
+        },
+        {
+          "timecode": "42:42",
+          "seconds": 2562,
+          "label": "The way of love"
+        },
+        {
+          "timecode": "45:10",
+          "seconds": 2710,
+          "label": "Gifts in worship"
+        },
+        {
+          "timecode": "50:45",
+          "seconds": 3045,
+          "label": "Resurrection"
+        },
+        {
+          "timecode": "58:12",
+          "seconds": 3492,
+          "label": "Final instructions"
+        }
+      ]
+    },
+    {
+      "id": "scourby-kjv-47-2-corinthians",
+      "showId": "scourby-kjv",
+      "bookNum": 47,
+      "bookName": "2 Corinthians",
+      "title": "Book 47 · 2 Corinthians",
+      "ytTitle": "47 | 2 CORINTHIANS (KJV) | Read By Alexander Scourby | AUDIO and TEXT | Synced Together.",
+      "testament": "NT",
+      "totalBookChapters": 13,
+      "youtubeId": "XQa4K2Iwrfo",
+      "durationSec": 2311,
+      "coverUrl": "https://i.ytimg.com/vi/XQa4K2Iwrfo/hqdefault.jpg",
+      "coverMaxUrl": "https://i.ytimg.com/vi/XQa4K2Iwrfo/maxresdefault.jpg",
+      "synopsis": "Book of 2 CORINTHIANS reveals Paul’s heartfelt defense of his ministry, God’s comfort in trials, the call to forgiveness, the glory of the new covenant, treasure in earthen vessels, walking by faith, becoming new creations, generous giving, spiritual authority, and Christ’s strength.",
+      "chapters": [
+        {
+          "timecode": "0:00",
+          "seconds": 0,
+          "label": "Paul's greetings"
+        },
+        {
+          "timecode": "3:39",
+          "seconds": 219,
+          "label": "Forgiveness and consolation"
+        },
+        {
+          "timecode": "6:00",
+          "seconds": 360,
+          "label": "Ministers of a new covenant"
+        },
+        {
+          "timecode": "8:27",
+          "seconds": 507,
+          "label": "Treasures in earthen vessels"
+        },
+        {
+          "timecode": "11:06",
+          "seconds": 666,
+          "label": "Ministry of reconciliation"
+        },
+        {
+          "timecode": "14:10",
+          "seconds": 850,
+          "label": "Marks of a true minister"
+        },
+        {
+          "timecode": "16:44",
+          "seconds": 1004,
+          "label": "Joy in repentance"
+        },
+        {
+          "timecode": "19:40",
+          "seconds": 1180,
+          "label": "The grace of giving"
+        },
+        {
+          "timecode": "22:55",
+          "seconds": 1375,
+          "label": "Cheerful giving"
+        },
+        {
+          "timecode": "25:03",
+          "seconds": 1503,
+          "label": "Paul's authority defended"
+        },
+        {
+          "timecode": "27:36",
+          "seconds": 1656,
+          "label": "Paul's suffering"
+        },
+        {
+          "timecode": "32:27",
+          "seconds": 1947,
+          "label": "Paul's visions and trials"
+        },
+        {
+          "timecode": "36:08",
+          "seconds": 2168,
+          "label": "Final warnings and greetings"
+        }
+      ]
+    },
+    {
+      "id": "scourby-kjv-48-galatians",
+      "showId": "scourby-kjv",
+      "bookNum": 48,
+      "bookName": "Galatians",
+      "title": "Book 48 · Galatians",
+      "ytTitle": "48 | The Book GALATIANS (KJV) | Read By Alexander Scourby | AUDIO and TEXT | Synced Together.",
+      "testament": "NT",
+      "totalBookChapters": 6,
+      "youtubeId": "R1mZN4ZBoUQ",
+      "durationSec": 1163,
+      "coverUrl": "https://i.ytimg.com/vi/R1mZN4ZBoUQ/hqdefault.jpg",
+      "coverMaxUrl": "https://i.ytimg.com/vi/R1mZN4ZBoUQ/maxresdefault.jpg",
+      "synopsis": "GALATIANS declares the power of grace, exposing false gospels and defending salvation by faith alone. Paul urges believers to walk in the Spirit, reject bondage, live in Christ’s freedom, bear spiritual fruit, and stand firm in truth. GALATIANS calls the church to cling to the cross and live as a new creation shaped by God’s promise.",
+      "chapters": [
+        {
+          "timecode": "0:00",
+          "seconds": 0,
+          "label": "Paul's calling"
+        },
+        {
+          "timecode": "2:40",
+          "seconds": 160,
+          "label": "Justification by faith"
+        },
+        {
+          "timecode": "5:56",
+          "seconds": 356,
+          "label": "Law vs promise"
+        },
+        {
+          "timecode": "10:01",
+          "seconds": 601,
+          "label": "Children of promise"
+        },
+        {
+          "timecode": "13:44",
+          "seconds": 824,
+          "label": "Christian liberty"
+        },
+        {
+          "timecode": "16:47",
+          "seconds": 1007,
+          "label": "Final exhortations"
+        }
+      ]
+    },
+    {
+      "id": "scourby-kjv-49-ephesians",
+      "showId": "scourby-kjv",
+      "bookNum": 49,
+      "bookName": "Ephesians",
+      "title": "Book 49 · Ephesians",
+      "ytTitle": "49 | The Book EPHESIANS (KJV) | Read By Alexander Scourby | AUDIO and TEXT | Synced Together.",
+      "testament": "NT",
+      "totalBookChapters": 6,
+      "youtubeId": "XFV4HeoFi7E",
+      "durationSec": 1140,
+      "coverUrl": "https://i.ytimg.com/vi/XFV4HeoFi7E/hqdefault.jpg",
+      "coverMaxUrl": "https://i.ytimg.com/vi/XFV4HeoFi7E/maxresdefault.jpg",
+      "synopsis": "EPHESIANS reveals God’s eternal plan in Christ, unity of Jew and Gentile, salvation by grace through faith, the mystery of the Church, spiritual maturity, walking in love and light, putting off the old man, Spirit‑filled living, marriage and family order, and the full armor of God for victorious spiritual warfare.",
+      "chapters": [
+        {
+          "timecode": "0:00",
+          "seconds": 0,
+          "label": "Spiritual blessings"
+        },
+        {
+          "timecode": "2:50",
+          "seconds": 170,
+          "label": "Unity in Christ"
+        },
+        {
+          "timecode": "5:46",
+          "seconds": 346,
+          "label": "The mystery revealed"
+        },
+        {
+          "timecode": "8:07",
+          "seconds": 487,
+          "label": "Unity and new life"
+        },
+        {
+          "timecode": "11:55",
+          "seconds": 715,
+          "label": "Christian living"
+        },
+        {
+          "timecode": "15:35",
+          "seconds": 935,
+          "label": "Armor of God"
+        }
+      ]
+    },
+    {
+      "id": "scourby-kjv-50-philippians",
+      "showId": "scourby-kjv",
+      "bookNum": 50,
+      "bookName": "Philippians",
+      "title": "Book 50 · Philippians",
+      "ytTitle": "50 | The Book PHILIPPIANS (KJV) | Read By Alexander Scourby | AUDIO and TEXT | Synced Together.",
+      "testament": "NT",
+      "totalBookChapters": 4,
+      "youtubeId": "a41E5a_yVKs",
+      "durationSec": 852,
+      "coverUrl": "https://i.ytimg.com/vi/a41E5a_yVKs/hqdefault.jpg",
+      "coverMaxUrl": "https://i.ytimg.com/vi/a41E5a_yVKs/maxresdefault.jpg",
+      "synopsis": "PHILIPPIANS highlights joy in Christ, unity through humility, the mind of Christ, shining as lights, pressing toward the mark, rejoicing always, God’s peace guarding hearts, strength through Christ, and contentment in every circumstance. PHILIPPIANS anchors believers in unshakable hope and spiritual maturity.",
+      "chapters": [
+        {
+          "timecode": "0:00",
+          "seconds": 0,
+          "label": "Introduction and prayer"
+        },
+        {
+          "timecode": "1:17",
+          "seconds": 77,
+          "label": "Furtherance of the gospel"
+        },
+        {
+          "timecode": "3:52",
+          "seconds": 232,
+          "label": "Humility and servants"
+        },
+        {
+          "timecode": "7:31",
+          "seconds": 451,
+          "label": "Righteousness in Christ"
+        },
+        {
+          "timecode": "10:35",
+          "seconds": 635,
+          "label": "Contentment and final salute"
+        }
+      ]
+    },
+    {
+      "id": "scourby-kjv-51-colossians",
+      "showId": "scourby-kjv",
+      "bookNum": 51,
+      "bookName": "Colossians",
+      "title": "Book 51 · Colossians",
+      "ytTitle": "51 | The Book COLOSSIANS (KJV) | Read By Alexander Scourby | AUDIO and TEXT | Synced Together.",
+      "testament": "NT",
+      "totalBookChapters": 4,
+      "youtubeId": "Q-lSo0p1FZc",
+      "durationSec": 758,
+      "coverUrl": "https://i.ytimg.com/vi/Q-lSo0p1FZc/hqdefault.jpg",
+      "coverMaxUrl": "https://i.ytimg.com/vi/Q-lSo0p1FZc/maxresdefault.jpg",
+      "synopsis": "Colossians emphasizes Christ’s absolute supremacy and the fullness believers have in Him. Paul urges the church to reject false teachings, live transformed lives, and let Christ shape relationships, worship, and conduct. The letter highlights Christ as Creator, Reconciler, and the source of spiritual maturity.",
+      "chapters": [
+        {
+          "timecode": "0:00",
+          "seconds": 0,
+          "label": "Paul's greetings and prayer"
+        },
+        {
+          "timecode": "3:44",
+          "seconds": 224,
+          "label": "Warning against false teaching"
+        },
+        {
+          "timecode": "6:50",
+          "seconds": 410,
+          "label": "Living a new life in Christ"
+        },
+        {
+          "timecode": "9:52",
+          "seconds": 592,
+          "label": "Final instructions and greetings"
+        }
+      ]
+    },
+    {
+      "id": "scourby-kjv-52-1-thessalonians",
+      "showId": "scourby-kjv",
+      "bookNum": 52,
+      "bookName": "1 Thessalonians",
+      "title": "Book 52 · 1 Thessalonians",
+      "ytTitle": "52 | The Book 1 THESSALONIANS (KJV) | Read By Alexander Scourby | AUDIO and TEXT | Synced Together",
+      "testament": "NT",
+      "totalBookChapters": 5,
+      "youtubeId": "aUSm_NdbQmI",
+      "durationSec": 684,
+      "coverUrl": "https://i.ytimg.com/vi/aUSm_NdbQmI/hqdefault.jpg",
+      "coverMaxUrl": "https://i.ytimg.com/vi/aUSm_NdbQmI/maxresdefault.jpg",
+      "synopsis": "1 THESSALONIANS urges steadfast faith, holy living, brotherly love, encouragement in trials, purity, hope in Christ’s return, comforting truth about the resurrection, watchfulness, gratitude, and holding fast to what is good, strengthening believers to live ready for the Lord’s coming.",
+      "chapters": [
+        {
+          "timecode": "0:00",
+          "seconds": 0,
+          "label": "Introduction and thanksgiving"
+        },
+        {
+          "timecode": "1:29",
+          "seconds": 89,
+          "label": "Paul's ministry and care"
+        },
+        {
+          "timecode": "4:16",
+          "seconds": 256,
+          "label": "Timothy's report and joy"
+        },
+        {
+          "timecode": "5:52",
+          "seconds": 352,
+          "label": "Call to holiness and hope"
+        },
+        {
+          "timecode": "8:11",
+          "seconds": 491,
+          "label": "Final instructions and closing"
+        }
+      ]
+    },
+    {
+      "id": "scourby-kjv-53-2-thessalonians",
+      "showId": "scourby-kjv",
+      "bookNum": 53,
+      "bookName": "2 Thessalonians",
+      "title": "Book 53 · 2 Thessalonians",
+      "ytTitle": "53 | The Book 2 THESSALONIANS | (KJV) | Read By Alexander Scourby | AUDIO and TEXT | Synced Together",
+      "testament": "NT",
+      "totalBookChapters": 3,
+      "youtubeId": "OANdoaZiLx8",
+      "durationSec": 382,
+      "coverUrl": "https://i.ytimg.com/vi/OANdoaZiLx8/hqdefault.jpg",
+      "coverMaxUrl": "https://i.ytimg.com/vi/OANdoaZiLx8/maxresdefault.jpg",
+      "synopsis": "2 THESSALONIANS warns against deception, strengthens believers under persecution, reveals the man of sin, calls for steadfast faith, urges holding truth, commands orderly living, rejects idleness, encourages perseverance, and assures Christ’s ultimate victory, anchoring hope.",
+      "chapters": [
+        {
+          "timecode": "0:00",
+          "seconds": 0,
+          "label": "Opening greeting and faith"
+        },
+        {
+          "timecode": "1:38",
+          "seconds": 98,
+          "label": "Concerning the day of Christ"
+        },
+        {
+          "timecode": "3:56",
+          "seconds": 236,
+          "label": "Final exhortations"
+        },
+        {
+          "timecode": "5:53",
+          "seconds": 353,
+          "label": "Closing salutations"
+        }
+      ]
+    },
+    {
+      "id": "scourby-kjv-54-1-timothy",
+      "showId": "scourby-kjv",
+      "bookNum": 54,
+      "bookName": "1 Timothy",
+      "title": "Book 54 · 1 Timothy",
+      "ytTitle": "54 | The Book 1 TIMOTHY (KJV) | Read By Alexander Scourby | AUDIO and TEXT | Synced Together.",
+      "testament": "NT",
+      "totalBookChapters": 6,
+      "youtubeId": "hBFsKx31DCY",
+      "durationSec": 927,
+      "coverUrl": "https://i.ytimg.com/vi/hBFsKx31DCY/hqdefault.jpg",
+      "coverMaxUrl": "https://i.ytimg.com/vi/hBFsKx31DCY/maxresdefault.jpg",
+      "synopsis": "1 Timothy highlights sound doctrine, godly leadership, prayer, modesty, qualifications for bishops and deacons, warnings against false teachers, stewardship of truth, caring for widows, pursuing righteousness, fighting the good fight, and guarding the faith with boldness.",
+      "chapters": [
+        {
+          "timecode": "0:00",
+          "seconds": 0,
+          "label": "Paul's charge to Timothy"
+        },
+        {
+          "timecode": "2:51",
+          "seconds": 171,
+          "label": "Instructions on worship"
+        },
+        {
+          "timecode": "4:29",
+          "seconds": 269,
+          "label": "Church leadership roles"
+        },
+        {
+          "timecode": "6:30",
+          "seconds": 390,
+          "label": "Warning of false teachers"
+        },
+        {
+          "timecode": "8:35",
+          "seconds": 515,
+          "label": "Pastoral duties and care"
+        },
+        {
+          "timecode": "11:42",
+          "seconds": 702,
+          "label": "Final charge and warnings"
+        }
+      ]
+    },
+    {
+      "id": "scourby-kjv-55-2-timothy",
+      "showId": "scourby-kjv",
+      "bookNum": 55,
+      "bookName": "2 Timothy",
+      "title": "Book 55 · 2 Timothy",
+      "ytTitle": "55 | The Book 2 TIMOTHY (KJV) | Read By Alexander Scourby | AUDIO and TEXT | Synced Together.",
+      "testament": "NT",
+      "totalBookChapters": 4,
+      "youtubeId": "50LE1CCqL30",
+      "durationSec": 679,
+      "coverUrl": "https://i.ytimg.com/vi/50LE1CCqL30/hqdefault.jpg",
+      "coverMaxUrl": "https://i.ytimg.com/vi/50LE1CCqL30/maxresdefault.jpg",
+      "synopsis": "2 TIMOTHY urges steadfast faith, bold preaching, endurance in trials, guarding sound doctrine, rejecting false teachers, finishing the Christian race, mentoring believers, standing firm despite persecution, and trusting God’s Word as the source of strength and guidance.",
+      "chapters": [
+        {
+          "timecode": "0:03",
+          "seconds": 3,
+          "label": "Chapter 1"
+        },
+        {
+          "timecode": "2:33",
+          "seconds": 153,
+          "label": "chapter 2"
+        },
+        {
+          "timecode": "5:49",
+          "seconds": 349,
+          "label": "Chapter 3"
+        },
+        {
+          "timecode": "8:05",
+          "seconds": 485,
+          "label": "Chapter 4"
+        },
+        {
+          "timecode": "0:00",
+          "seconds": 0,
+          "label": "Greeting and encouragement"
+        },
+        {
+          "timecode": "2:34",
+          "seconds": 154,
+          "label": "Faithfulness and endurance"
+        },
+        {
+          "timecode": "5:49",
+          "seconds": 349,
+          "label": "Perilous times and scripture"
+        },
+        {
+          "timecode": "8:05",
+          "seconds": 485,
+          "label": "Final charge and farewell"
+        }
+      ]
+    },
+    {
+      "id": "scourby-kjv-56-titus",
+      "showId": "scourby-kjv",
+      "bookNum": 56,
+      "bookName": "Titus",
+      "title": "Book 56 · Titus",
+      "ytTitle": "56 | The Book TITUS (KJV) | Read By Alexander Scourby | AUDIO and TEXT | Synced Together.",
+      "testament": "NT",
+      "totalBookChapters": 3,
+      "youtubeId": "-q-jj_zq6tM",
+      "durationSec": 379,
+      "coverUrl": "https://i.ytimg.com/vi/-q-jj_zq6tM/hqdefault.jpg",
+      "coverMaxUrl": "https://i.ytimg.com/vi/-q-jj_zq6tM/maxresdefault.jpg",
+      "synopsis": "TITUS calls believers to uphold sound doctrine, appoint godly leaders, silence false teachers, live with integrity, embrace God’s saving grace, pursue good works, and maintain unity. Paul urges strong character, wise teaching, and a life that reflects Christ’s transforming power.",
+      "chapters": [
+        {
+          "timecode": "0:00",
+          "seconds": 0,
+          "label": "Introduction and elders"
+        },
+        {
+          "timecode": "2:08",
+          "seconds": 128,
+          "label": "Conduct and sound doctrine"
+        },
+        {
+          "timecode": "3:56",
+          "seconds": 236,
+          "label": "Good works and final words"
+        }
+      ]
+    },
+    {
+      "id": "scourby-kjv-57-philemon",
+      "showId": "scourby-kjv",
+      "bookNum": 57,
+      "bookName": "Philemon",
+      "title": "Book 57 · Philemon",
+      "ytTitle": "57 | The Book PHILEMON (KJV) | Read By Alexander Scourby | AUDIO and TEXT | Synced Together.",
+      "testament": "NT",
+      "totalBookChapters": 1,
+      "youtubeId": "MQ8zkcBMUYY",
+      "durationSec": 179,
+      "coverUrl": "https://i.ytimg.com/vi/MQ8zkcBMUYY/hqdefault.jpg",
+      "coverMaxUrl": "https://i.ytimg.com/vi/MQ8zkcBMUYY/maxresdefault.jpg",
+      "synopsis": "PHILEMON highlights forgiveness, reconciliation, Christian love, Paul’s appeal for Onesimus, transforming relationships through grace, urging believers to restore the broken, model mercy, and live out the gospel by receiving others as brothers in Christ.",
+      "chapters": [
+        {
+          "timecode": "0:00",
+          "seconds": 0,
+          "label": "Introduction and greeting"
+        },
+        {
+          "timecode": "0:21",
+          "seconds": 21,
+          "label": "Paul's gratitude"
+        },
+        {
+          "timecode": "0:42",
+          "seconds": 42,
+          "label": "Plea for Onesimus"
+        },
+        {
+          "timecode": "1:41",
+          "seconds": 101,
+          "label": "Paul's guarantee"
+        },
+        {
+          "timecode": "2:20",
+          "seconds": 140,
+          "label": "Final greetings"
+        }
+      ]
+    },
+    {
+      "id": "scourby-kjv-58-hebrews",
+      "showId": "scourby-kjv",
+      "bookNum": 58,
+      "bookName": "Hebrews",
+      "title": "Book 58 · Hebrews",
+      "ytTitle": "58 | The Book of  HEBREWS KJV) | Read By Alexander Scourby | AUDIO and TEXT | Synced Together.",
+      "testament": "NT",
+      "totalBookChapters": 13,
+      "youtubeId": "TUfi0s3XV48",
+      "durationSec": 2481,
+      "coverUrl": "https://i.ytimg.com/vi/TUfi0s3XV48/hqdefault.jpg",
+      "coverMaxUrl": "https://i.ytimg.com/vi/TUfi0s3XV48/maxresdefault.jpg",
+      "synopsis": "HEBREWS reveals Christ’s supremacy, His eternal priesthood, the power of His once‑for‑all sacrifice, the call to steadfast faith, and the warning against drifting. This book urges believers to endure with confidence, Jesus, the perfect High Priest and mediator of a better covenant.",
+      "chapters": [
+        {
+          "timecode": "0:00",
+          "seconds": 0,
+          "label": "The superiority of Christ"
+        },
+        {
+          "timecode": "1:59",
+          "seconds": 119,
+          "label": "Jesus made lower than angels"
+        },
+        {
+          "timecode": "4:45",
+          "seconds": 285,
+          "label": "Christ's faithfulness to God"
+        },
+        {
+          "timecode": "6:54",
+          "seconds": 414,
+          "label": "Entering into God's rest"
+        },
+        {
+          "timecode": "9:14",
+          "seconds": 554,
+          "label": "Jesus as the high priest"
+        },
+        {
+          "timecode": "11:06",
+          "seconds": 666,
+          "label": "Warning against falling away"
+        },
+        {
+          "timecode": "13:30",
+          "seconds": 810,
+          "label": "Melchizedek's priesthood"
+        },
+        {
+          "timecode": "17:06",
+          "seconds": 1026,
+          "label": "A new and better covenant"
+        },
+        {
+          "timecode": "19:04",
+          "seconds": 1144,
+          "label": "Sacrifice of Christ"
+        },
+        {
+          "timecode": "22:58",
+          "seconds": 1378,
+          "label": "Once-for-all sacrifice"
+        },
+        {
+          "timecode": "25:05",
+          "seconds": 1505,
+          "label": "Faith and perseverance"
+        },
+        {
+          "timecode": "27:45",
+          "seconds": 1665,
+          "label": "The hall of faith"
+        },
+        {
+          "timecode": "33:48",
+          "seconds": 2028,
+          "label": "Endurance and discipline"
+        },
+        {
+          "timecode": "37:53",
+          "seconds": 2273,
+          "label": "Final exhortations and prayers"
+        }
+      ]
+    },
+    {
+      "id": "scourby-kjv-59-james",
+      "showId": "scourby-kjv",
+      "bookNum": 59,
+      "bookName": "James",
+      "title": "Book 59 · James",
+      "ytTitle": "59 | The Book of JAMES KJV) | Read By Alexander Scourby | AUDIO and TEXT | Synced Together.",
+      "testament": "NT",
+      "totalBookChapters": 5,
+      "youtubeId": "nl8walYshqc",
+      "durationSec": 894,
+      "coverUrl": "https://i.ytimg.com/vi/nl8walYshqc/hqdefault.jpg",
+      "coverMaxUrl": "https://i.ytimg.com/vi/nl8walYshqc/maxresdefault.jpg",
+      "synopsis": "JAMES calls believers to live out genuine faith through obedience, endurance in trials, bridling the tongue, rejecting worldliness, showing impartial love, pursuing wisdom from above, resisting temptation, doing the Word not just hearing it, and demonstrating true spiritual maturity.",
+      "chapters": [
+        {
+          "timecode": "0:00",
+          "seconds": 0,
+          "label": "Trials and wisdom"
+        },
+        {
+          "timecode": "1:13",
+          "seconds": 73,
+          "label": "Temptation and God's gifts"
+        },
+        {
+          "timecode": "2:06",
+          "seconds": 126,
+          "label": "Being doers of the word"
+        },
+        {
+          "timecode": "3:22",
+          "seconds": 202,
+          "label": "Faith without partiality"
+        },
+        {
+          "timecode": "5:03",
+          "seconds": 303,
+          "label": "Faith and works"
+        },
+        {
+          "timecode": "6:40",
+          "seconds": 400,
+          "label": "Taming the tongue"
+        },
+        {
+          "timecode": "8:22",
+          "seconds": 502,
+          "label": "Two kinds of wisdom"
+        },
+        {
+          "timecode": "9:09",
+          "seconds": 549,
+          "label": "Submitting to God"
+        },
+        {
+          "timecode": "11:33",
+          "seconds": 693,
+          "label": "Warning to the rich"
+        },
+        {
+          "timecode": "12:20",
+          "seconds": 740,
+          "label": "Patience and integrity"
+        },
+        {
+          "timecode": "13:24",
+          "seconds": 804,
+          "label": "Prayer and restoration"
+        },
+        {
+          "timecode": "14:30",
+          "seconds": 870,
+          "label": "Conclusion"
+        }
+      ]
+    },
+    {
+      "id": "scourby-kjv-60-1-peter",
+      "showId": "scourby-kjv",
+      "bookNum": 60,
+      "bookName": "1 Peter",
+      "title": "Book 60 · 1 Peter",
+      "ytTitle": "60 | The Book 1 PETER (KJV) | Read By Alexander Scourby | AUDIO and TEXT | Synced Together.",
+      "testament": "NT",
+      "totalBookChapters": 5,
+      "youtubeId": "kEIlIB7Lqlk",
+      "durationSec": 1010,
+      "coverUrl": "https://i.ytimg.com/vi/kEIlIB7Lqlk/hqdefault.jpg",
+      "coverMaxUrl": "https://i.ytimg.com/vi/kEIlIB7Lqlk/maxresdefault.jpg",
+      "synopsis": "1 PETER calls believers to stand firm in trials, live in holiness, love one another deeply, submit with humility, follow Christ’s suffering example, resist the devil, and hope in God’s eternal glory. This letter strengthens faith and encourages unwavering trust in message of endurance.",
+      "chapters": [
+        {
+          "timecode": "0:00",
+          "seconds": 0,
+          "label": "Salutation and hope"
+        },
+        {
+          "timecode": "3:52",
+          "seconds": 232,
+          "label": "Spiritual growth"
+        },
+        {
+          "timecode": "5:53",
+          "seconds": 353,
+          "label": "Submission and example"
+        },
+        {
+          "timecode": "7:38",
+          "seconds": 458,
+          "label": "Christian conduct"
+        },
+        {
+          "timecode": "11:06",
+          "seconds": 666,
+          "label": "Suffering for Christ"
+        },
+        {
+          "timecode": "14:19",
+          "seconds": 859,
+          "label": "Final instructions"
+        }
+      ]
+    },
+    {
+      "id": "scourby-kjv-61-2-peter",
+      "showId": "scourby-kjv",
+      "bookNum": 61,
+      "bookName": "2 Peter",
+      "title": "Book 61 · 2 Peter",
+      "ytTitle": "61 | The Book of  2 Peter KJV) | Read By Alexander Scourby | AUDIO and TEXT | Synced Together",
+      "testament": "NT",
+      "totalBookChapters": 3,
+      "youtubeId": "k68QL_h8h94",
+      "durationSec": 625,
+      "coverUrl": "https://i.ytimg.com/vi/k68QL_h8h94/hqdefault.jpg",
+      "coverMaxUrl": "https://i.ytimg.com/vi/k68QL_h8h94/maxresdefault.jpg",
+      "synopsis": "2 PETER warns against false teachers, urges believers to grow in faith, remember God’s promises, and live holy lives. Peter highlights divine judgment, the certainty of Christ’s return, and the call to stand firm in truth while waiting for the new heavens and new earth.",
+      "chapters": [
+        {
+          "timecode": "0:00",
+          "seconds": 0,
+          "label": "Greetings and divine power"
+        },
+        {
+          "timecode": "3:06",
+          "seconds": 186,
+          "label": "Warning of false teachers"
+        },
+        {
+          "timecode": "6:58",
+          "seconds": 418,
+          "label": "The day of the Lord"
+        }
+      ]
+    },
+    {
+      "id": "scourby-kjv-62-1-john",
+      "showId": "scourby-kjv",
+      "bookNum": 62,
+      "bookName": "1 John",
+      "title": "Book 62 · 1 John",
+      "ytTitle": "62 | The Book 1 JOHN (KJV) | Read By Alexander Scourby | AUDIO and TEXT | Synced Together.",
+      "testament": "NT",
+      "totalBookChapters": 5,
+      "youtubeId": "I896_FOzFQw",
+      "durationSec": 953,
+      "coverUrl": "https://i.ytimg.com/vi/I896_FOzFQw/hqdefault.jpg",
+      "coverMaxUrl": "https://i.ytimg.com/vi/I896_FOzFQw/maxresdefault.jpg",
+      "synopsis": "A reflective doorway into 1 John, this introduction invites viewers to explore its powerful themes of light, love, and spiritual assurance. This short book speaks boldly about living in truth, recognizing God’s presence, and walking in genuine fellowship. Let this reading draw you deeper into its timeless message.",
+      "chapters": [
+        {
+          "timecode": "0:00",
+          "seconds": 0,
+          "label": "The word of life"
+        },
+        {
+          "timecode": "0:35",
+          "seconds": 35,
+          "label": "Walking in the light"
+        },
+        {
+          "timecode": "1:30",
+          "seconds": 90,
+          "label": "Love and commandments"
+        },
+        {
+          "timecode": "4:01",
+          "seconds": 241,
+          "label": "The spirit of antichrist"
+        },
+        {
+          "timecode": "5:50",
+          "seconds": 350,
+          "label": "Children of God"
+        },
+        {
+          "timecode": "9:16",
+          "seconds": 556,
+          "label": "God is love"
+        },
+        {
+          "timecode": "12:24",
+          "seconds": 744,
+          "label": "Faith and eternal life"
+        }
+      ]
+    },
+    {
+      "id": "scourby-kjv-63-2-john",
+      "showId": "scourby-kjv",
+      "bookNum": 63,
+      "bookName": "2 John",
+      "title": "Book 63 · 2 John",
+      "ytTitle": "63 | The Book 2 JOHN (KJV) | Read By Alexander Scourby | AUDIO and TEXT | Synced Together.",
+      "testament": "NT",
+      "totalBookChapters": 1,
+      "youtubeId": "G_zfXhuZLKg",
+      "durationSec": 123,
+      "coverUrl": "https://i.ytimg.com/vi/G_zfXhuZLKg/hqdefault.jpg",
+      "coverMaxUrl": "https://i.ytimg.com/vi/G_zfXhuZLKg/maxresdefault.jpg",
+      "synopsis": "2 JOHN warns believers to walk in TRUTH, practice LOVE, reject DECEIVERS, and guard the faith. John urges loyalty to Christ’s teaching, discernment against false doctrine, and steadfast obedience. 2 JOHN calls for the church and remain faithful to Christ’s Spoken Truth.",
+      "chapters": [
+        {
+          "timecode": "0:00",
+          "seconds": 0,
+          "label": "Introduction and greeting"
+        },
+        {
+          "timecode": "0:22",
+          "seconds": 22,
+          "label": "Walking in the truth"
+        },
+        {
+          "timecode": "0:47",
+          "seconds": 47,
+          "label": "Warning against deceivers"
+        },
+        {
+          "timecode": "1:13",
+          "seconds": 73,
+          "label": "Final instructions and closing"
+        }
+      ]
+    },
+    {
+      "id": "scourby-kjv-64-3-john",
+      "showId": "scourby-kjv",
+      "bookNum": 64,
+      "bookName": "3 John",
+      "title": "Book 64 · 3 John",
+      "ytTitle": "64 |The Book 3 JOHN (KJV) | Read By Alexander Scourby | AUDIO and TEXT | Synced Together. .",
+      "testament": "NT",
+      "totalBookChapters": 1,
+      "youtubeId": "uCkHp_88Sqk",
+      "durationSec": 127,
+      "coverUrl": "https://i.ytimg.com/vi/uCkHp_88Sqk/hqdefault.jpg",
+      "coverMaxUrl": "https://i.ytimg.com/vi/uCkHp_88Sqk/maxresdefault.jpg",
+      "synopsis": "3 JOHN highlights truth, love, and faithful service as John commends Gaius for walking in truth, warns against Diotrephes’ pride, and praises Demetrius’ good testimony. This short letter urges believers to support godly workers, reject arrogance, and remain steadfast in Christian truth.",
+      "chapters": [
+        {
+          "timecode": "0:00",
+          "seconds": 0,
+          "label": "Greeting and commendation"
+        },
+        {
+          "timecode": "0:49",
+          "seconds": 49,
+          "label": "The actions of Diotrephes"
+        },
+        {
+          "timecode": "1:12",
+          "seconds": 72,
+          "label": "Call to imitate good"
+        },
+        {
+          "timecode": "1:22",
+          "seconds": 82,
+          "label": "Demetrius and final words"
+        }
+      ]
+    },
+    {
+      "id": "scourby-kjv-65-jude",
+      "showId": "scourby-kjv",
+      "bookNum": 65,
+      "bookName": "Jude",
+      "title": "Book 65 · Jude",
+      "ytTitle": "65 | The Book of JUDE (KJV) | Read By Alexander Scourby | AUDIO and TEXT | Synced Together.",
+      "testament": "NT",
+      "totalBookChapters": 1,
+      "youtubeId": "GP8sGeUsPvA",
+      "durationSec": 268,
+      "coverUrl": "https://i.ytimg.com/vi/GP8sGeUsPvA/hqdefault.jpg",
+      "coverMaxUrl": "https://i.ytimg.com/vi/GP8sGeUsPvA/maxresdefault.jpg",
+      "synopsis": "JUDE warns against corrupt teachers, urges believers to contend for the faith, remember God’s past judgments, stay grounded in truth, pray in the Spirit, show mercy to the wavering, and trust God’s keeping power. JUDE highlights vigilance, and steadfast hope in Christ’s ultimate triumph. Our channel is dedicated to preserving The World’s Greatest Books, read by Alexander Scourby, who the Chicago Tribune praised as having The Greatest Voice Ever Recorded. and The World’s Best Audiobook Narrator, bar none. His 1611 King James Bible reading brings every chapter of the 66 books to life with unmatched depth, authenticity, and reverence. Nothing repetitive, nothing artificial, only Scourby’s singular voice presenting the beauty of The Scriptures and classic Biblical literature.",
+      "chapters": [
+        {
+          "timecode": "0:00",
+          "seconds": 0,
+          "label": "Introduction and greeting"
+        },
+        {
+          "timecode": "0:16",
+          "seconds": 16,
+          "label": "Call to contend for faith"
+        },
+        {
+          "timecode": "0:44",
+          "seconds": 44,
+          "label": "Historical examples of judgment"
+        },
+        {
+          "timecode": "1:27",
+          "seconds": 87,
+          "label": "Characteristics of false teachers"
+        },
+        {
+          "timecode": "1:59",
+          "seconds": 119,
+          "label": "Prophecy and descriptions"
+        },
+        {
+          "timecode": "2:35",
+          "seconds": 155,
+          "label": "Apostolic warnings"
+        },
+        {
+          "timecode": "3:08",
+          "seconds": 188,
+          "label": "Instructions for believers"
+        },
+        {
+          "timecode": "3:33",
+          "seconds": 213,
+          "label": "Final doxology"
+        }
+      ]
+    },
+    {
+      "id": "scourby-kjv-66-revelation",
+      "showId": "scourby-kjv",
+      "bookNum": 66,
+      "bookName": "Revelation",
+      "title": "Book 66 · Revelation",
+      "ytTitle": "66 | The Book of  REVELATION KJV) | Read By Alexander Scourby | AUDIO and TEXT | Synced Together.",
+      "testament": "NT",
+      "totalBookChapters": 22,
+      "youtubeId": "_MwOTnyQ0XA",
+      "durationSec": 4227,
+      "coverUrl": "https://i.ytimg.com/vi/_MwOTnyQ0XA/hqdefault.jpg",
+      "coverMaxUrl": "https://i.ytimg.com/vi/_MwOTnyQ0XA/maxresdefault.jpg",
+      "synopsis": "The Revelation unfolds on the island of Patmos, where John is caught up in the Spirit and shown the throne of God, the Lamb opening the seals, trumpet and bowl judgments shaking the earth, the rise and fall of Babylon, the final defeat of Satan, and the glory of the New Heaven and New Earth where God dwells with His people forever.",
+      "chapters": [
+        {
+          "timecode": "0:00",
+          "seconds": 0,
+          "label": "Chapter 1"
+        },
+        {
+          "timecode": "3:45",
+          "seconds": 225,
+          "label": "Chapter 2"
+        },
+        {
+          "timecode": "8:34",
+          "seconds": 514,
+          "label": "Chapter 3"
+        },
+        {
+          "timecode": "12:19",
+          "seconds": 739,
+          "label": "Chapter 4"
+        },
+        {
+          "timecode": "14:19",
+          "seconds": 859,
+          "label": "Chapter 5"
+        },
+        {
+          "timecode": "16:45",
+          "seconds": 1005,
+          "label": "Chapter 6"
+        },
+        {
+          "timecode": "19:43",
+          "seconds": 1183,
+          "label": "Chapter 7"
+        },
+        {
+          "timecode": "22:31",
+          "seconds": 1351,
+          "label": "Chapter 8"
+        },
+        {
+          "timecode": "24:50",
+          "seconds": 1490,
+          "label": "Chapter 9"
+        },
+        {
+          "timecode": "28:07",
+          "seconds": 1687,
+          "label": "Chapter 10"
+        },
+        {
+          "timecode": "30:08",
+          "seconds": 1808,
+          "label": "Chapter 11"
+        },
+        {
+          "timecode": "33:27",
+          "seconds": 2007,
+          "label": "Chapter 12"
+        },
+        {
+          "timecode": "36:18",
+          "seconds": 2178,
+          "label": "Chapter 13"
+        },
+        {
+          "timecode": "39:19",
+          "seconds": 2359,
+          "label": "Chapter 14"
+        },
+        {
+          "timecode": "42:51",
+          "seconds": 2571,
+          "label": "Chapter 15"
+        },
+        {
+          "timecode": "44:19",
+          "seconds": 2659,
+          "label": "Chapter 16"
+        },
+        {
+          "timecode": "47:28",
+          "seconds": 2848,
+          "label": "Chapter 17"
+        },
+        {
+          "timecode": "50:40",
+          "seconds": 3040,
+          "label": "Chapter 18"
+        },
+        {
+          "timecode": "55:25",
+          "seconds": 3325,
+          "label": "Chapter 19"
+        },
+        {
+          "timecode": "59:08",
+          "seconds": 3548,
+          "label": "Chapter 20"
+        },
+        {
+          "timecode": "1:01:47",
+          "seconds": 3707,
+          "label": "Chapter 21"
+        },
+        {
+          "timecode": "1:06:24",
+          "seconds": 3984,
+          "label": "Chapter 22"
+        }
+      ]
+    }
+  ]
+}

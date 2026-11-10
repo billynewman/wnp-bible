@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <defs>
+    <radialGradient id="obsidianGlow" cx="30%" cy="22%" r="78%">
+      <stop offset="0%" stop-color="#1E2029" />
+      <stop offset="55%" stop-color="#0E0F13" />
+      <stop offset="100%" stop-color="#050608" />
+    </radialGradient>
+    <linearGradient id="amberAccent" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#F2BD54" />
+      <stop offset="100%" stop-color="#D4922A" />
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="112" fill="url(#obsidianGlow)" />
+  <rect x="6" y="6" width="500" height="500" rx="106" fill="none" stroke="rgba(255,255,255,0.14)" stroke-width="4" />
+  <circle cx="256" cy="222" r="118" fill="none" stroke="url(#amberAccent)" stroke-width="6" stroke-opacity="0.85" />
+  <circle cx="256" cy="222" r="96" fill="rgba(229,169,60,0.08)" stroke="rgba(255,255,255,0.12)" stroke-width="2" />
+  <path d="M232 174 L304 222 L232 270 Z" fill="url(#amberAccent)" />
+  <text
+    x="256"
+    y="420"
+    text-anchor="middle"
+    fill="#F5F6F8"
+    font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Inter', system-ui, sans-serif"
+    font-size="68"
+    font-weight="800"
+    letter-spacing="8"
+  >WNP</text>
+</svg>
