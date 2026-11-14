@@ -66,7 +66,10 @@ export interface ThemePalette {
   bg: string;
   fg: string;
   accent: string;
+  accent2: string;
   glass: string;
+  glowA: string;
+  glowB: string;
 }
 
 export interface WatchProgress {

@@ -1,4 +1,4 @@
-const CACHE_NAME = 'wnp-bible-shell-v4';
+const CACHE_NAME = 'wnp-bible-shell-v5';
 const SHELL_ASSETS = [
   '/',
   '/index.html',

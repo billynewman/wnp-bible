@@ -103,9 +103,18 @@ describe('WNP Bible (bible.wnp.app) 83-Video Series QA Suite', () => {
     assert.ok(linked.includes('href="https://www.youtube.com/watch?v=OgFT_IxwJJY"'));
   });
 
-  it('verifies rotation/fullscreen state lock guards and service worker v4 cache bump', () => {
+  it('verifies rotation/fullscreen state lock guards, Liquid Glass duo-glow tokens, and service worker v5 cache bump', () => {
     const sw = fs.readFileSync(path.resolve(__dirname, '../public/sw.js'), 'utf8');
-    assert.ok(sw.includes("wnp-bible-shell-v4"));
+    assert.ok(sw.includes("wnp-bible-shell-v5"));
+
+    const cssSrc = fs.readFileSync(path.resolve(__dirname, '../src/style.css'), 'utf8');
+    assert.ok(cssSrc.includes('ambient-aura'));
+    assert.ok(cssSrc.includes('--glow-a'));
+    assert.ok(cssSrc.includes('--glow-b'));
+
+    const themeSrc = fs.readFileSync(path.resolve(__dirname, '../src/theme.ts'), 'utf8');
+    assert.ok(themeSrc.includes('glowA'));
+    assert.ok(themeSrc.includes('glowB'));
 
     const deckSrc = fs.readFileSync(path.resolve(__dirname, '../src/deck.ts'), 'utf8');
     assert.ok(deckSrc.includes('lockAndRestoreActivePosition'));

@@ -1,11 +1,14 @@
 :root {
-  --bg: #0c0a09;
+  --bg: #0a090c;
   --fg: #f8fafc;
-  --muted: rgba(248, 250, 252, 0.68);
+  --muted: rgba(248, 250, 252, 0.70);
   --accent: #d4a853;
+  --accent-2: #c86d51;
   --accent-soft: rgba(212, 168, 83, 0.18);
-  --glass: rgba(20, 17, 13, 0.76);
-  --glass-border: rgba(255, 255, 255, 0.14);
+  --glass: rgba(20, 17, 16, 0.58);
+  --glass-border: rgba(255, 255, 255, 0.16);
+  --glow-a: rgba(212, 168, 83, 0.26);
+  --glow-b: rgba(180, 88, 72, 0.20);
   --card-radius: 20px;
   --rail-height: 60px;
   --safe-bottom: env(safe-area-inset-bottom, 0px);
@@ -43,22 +46,140 @@ a {
 }
 
 .glass {
-  background: var(--glass);
-  backdrop-filter: blur(22px) saturate(160%);
-  -webkit-backdrop-filter: blur(22px) saturate(160%);
+  background: linear-gradient(
+    145deg,
+    rgba(255, 255, 255, 0.08) 0%,
+    var(--glass) 42%,
+    rgba(8, 9, 14, 0.72) 100%
+  );
+  backdrop-filter: blur(26px) saturate(185%) brightness(1.06);
+  -webkit-backdrop-filter: blur(26px) saturate(185%) brightness(1.06);
   border: 1px solid var(--glass-border);
+  box-shadow:
+    inset 0 1px 0 rgba(255, 255, 255, 0.22),
+    inset 0 0 22px rgba(255, 255, 255, 0.03),
+    0 18px 46px rgba(0, 0, 0, 0.52),
+    0 0 36px -14px var(--glow-a);
+  transition:
+    background 480ms ease,
+    border-color 360ms ease,
+    box-shadow 480ms ease;
 }
 
 #app {
   width: 100%;
   height: 100dvh;
   position: relative;
+  overflow: hidden;
+}
+
+/* ============================================================================
+   Liquid Glass Ambient Duo-Glow Canvas (GPU-Composited Transform/Opacity Only)
+   ============================================================================ */
+.ambient-aura {
+  position: absolute;
+  inset: 0;
+  z-index: 0;
+  pointer-events: none;
+  overflow: hidden;
+  contain: strict;
+}
+
+.aura-orb {
+  position: absolute;
+  border-radius: 999px;
+  will-change: transform, opacity;
+  filter: blur(68px);
+}
+
+.aura-orb.is-a {
+  width: min(76vw, 620px);
+  height: min(76vw, 620px);
+  top: -14%;
+  left: -12%;
+  background: radial-gradient(circle at 40% 40%, var(--glow-a) 0%, transparent 70%);
+  animation: aura-drift-a 20s ease-in-out infinite alternate;
+}
+
+.aura-orb.is-b {
+  width: min(82vw, 680px);
+  height: min(82vw, 680px);
+  bottom: -18%;
+  right: -14%;
+  background: radial-gradient(circle at 60% 60%, var(--glow-b) 0%, transparent 72%);
+  animation: aura-drift-b 24s ease-in-out infinite alternate;
+}
+
+.aura-mesh {
+  position: absolute;
+  inset: -20%;
+  background:
+    radial-gradient(ellipse 60% 45% at 25% 75%, var(--glow-b) 0%, transparent 65%),
+    radial-gradient(ellipse 55% 45% at 78% 22%, var(--glow-a) 0%, transparent 65%);
+  opacity: 0.48;
+  will-change: transform, opacity;
+  animation: aura-phase 18s ease-in-out infinite alternate;
+}
+
+@keyframes aura-drift-a {
+  0% {
+    transform: translate3d(-4%, -3%, 0) scale(0.96);
+    opacity: 0.85;
+  }
+  50% {
+    transform: translate3d(14%, 10%, 0) scale(1.08);
+    opacity: 1;
+  }
+  100% {
+    transform: translate3d(6%, 22%, 0) scale(1.0);
+    opacity: 0.88;
+  }
+}
+
+@keyframes aura-drift-b {
+  0% {
+    transform: translate3d(4%, 4%, 0) scale(1.04);
+    opacity: 0.82;
+  }
+  50% {
+    transform: translate3d(-16%, -10%, 0) scale(0.94);
+    opacity: 0.98;
+  }
+  100% {
+    transform: translate3d(-6%, -20%, 0) scale(1.06);
+    opacity: 0.85;
+  }
+}
+
+@keyframes aura-phase {
+  0% {
+    transform: translate3d(0, 0, 0) rotate(0deg) scale(1);
+    opacity: 0.36;
+  }
+  100% {
+    transform: translate3d(-3%, 2%, 0) rotate(6deg) scale(1.06);
+    opacity: 0.56;
+  }
+}
+
+body.has-theater-fullscreen .aura-orb,
+body.has-theater-fullscreen .aura-mesh {
+  animation-play-state: paused;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .aura-orb,
+  .aura-mesh {
+    animation: none;
+  }
 }
 
 /* ============================================================================
    2D Scroll-Snap Deck (Vertical Books + Horizontal Chapter/Notes Slides)
    ============================================================================ */
 .deck {
+  position: relative;
+  z-index: 1;
   width: 100%;
   height: 100dvh;
   overflow-y: scroll;
@@ -515,9 +636,10 @@ a {
   background: rgba(255, 255, 255, 0.14);
 }
 .chrome-btn.is-primary {
-  background: var(--accent);
+  background: linear-gradient(135deg, var(--accent) 0%, var(--accent-2) 100%);
   color: #090a0f;
-  border-color: transparent;
+  border-color: rgba(255, 255, 255, 0.25);
+  box-shadow: 0 6px 20px -6px var(--glow-a);
 }
 .chrome-btn.is-primary.is-playing {
   background: rgba(212, 168, 83, 0.25);
