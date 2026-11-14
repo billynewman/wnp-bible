@@ -64,7 +64,13 @@ a {
   overflow-y: scroll;
   scroll-snap-type: y mandatory;
   overscroll-behavior-y: contain;
+  -webkit-overflow-scrolling: touch;
+  touch-action: pan-y;
   scrollbar-width: none;
+}
+.deck.is-restoring-snap,
+.slides.is-restoring-snap {
+  scroll-snap-type: none !important;
 }
 .deck::-webkit-scrollbar {
   display: none;

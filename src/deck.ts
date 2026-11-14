@@ -20,6 +20,9 @@ export class BibleDeck {
   private isRestoringPosition = false;
   private restoreTimers: number[] = [];
   private orientationListenersBound = false;
+  private lastViewportWidth = typeof window !== 'undefined' ? window.innerWidth : 0;
+  private lastOrientation: 'portrait' | 'landscape' =
+    typeof window !== 'undefined' && window.innerWidth > window.innerHeight ? 'landscape' : 'portrait';
 
   constructor(
     deckEl: HTMLElement,
@@ -379,25 +382,26 @@ export class BibleDeck {
       const cardEl = this.cardMap.get(this.activeEpisodeId);
       if (!cardEl) return;
       this.isRestoringPosition = true;
-      const prevSnap = this.deckEl.style.scrollSnapType;
-      this.deckEl.style.scrollSnapType = 'none';
+      this.deckEl.classList.add('is-restoring-snap');
       this.deckEl.scrollTo({ top: cardEl.offsetTop, behavior: 'instant' as ScrollBehavior });
 
       const slidesEl = cardEl.querySelector<HTMLElement>('.slides');
       if (slidesEl && slidesEl.clientWidth > 0) {
-        const prevSlideSnap = slidesEl.style.scrollSnapType;
-        slidesEl.style.scrollSnapType = 'none';
+        slidesEl.classList.add('is-restoring-snap');
         slidesEl.scrollTo({
           left: this.activeSlideIndex * slidesEl.clientWidth,
           behavior: 'instant' as ScrollBehavior
         });
-        slidesEl.style.scrollSnapType = prevSlideSnap;
+        slidesEl.classList.remove('is-restoring-snap');
       }
 
       requestAnimationFrame(() => {
-        this.deckEl.scrollTo({ top: cardEl.offsetTop, behavior: 'instant' as ScrollBehavior });
-        this.deckEl.style.scrollSnapType = prevSnap;
-        this.isRestoringPosition = false;
+        try {
+          this.deckEl.scrollTo({ top: cardEl.offsetTop, behavior: 'instant' as ScrollBehavior });
+        } finally {
+          this.deckEl.classList.remove('is-restoring-snap');
+          this.isRestoringPosition = false;
+        }
       });
     };
 
@@ -407,14 +411,33 @@ export class BibleDeck {
   }
 
   private setupScrollSnapSync(): void {
-    // 1. Lock & restore active card + slide across phone rotation, resize, and fullscreen transitions
+    // 1. Lock & restore active card + slide across phone rotation, real width changes, and fullscreen transitions.
+    // Ignore height-only mobile address-bar resize events so normal vertical flick-snapping is never interrupted.
     if (!this.orientationListenersBound) {
       this.orientationListenersBound = true;
-      const onViewportShift = () => this.lockAndRestoreActivePosition(480);
-      window.addEventListener('resize', onViewportShift, { passive: true });
-      window.addEventListener('orientationchange', onViewportShift, { passive: true });
-      window.screen?.orientation?.addEventListener('change', onViewportShift);
-      window.addEventListener('wnp:fullscreen-exit', () => this.lockAndRestoreActivePosition(400));
+      const syncViewportMeta = () => {
+        this.lastViewportWidth = window.innerWidth;
+        this.lastOrientation = window.innerWidth > window.innerHeight ? 'landscape' : 'portrait';
+      };
+      const onResize = () => {
+        const nextOrient = window.innerWidth > window.innerHeight ? 'landscape' : 'portrait';
+        const widthDelta = Math.abs(window.innerWidth - this.lastViewportWidth);
+        if (nextOrient !== this.lastOrientation || widthDelta > 40) {
+          syncViewportMeta();
+          this.lockAndRestoreActivePosition(480);
+        }
+      };
+      const onOrientationShift = () => {
+        syncViewportMeta();
+        this.lockAndRestoreActivePosition(480);
+      };
+      window.addEventListener('resize', onResize, { passive: true });
+      window.addEventListener('orientationchange', onOrientationShift, { passive: true });
+      window.screen?.orientation?.addEventListener('change', onOrientationShift);
+      window.addEventListener('wnp:fullscreen-exit', () => {
+        syncViewportMeta();
+        this.lockAndRestoreActivePosition(400);
+      });
     }
 
     // 2. Modern scrollsnapchange event where supported
