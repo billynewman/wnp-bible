@@ -57,6 +57,33 @@ export class BiblePlayer {
   private activeIframe: HTMLIFrameElement | null = null;
   private currentStartSec = 0;
   private isPlaying = false;
+  private fsListenersBound = false;
+
+  constructor() {
+    this.bindFullscreenListeners();
+  }
+
+  private bindFullscreenListeners(): void {
+    if (this.fsListenersBound || typeof document === 'undefined') return;
+    this.fsListenersBound = true;
+    const onFsChange = () => {
+      if (!this.isFullscreenActive()) {
+        window.dispatchEvent(new CustomEvent('wnp:fullscreen-exit'));
+      }
+    };
+    document.addEventListener('fullscreenchange', onFsChange);
+    document.addEventListener('webkitfullscreenchange', onFsChange);
+  }
+
+  public isFullscreenActive(): boolean {
+    if (typeof document === 'undefined') return false;
+    const doc = document as Document & { webkitFullscreenElement?: Element | null };
+    return Boolean(
+      doc.fullscreenElement ||
+        doc.webkitFullscreenElement ||
+        document.body?.classList.contains('has-theater-fullscreen')
+    );
+  }
 
   public get currentEpisode(): Episode | null {
     return this.activeEpisode;
@@ -73,8 +100,12 @@ export class BiblePlayer {
   /**
    * Called when vertical deck snaps to a card. Sets metadata/mini-player and unmounts any stale iframe
    * on off-screen cards so only a single YouTube iframe exists at a time.
+   * Never unmounts an active fullscreen video during rotation or layout resizes.
    */
   public syncCardFocus(cardEl: HTMLElement, ep: Episode): void {
+    if (this.isFullscreenActive()) {
+      return;
+    }
     if (this.activeCardEl && this.activeCardEl !== cardEl) {
       this.unmountCardIframe(this.activeCardEl);
     }
@@ -181,6 +212,7 @@ export class BiblePlayer {
     if (stageWrap.classList.contains('is-theater-fullscreen')) {
       stageWrap.classList.remove('is-theater-fullscreen');
       document.body.classList.remove('has-theater-fullscreen');
+      window.dispatchEvent(new CustomEvent('wnp:fullscreen-exit'));
       return;
     }
 

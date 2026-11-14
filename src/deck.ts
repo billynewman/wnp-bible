@@ -15,6 +15,11 @@ export class BibleDeck {
   private callbacks: DeckCallbacks;
   private cardMap = new Map<string, HTMLElement>();
   private activeEpisodeId = '';
+  private activeSlideIndex = 0;
+  private resizeLockUntil = 0;
+  private isRestoringPosition = false;
+  private restoreTimers: number[] = [];
+  private orientationListenersBound = false;
 
   constructor(
     deckEl: HTMLElement,
@@ -344,8 +349,12 @@ export class BibleDeck {
       slidesEl.addEventListener(
         'scroll',
         () => {
+          if (this.isLayoutLocked()) return;
           const w = slidesEl.clientWidth || 1;
           const activeIdx = Math.round(slidesEl.scrollLeft / w);
+          if (ep.id === this.activeEpisodeId) {
+            this.activeSlideIndex = activeIdx;
+          }
           cardEl.querySelectorAll<HTMLElement>('.slide-dot').forEach((d, idx) => {
             d.classList.toggle('active', idx === activeIdx);
           });
@@ -355,22 +364,74 @@ export class BibleDeck {
     }
   }
 
+  private isLayoutLocked(): boolean {
+    return this.isRestoringPosition || Date.now() < this.resizeLockUntil || this.player.isFullscreenActive();
+  }
+
+  private lockAndRestoreActivePosition(durationMs = 450): void {
+    this.resizeLockUntil = Math.max(this.resizeLockUntil, Date.now() + durationMs);
+    this.restoreTimers.forEach((id) => window.clearTimeout(id));
+    this.restoreTimers = [];
+
+    const snapToCurrent = () => {
+      const cardEl = this.cardMap.get(this.activeEpisodeId);
+      if (!cardEl) return;
+      this.isRestoringPosition = true;
+      const prevSnap = this.deckEl.style.scrollSnapType;
+      this.deckEl.style.scrollSnapType = 'none';
+      this.deckEl.scrollTo({ top: cardEl.offsetTop, behavior: 'instant' as ScrollBehavior });
+
+      const slidesEl = cardEl.querySelector<HTMLElement>('.slides');
+      if (slidesEl && slidesEl.clientWidth > 0) {
+        const prevSlideSnap = slidesEl.style.scrollSnapType;
+        slidesEl.style.scrollSnapType = 'none';
+        slidesEl.scrollTo({
+          left: this.activeSlideIndex * slidesEl.clientWidth,
+          behavior: 'instant' as ScrollBehavior
+        });
+        slidesEl.style.scrollSnapType = prevSlideSnap;
+      }
+
+      requestAnimationFrame(() => {
+        this.deckEl.scrollTo({ top: cardEl.offsetTop, behavior: 'instant' as ScrollBehavior });
+        this.deckEl.style.scrollSnapType = prevSnap;
+        this.isRestoringPosition = false;
+      });
+    };
+
+    snapToCurrent();
+    this.restoreTimers.push(window.setTimeout(snapToCurrent, 120));
+    this.restoreTimers.push(window.setTimeout(snapToCurrent, 320));
+  }
+
   private setupScrollSnapSync(): void {
-    // 1. Modern scrollsnapchange event where supported
+    // 1. Lock & restore active card + slide across phone rotation, resize, and fullscreen transitions
+    if (!this.orientationListenersBound) {
+      this.orientationListenersBound = true;
+      const onViewportShift = () => this.lockAndRestoreActivePosition(480);
+      window.addEventListener('resize', onViewportShift, { passive: true });
+      window.addEventListener('orientationchange', onViewportShift, { passive: true });
+      window.screen?.orientation?.addEventListener('change', onViewportShift);
+      window.addEventListener('wnp:fullscreen-exit', () => this.lockAndRestoreActivePosition(400));
+    }
+
+    // 2. Modern scrollsnapchange event where supported
     if ('onscrollsnapchange' in this.deckEl) {
       this.deckEl.addEventListener('scrollsnapchange', (ev: Event) => {
+        if (this.isLayoutLocked()) return;
         const snapEv = ev as Event & { snapTargetBlock?: HTMLElement | null };
         const target = snapEv.snapTargetBlock;
-        if (target && target.dataset.episodeId) {
+        if (target && target.dataset.episodeId && target.dataset.episodeId !== this.activeEpisodeId) {
           const ep = this.episodes.find((e) => e.id === target.dataset.episodeId);
           if (ep) this.activateCard(target, ep);
         }
       });
     }
 
-    // 2. IntersectionObserver fallback for Safari/Firefox & initial snap
+    // 3. IntersectionObserver fallback for Safari/Firefox & initial snap
     const observer = new IntersectionObserver(
       (entries) => {
+        if (this.isLayoutLocked()) return;
         for (const entry of entries) {
           if (entry.isIntersecting && entry.intersectionRatio >= 0.6) {
             const cardEl = entry.target as HTMLElement;
@@ -389,6 +450,9 @@ export class BibleDeck {
   }
 
   private activateCard(cardEl: HTMLElement, ep: Episode): void {
+    if (this.activeEpisodeId !== ep.id) {
+      this.activeSlideIndex = 0;
+    }
     this.activeEpisodeId = ep.id;
     this.cardMap.forEach((el, id) => {
       el.classList.toggle('is-active-card', id === ep.id);

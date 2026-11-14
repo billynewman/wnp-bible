@@ -90,4 +90,18 @@ describe('WNP Bible (bible.wnp.app) 67-Video Series QA Suite', () => {
     const linked = autolinkText('Watch at https://www.youtube.com/watch?v=OgFT_IxwJJY.');
     assert.ok(linked.includes('href="https://www.youtube.com/watch?v=OgFT_IxwJJY"'));
   });
+
+  it('verifies rotation/fullscreen state lock guards and service worker v2 cache bump', () => {
+    const sw = fs.readFileSync(path.resolve(__dirname, '../public/sw.js'), 'utf8');
+    assert.ok(sw.includes("wnp-bible-shell-v2"));
+
+    const deckSrc = fs.readFileSync(path.resolve(__dirname, '../src/deck.ts'), 'utf8');
+    assert.ok(deckSrc.includes('lockAndRestoreActivePosition'));
+    assert.ok(deckSrc.includes('isLayoutLocked'));
+    assert.ok(deckSrc.includes('orientationchange'));
+
+    const playerSrc = fs.readFileSync(path.resolve(__dirname, '../src/player.ts'), 'utf8');
+    assert.ok(playerSrc.includes('isFullscreenActive'));
+    assert.ok(playerSrc.includes('wnp:fullscreen-exit'));
+  });
 });

@@ -1183,3 +1183,66 @@ a {
   0%, 100% { opacity: 0.45; }
   50% { opacity: 0.85; }
 }
+
+/* ============================================================================
+   Fullscreen Background Freeze & Landscape Phone Layout Protection
+   ============================================================================ */
+body.has-theater-fullscreen .deck {
+  overflow-y: hidden !important;
+  touch-action: none;
+}
+
+body.has-theater-fullscreen .rail,
+body.has-theater-fullscreen .mini-player {
+  visibility: hidden;
+  pointer-events: none;
+}
+
+@media (max-height: 520px) and (orientation: landscape) {
+  .card {
+    padding-top: calc(var(--safe-top) + 4px);
+    padding-bottom: calc(var(--rail-height) + var(--safe-bottom) + 6px);
+  }
+
+  .slide {
+    padding: 4px 12px;
+  }
+
+  .video-stage-container {
+    flex-direction: row;
+    align-items: center;
+    gap: 10px;
+  }
+
+  .youtube-stage-wrap {
+    flex: 1 1 auto;
+    max-width: 58vw;
+    max-height: calc(100dvh - 155px);
+  }
+
+  .quick-chapter-strip {
+    flex: 0 0 36vw;
+    flex-wrap: wrap;
+    max-height: calc(100dvh - 155px);
+    overflow-y: auto;
+    align-content: flex-start;
+  }
+
+  .card-chrome {
+    padding: 8px 12px;
+    gap: 4px;
+  }
+
+  .card-chrome .title {
+    font-size: 15px;
+  }
+
+  .chrome-subrow {
+    display: none;
+  }
+
+  .chrome-btn {
+    padding: 5px 10px;
+    font-size: 12px;
+  }
+}
