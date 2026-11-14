@@ -11,7 +11,7 @@ const feedsJsonPath = path.resolve(__dirname, '../public/feeds.json');
 const scourbyJsonPath = path.resolve(__dirname, '../public/feeds/scourby-kjv.json');
 const scourbyXmlPath = path.resolve(__dirname, '../public/feeds/scourby-kjv.xml');
 
-describe('WNP Bible (bible.wnp.app) 67-Video Series QA Suite', () => {
+describe('WNP Bible (bible.wnp.app) 83-Video Series QA Suite', () => {
   it('verifies public/feeds.json is configured for bible.wnp.app and non-commercial single series', () => {
     const catalog = JSON.parse(fs.readFileSync(feedsJsonPath, 'utf8'));
     assert.equal(catalog.app.domain, 'bible.wnp.app');
@@ -20,13 +20,13 @@ describe('WNP Bible (bible.wnp.app) 67-Video Series QA Suite', () => {
     assert.equal(catalog.shows[0].type, 'video');
   });
 
-  it('verifies all 67 Scourby KJV videos and 941 chapter markers are present in scourby-kjv.json', () => {
+  it('verifies all 83 Scourby KJV + Apocrypha videos and 1132 chapter markers are present in scourby-kjv.json', () => {
     const raw = JSON.parse(fs.readFileSync(scourbyJsonPath, 'utf8'));
-    assert.equal(raw.count, 67);
-    assert.equal(raw.episodes.length, 67);
+    assert.equal(raw.count, 83);
+    assert.equal(raw.episodes.length, 83);
 
     const episodes = normalizeJsonEpisodes(raw.episodes);
-    assert.equal(episodes.length, 67);
+    assert.equal(episodes.length, 83);
 
     // Check Intro (00), Genesis (01), Psalms (19), John (43), Revelation (66)
     assert.equal(episodes[0].bookNum, 0);
@@ -49,14 +49,25 @@ describe('WNP Bible (bible.wnp.app) 67-Video Series QA Suite', () => {
     assert.equal(revelation.totalBookChapters, 22);
     assert.equal(revelation.chapters.length, 22);
 
-    // Every single one of the 67 videos must have at least 1 chapter marker and a valid 11-char YouTube ID
+    // Check Apocrypha section appended after Revelation (Books 67-82)
+    const apocrypha = episodes.filter((e) => e.testament === 'Apocrypha');
+    assert.equal(apocrypha.length, 16);
+    assert.equal(episodes[67].bookNum, 67);
+    assert.equal(episodes[67].bookName, '1 Esdras');
+    assert.equal(episodes[68].youtubeId, 'JrdFB71q3lg'); // 2 Esdras
+    assert.equal(episodes[78].youtubeId, '3Xh7axC3dJ8'); // Bel & the Dragon (Daniel Ch. 14)
+    assert.equal(episodes[82].bookNum, 82);
+    assert.equal(episodes[82].bookName, 'Book of Enoch');
+    assert.equal(episodes[82].youtubeId, 'hIfh9m_CSXs');
+
+    // Every single one of the 83 videos must have at least 1 chapter marker and a valid 11-char YouTube ID
     let totalChapters = 0;
     for (const ep of episodes) {
       assert.match(ep.youtubeId, /^[a-zA-Z0-9_-]{11}$/);
       assert.ok(ep.chapters.length > 0, `Expected chapters for ${ep.bookName}`);
       totalChapters += ep.chapters.length;
     }
-    assert.equal(totalChapters, 941);
+    assert.equal(totalChapters, 1132);
   });
 
   it('builds horizontal 16:9 video slide + chunked chapter link slides + study notes slide for each book', () => {
@@ -70,11 +81,12 @@ describe('WNP Bible (bible.wnp.app) 67-Video Series QA Suite', () => {
     assert.equal(cards.length, 5);
   });
 
-  it('verifies public/feeds/scourby-kjv.xml RSS 2.0 feed contains all 67 items', () => {
+  it('verifies public/feeds/scourby-kjv.xml RSS 2.0 feed contains all 83 items', () => {
     const xml = fs.readFileSync(scourbyXmlPath, 'utf8');
     const itemMatches = xml.match(/<item>/g) || [];
-    assert.equal(itemMatches.length, 67);
+    assert.equal(itemMatches.length, 83);
     assert.ok(xml.includes('<yt:videoId>OgFT_IxwJJY</yt:videoId>'));
+    assert.ok(xml.includes('<yt:videoId>hIfh9m_CSXs</yt:videoId>'));
   });
 
   it('parses chapter timestamps and formats durations/autolinks cleanly', () => {
@@ -91,9 +103,9 @@ describe('WNP Bible (bible.wnp.app) 67-Video Series QA Suite', () => {
     assert.ok(linked.includes('href="https://www.youtube.com/watch?v=OgFT_IxwJJY"'));
   });
 
-  it('verifies rotation/fullscreen state lock guards and service worker v2 cache bump', () => {
+  it('verifies rotation/fullscreen state lock guards and service worker v3 cache bump', () => {
     const sw = fs.readFileSync(path.resolve(__dirname, '../public/sw.js'), 'utf8');
-    assert.ok(sw.includes("wnp-bible-shell-v2"));
+    assert.ok(sw.includes("wnp-bible-shell-v3"));
 
     const deckSrc = fs.readFileSync(path.resolve(__dirname, '../src/deck.ts'), 'utf8');
     assert.ok(deckSrc.includes('lockAndRestoreActivePosition'));

@@ -34,7 +34,12 @@ export function openInspectorSheet(
   attachDialogLightDismiss(dialog);
 
   let currentTab: 'chapters' | 'books' = initialTab;
-  let filterTestament: 'ALL' | 'OT' | 'NT' = 'ALL';
+  let filterTestament: 'ALL' | 'OT' | 'NT' | 'Apocrypha' = 'ALL';
+
+  const totalCount = allEpisodes.length;
+  const otCount = allEpisodes.filter((e) => e.testament === 'OT').length;
+  const ntCount = allEpisodes.filter((e) => e.testament === 'NT').length;
+  const apocCount = allEpisodes.filter((e) => e.testament === 'Apocrypha').length;
 
   const render = () => {
     const chaptersHtml = activeEp.chapters
@@ -76,7 +81,7 @@ export function openInspectorSheet(
     body.innerHTML = `
       <header class="sheet-header">
         <div>
-          <div class="sheet-kicker">SCRIPTURE NAVIGATOR · 67 VIDEOS</div>
+          <div class="sheet-kicker">SCRIPTURE NAVIGATOR · ${totalCount} VIDEOS</div>
           <h2 class="sheet-title">${escapeHtml(activeEp.title)}</h2>
         </div>
         <button type="button" class="sheet-close-btn" data-close-inspector aria-label="Close">✕</button>
@@ -87,16 +92,17 @@ export function openInspectorSheet(
           ${escapeHtml(activeEp.bookName)} Chapters (${activeEp.chapters.length})
         </button>
         <button type="button" role="tab" class="inspector-tab ${currentTab === 'books' ? 'active' : ''}" data-tab="books">
-          All 67 Books
+          All ${totalCount} Books
         </button>
       </div>
 
       ${
         currentTab === 'books'
           ? `<div class="inspector-filter-row">
-              <button type="button" class="filter-chip ${filterTestament === 'ALL' ? 'active' : ''}" data-testament="ALL">All (67)</button>
-              <button type="button" class="filter-chip ${filterTestament === 'OT' ? 'active' : ''}" data-testament="OT">Old Testament (39)</button>
-              <button type="button" class="filter-chip ${filterTestament === 'NT' ? 'active' : ''}" data-testament="NT">New Testament (27)</button>
+              <button type="button" class="filter-chip ${filterTestament === 'ALL' ? 'active' : ''}" data-testament="ALL">All (${totalCount})</button>
+              <button type="button" class="filter-chip ${filterTestament === 'OT' ? 'active' : ''}" data-testament="OT">Old Testament (${otCount})</button>
+              <button type="button" class="filter-chip ${filterTestament === 'NT' ? 'active' : ''}" data-testament="NT">New Testament (${ntCount})</button>
+              <button type="button" class="filter-chip ${filterTestament === 'Apocrypha' ? 'active' : ''}" data-testament="Apocrypha">Apocrypha (${apocCount})</button>
             </div>`
           : ''
       }
@@ -116,7 +122,7 @@ export function openInspectorSheet(
 
     body.querySelectorAll<HTMLButtonElement>('[data-testament]').forEach((fBtn) => {
       fBtn.addEventListener('click', () => {
-        filterTestament = (fBtn.dataset.testament as 'ALL' | 'OT' | 'NT') || 'ALL';
+        filterTestament = (fBtn.dataset.testament as 'ALL' | 'OT' | 'NT' | 'Apocrypha') || 'ALL';
         render();
       });
     });

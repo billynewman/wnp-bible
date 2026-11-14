@@ -41,7 +41,7 @@ export function buildEpisodeCards(ep: Omit<Episode, 'cards'>): Card[] {
     headline: ep.title,
     subline: ep.testament === 'Intro'
       ? 'Series Introduction · Scourby YouBible'
-      : `${ep.testament === 'OT' ? 'Old Testament' : 'New Testament'} · ${ep.totalBookChapters} ${ep.totalBookChapters === 1 ? 'Chapter' : 'Chapters'}`,
+      : `${ep.testament === 'OT' ? 'Old Testament' : ep.testament === 'NT' ? 'New Testament' : 'Apocrypha'} · ${ep.totalBookChapters} ${ep.totalBookChapters === 1 ? 'Chapter' : 'Chapters'}`,
     imageUrl: ep.coverUrl,
     chapters: ep.chapters
   });
@@ -144,7 +144,7 @@ export function parseRssXmlFeed(xmlText: string, showId = 'scourby-kjv'): Episod
     const chapters = parseChaptersFromDescription(desc);
     const firstParagraph = desc.split(/\n\n/)[0]?.trim() || title;
     const bookName = title.replace(/^Book\s+\d+\s*·\s*/i, '').replace(/^00\s*·\s*/i, '').trim();
-    const testament: Testament = bookNum === 0 ? 'Intro' : bookNum <= 39 ? 'OT' : 'NT';
+    const testament: Testament = bookNum === 0 ? 'Intro' : bookNum <= 39 ? 'OT' : bookNum <= 66 ? 'NT' : 'Apocrypha';
 
     const base: Omit<Episode, 'cards'> = {
       id: item.querySelector('guid')?.textContent?.trim() || `scourby-kjv-${String(bookNum).padStart(2, '0')}`,

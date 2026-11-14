@@ -88,7 +88,9 @@ export class BibleDeck {
     const badgeText =
       ep.bookNum === 0
         ? 'SERIES INTRO · 00 / 66'
-        : `${ep.testament === 'OT' ? 'OLD TESTAMENT' : 'NEW TESTAMENT'} · BOOK ${String(ep.bookNum).padStart(2, '0')} OF 66`;
+        : ep.testament === 'Apocrypha'
+          ? `APOCRYPHA · APPENDIX ${String(ep.bookNum - 66).padStart(2, '0')}`
+          : `${ep.testament === 'OT' ? 'OLD TESTAMENT' : 'NEW TESTAMENT'} · BOOK ${String(ep.bookNum).padStart(2, '0')} OF 66`;
 
     const durText = formatDuration(ep.durationSec);
     const firstChapter = ep.chapters[0]?.label || ep.bookName;

@@ -3,7 +3,7 @@
   "playlistId": "PLyH3jcNYnj_vee7HfFWgGmcW2E3qdsHLi",
   "channelUrl": "https://www.youtube.com/@ScourbyYouBible",
   "attribution": "Scourby YouBible Channel · © 1991 Litchfield Associates · Kindness Works International Foundation 501(c)(3)",
-  "count": 67,
+  "count": 83,
   "episodes": [
     {
       "id": "scourby-kjv-00-introduction-kjv-bible-audio-text",
@@ -5846,6 +5846,1233 @@
           "timecode": "1:06:24",
           "seconds": 3984,
           "label": "Chapter 22"
+        }
+      ]
+    },
+    {
+      "id": "scourby-kjv-67-1-esdras",
+      "showId": "scourby-kjv",
+      "bookNum": 67,
+      "bookName": "1 Esdras",
+      "title": "Book 67 · 1 Esdras",
+      "ytTitle": "1 | The Apocrypha (Book of 1 Esdras | Read By Alexander Scourby | AUDIO and TEXT | Synced Together.",
+      "testament": "Apocrypha",
+      "totalBookChapters": 16,
+      "youtubeId": "DgCV2Ko-co4",
+      "durationSec": 3948,
+      "coverUrl": "https://i.ytimg.com/vi/DgCV2Ko-co4/hqdefault.jpg",
+      "coverMaxUrl": "https://i.ytimg.com/vi/DgCV2Ko-co4/maxresdefault.jpg",
+      "synopsis": "The Book of 1, ESDRAS in the Apocrypha, Read by Alexander Scourby, chronicles the dramatic history of Judah from the final days of the monarchy through the restoration of Jerusalem and its sacred temple. The account opens with King Josiah celebrating a grand Passover feast in Jerusalem before falling in battle against Pharaoh Neco at Megiddo. Following Josiah's death, a rapid succession of weak rulers leads to the invasion of King Nebuchadnezzar, who burns the temple, plunders its holy vessels, and carries the surviving inhabitants into Babylonian captivity for many long decades.",
+      "chapters": [
+        {
+          "timecode": "0:00",
+          "seconds": 0,
+          "label": "The Passover of Josiah"
+        },
+        {
+          "timecode": "3:24",
+          "seconds": 204,
+          "label": "Death of King Josiah"
+        },
+        {
+          "timecode": "5:17",
+          "seconds": 317,
+          "label": "Successors of Josiah"
+        },
+        {
+          "timecode": "7:05",
+          "seconds": 425,
+          "label": "Destruction of Jerusalem"
+        },
+        {
+          "timecode": "8:35",
+          "seconds": 515,
+          "label": "Decree of Cyrus"
+        },
+        {
+          "timecode": "10:43",
+          "seconds": 643,
+          "label": "Interruption of Rebuilding"
+        },
+        {
+          "timecode": "13:25",
+          "seconds": 805,
+          "label": "The Wise Young Men"
+        },
+        {
+          "timecode": "16:25",
+          "seconds": 985,
+          "label": "Zorobabel's Victory"
+        },
+        {
+          "timecode": "22:52",
+          "seconds": 1372,
+          "label": "Darius Grants Requests"
+        },
+        {
+          "timecode": "25:06",
+          "seconds": 1506,
+          "label": "The Return to Judea"
+        },
+        {
+          "timecode": "30:42",
+          "seconds": 1842,
+          "label": "Temple Foundation Laid"
+        },
+        {
+          "timecode": "35:49",
+          "seconds": 2149,
+          "label": "Completion of Temple"
+        },
+        {
+          "timecode": "41:17",
+          "seconds": 2477,
+          "label": "Temple Dedication"
+        },
+        {
+          "timecode": "43:10",
+          "seconds": 2590,
+          "label": "Ezras Travels to Jerusalem"
+        },
+        {
+          "timecode": "52:36",
+          "seconds": 3156,
+          "label": "Ezras's Prayer and Reform"
+        },
+        {
+          "timecode": "56:48",
+          "seconds": 3408,
+          "label": "Law Read by Ezras"
+        }
+      ]
+    },
+    {
+      "id": "scourby-kjv-68-2-esdras",
+      "showId": "scourby-kjv",
+      "bookNum": 68,
+      "bookName": "2 Esdras",
+      "title": "Book 68 · 2 Esdras",
+      "ytTitle": "2 | The Apocrypha (Book of 2 Esdras) | Read By Alexander Scourby | AUDIO & TEXT | Synced Together",
+      "testament": "Apocrypha",
+      "totalBookChapters": 16,
+      "youtubeId": "JrdFB71q3lg",
+      "durationSec": 7002,
+      "coverUrl": "https://i.ytimg.com/vi/JrdFB71q3lg/hqdefault.jpg",
+      "coverMaxUrl": "https://i.ytimg.com/vi/JrdFB71q3lg/maxresdefault.jpg",
+      "synopsis": "The Book of 2, ESDRAS from the Apocrypha, Read by Alexander Scourby, follows the humble prophet Ezra in Babylon during the bitter aftermath of the ruin of Jerusalem. Deeply troubled by the desolation of Zion and the prosperity of wicked nations, Ezra earnestly questions the Most High about human sin, suffering, and the ultimate fate of Israel. In response, the archangel Uriel visits Ezra to reveal divine mysteries, explaining that mortal understanding cannot fully grasp the timeless ways of the Almighty.",
+      "chapters": [
+        {
+          "timecode": "0:00",
+          "seconds": 0,
+          "label": "The first book of Esdras"
+        },
+        {
+          "timecode": "5:48",
+          "seconds": 348,
+          "label": "God's judgments on Israel"
+        },
+        {
+          "timecode": "12:08",
+          "seconds": 728,
+          "label": "Esdras questions God's ways"
+        },
+        {
+          "timecode": "16:56",
+          "seconds": 1016,
+          "label": "Uriel answers Esdras"
+        },
+        {
+          "timecode": "24:52",
+          "seconds": 1492,
+          "label": "Signs of the end times"
+        },
+        {
+          "timecode": "32:55",
+          "seconds": 1975,
+          "label": "The creation of the world"
+        },
+        {
+          "timecode": "40:52",
+          "seconds": 2452,
+          "label": "The state of the soul"
+        },
+        {
+          "timecode": "49:33",
+          "seconds": 2973,
+          "label": "Esdras' final prayer"
+        },
+        {
+          "timecode": "57:51",
+          "seconds": 3471,
+          "label": "Signs of the latter time"
+        },
+        {
+          "timecode": "1:04:05",
+          "seconds": 3845,
+          "label": "The vision of the city"
+        },
+        {
+          "timecode": "1:12:05",
+          "seconds": 4325,
+          "label": "Vision of the eagle"
+        },
+        {
+          "timecode": "1:17:36",
+          "seconds": 4656,
+          "label": "Interpretation of the eagle"
+        },
+        {
+          "timecode": "1:24:00",
+          "seconds": 5040,
+          "label": "Vision of the man from the sea"
+        },
+        {
+          "timecode": "1:31:32",
+          "seconds": 5492,
+          "label": "The transcription of the books"
+        },
+        {
+          "timecode": "1:37:11",
+          "seconds": 5831,
+          "label": "Prophecy of plagues"
+        },
+        {
+          "timecode": "1:45:25",
+          "seconds": 6325,
+          "label": "Final warnings and judgment"
+        }
+      ]
+    },
+    {
+      "id": "scourby-kjv-69-tobit",
+      "showId": "scourby-kjv",
+      "bookNum": 69,
+      "bookName": "Tobit",
+      "title": "Book 69 · Tobit",
+      "ytTitle": "3 | The Apocrypha | Book of Tobit | Read By Alexander Scourby | AUDIO & TEXT | Synced Together.",
+      "testament": "Apocrypha",
+      "totalBookChapters": 14,
+      "youtubeId": "g6qqNjBmwm0",
+      "durationSec": 2453,
+      "coverUrl": "https://i.ytimg.com/vi/g6qqNjBmwm0/hqdefault.jpg",
+      "coverMaxUrl": "https://i.ytimg.com/vi/g6qqNjBmwm0/maxresdefault.jpg",
+      "synopsis": "he Book of TOBIT Read by Alexander Scourby, follows a devout Israelite named Tobit living in Nineveh during the Assyrian exile. Despite facing persecution for secretly burying his slain countrymen, Tobit remains faithful to God until an accident leaves him completely blind. Overwhelmed by his misfortune and the reproaches of his wife Anna, he prays for death. Meanwhile, in distant Media, a young woman named Sarah also prays for death because a wicked demon named Asmodeus has killed seven, of her husbands on their wedding nights.",
+      "chapters": [
+        {
+          "timecode": "0:00",
+          "seconds": 0,
+          "label": "Tobit's righteous deeds"
+        },
+        {
+          "timecode": "3:48",
+          "seconds": 228,
+          "label": "Tragedy strikes Tobit"
+        },
+        {
+          "timecode": "6:07",
+          "seconds": 367,
+          "label": "Sarah's prayer for help"
+        },
+        {
+          "timecode": "9:37",
+          "seconds": 577,
+          "label": "Tobit's final instructions"
+        },
+        {
+          "timecode": "13:14",
+          "seconds": 794,
+          "label": "The journey begins"
+        },
+        {
+          "timecode": "16:19",
+          "seconds": 979,
+          "label": "A fish and a marriage plan"
+        },
+        {
+          "timecode": "19:33",
+          "seconds": 1173,
+          "label": "Arrival in Ecbatane"
+        },
+        {
+          "timecode": "22:11",
+          "seconds": 1331,
+          "label": "The demon is banished"
+        },
+        {
+          "timecode": "24:53",
+          "seconds": 1493,
+          "label": "Retrieving the money"
+        },
+        {
+          "timecode": "25:34",
+          "seconds": 1534,
+          "label": "Return to Nineveh"
+        },
+        {
+          "timecode": "27:27",
+          "seconds": 1647,
+          "label": "Tobit's sight restored"
+        },
+        {
+          "timecode": "29:55",
+          "seconds": 1795,
+          "label": "Raphael's true identity"
+        },
+        {
+          "timecode": "32:54",
+          "seconds": 1974,
+          "label": "Tobit's prayer of praise"
+        },
+        {
+          "timecode": "35:39",
+          "seconds": 2139,
+          "label": "The final days of Tobit"
+        }
+      ]
+    },
+    {
+      "id": "scourby-kjv-70-judith",
+      "showId": "scourby-kjv",
+      "bookNum": 70,
+      "bookName": "Judith",
+      "title": "Book 70 · Judith",
+      "ytTitle": "4 | The Apocrypha | Book of JUDITH | Read By Alexander Scourby | AUDIO & TEXT",
+      "testament": "Apocrypha",
+      "totalBookChapters": 18,
+      "youtubeId": "LvAYVFwD2Z0",
+      "durationSec": 3606,
+      "coverUrl": "https://i.ytimg.com/vi/LvAYVFwD2Z0/hqdefault.jpg",
+      "coverMaxUrl": "https://i.ytimg.com/vi/LvAYVFwD2Z0/maxresdefault.jpg",
+      "synopsis": "he Book of Judith, in Apocrypha, Read by Alexander Scourby, follows the courageous journey of a wealthy and devout widow who saves her people from total destruction. Set during a brutal military campaign by King Nebuchadnezzar, the Assyrian general Holofernes marches across the region to crush all resistance. Eventually, his massive army lays siege to the Israelite mountain town of Bethulia, cutting off its vital water supply and pushing the desperate citizens to the very brink of surrender.",
+      "chapters": [
+        {
+          "timecode": "0:00",
+          "seconds": 0,
+          "label": "Nabuchodonosor's war"
+        },
+        {
+          "timecode": "1:11",
+          "seconds": 71,
+          "label": "Messages of defiance"
+        },
+        {
+          "timecode": "3:11",
+          "seconds": 191,
+          "label": "Holofernes' mission"
+        },
+        {
+          "timecode": "5:08",
+          "seconds": 308,
+          "label": "Campaign of destruction"
+        },
+        {
+          "timecode": "7:15",
+          "seconds": 435,
+          "label": "Surrender of coastlands"
+        },
+        {
+          "timecode": "8:39",
+          "seconds": 519,
+          "label": "Israel prepares for defense"
+        },
+        {
+          "timecode": "11:16",
+          "seconds": 676,
+          "label": "Achior's warning"
+        },
+        {
+          "timecode": "15:07",
+          "seconds": 907,
+          "label": "Achior delivered to Israel"
+        },
+        {
+          "timecode": "18:40",
+          "seconds": 1120,
+          "label": "Bethulia besieged"
+        },
+        {
+          "timecode": "24:10",
+          "seconds": 1450,
+          "label": "Judith's intervention"
+        },
+        {
+          "timecode": "29:56",
+          "seconds": 1796,
+          "label": "Judith's prayer"
+        },
+        {
+          "timecode": "32:48",
+          "seconds": 1968,
+          "label": "Judith enters the camp"
+        },
+        {
+          "timecode": "36:53",
+          "seconds": 2213,
+          "label": "Judith's plan unfolds"
+        },
+        {
+          "timecode": "41:20",
+          "seconds": 2480,
+          "label": "The banquet"
+        },
+        {
+          "timecode": "44:28",
+          "seconds": 2668,
+          "label": "Killing of Holofernes"
+        },
+        {
+          "timecode": "48:12",
+          "seconds": 2892,
+          "label": "Assyrian rout"
+        },
+        {
+          "timecode": "51:16",
+          "seconds": 3076,
+          "label": "Israel's victory"
+        },
+        {
+          "timecode": "53:55",
+          "seconds": 3235,
+          "label": "Judith's song of praise"
+        }
+      ]
+    },
+    {
+      "id": "scourby-kjv-71-rest-of-esther",
+      "showId": "scourby-kjv",
+      "bookNum": 71,
+      "bookName": "Rest of Esther",
+      "title": "Book 71 · Rest of Esther",
+      "ytTitle": "5 | The Apocrypha  | Book ESTHER |  Read By Alexander Scourby | AUDIO & TEXT | Synced Together",
+      "testament": "Apocrypha",
+      "totalBookChapters": 9,
+      "youtubeId": "sqVUBI_FRBA",
+      "durationSec": 1062,
+      "coverUrl": "https://i.ytimg.com/vi/sqVUBI_FRBA/hqdefault.jpg",
+      "coverMaxUrl": "https://i.ytimg.com/vi/sqVUBI_FRBA/maxresdefault.jpg",
+      "synopsis": "The Book of Esther in Apocrypha, Read by Alexander Scourby, centers on Mordecai and Queen Esther as they protect the Jewish people in the Persian empire under King Artaxerxes. The account opens with Mordecai experiencing a prophetic dream of 2, great dragons, a small fountain becoming a mighty river, and divine deliverance for his nation. Shortly after, Mordecai uncovers a deadly assassination plot against the king, earning royal favor while inadvertently sparking the fierce hatred of Haman, a powerful court official.",
+      "chapters": [
+        {
+          "timecode": "0:00",
+          "seconds": 0,
+          "label": "Introduction to Esther"
+        },
+        {
+          "timecode": "1:21",
+          "seconds": 81,
+          "label": "Mordecai's dream"
+        },
+        {
+          "timecode": "3:03",
+          "seconds": 183,
+          "label": "Foiled assassination plot"
+        },
+        {
+          "timecode": "3:49",
+          "seconds": 229,
+          "label": "Haman's decree"
+        },
+        {
+          "timecode": "5:42",
+          "seconds": 342,
+          "label": "Mordecai's prayer"
+        },
+        {
+          "timecode": "7:17",
+          "seconds": 437,
+          "label": "Esther's prayer"
+        },
+        {
+          "timecode": "10:04",
+          "seconds": 604,
+          "label": "Esther approaches the king"
+        },
+        {
+          "timecode": "11:54",
+          "seconds": 714,
+          "label": "Reversal of the decree"
+        },
+        {
+          "timecode": "15:27",
+          "seconds": 927,
+          "label": "Channel resources and outro"
+        }
+      ]
+    },
+    {
+      "id": "scourby-kjv-72-wisdom-of-solomon",
+      "showId": "scourby-kjv",
+      "bookNum": 72,
+      "bookName": "Wisdom of Solomon",
+      "title": "Book 72 · Wisdom of Solomon",
+      "ytTitle": "6 | The Apocrypha | Wisdom of Solomon | Read By Alexander Scourby | AUDIO & TEXT | Synced Together.",
+      "testament": "Apocrypha",
+      "totalBookChapters": 16,
+      "youtubeId": "sFHSDH372qQ",
+      "durationSec": 3749,
+      "coverUrl": "https://i.ytimg.com/vi/sFHSDH372qQ/hqdefault.jpg",
+      "coverMaxUrl": "https://i.ytimg.com/vi/sFHSDH372qQ/maxresdefault.jpg",
+      "synopsis": "The Book of  Wisdom of SOLOMON in The Apocrypha, Read by Alexander Scourby. This ancient sacred text explores the divine pursuit of righteousness, justice, and spiritual understanding through the voice of King Solomon. Across 19, chapters, the book contrasts the ultimate fates of the wicked and the righteous. While the ungodly believe life ends in darkness and choose to oppress the innocent, the faithful rest safely in the hands of God. Their earthly trials prove their true worth, leading directly to immortality and eternal peace.",
+      "chapters": [
+        {
+          "timecode": "0:00",
+          "seconds": 0,
+          "label": "Wisdom of Solomon 1"
+        },
+        {
+          "timecode": "5:25",
+          "seconds": 325,
+          "label": "Wisdom of Solomon 3"
+        },
+        {
+          "timecode": "7:33",
+          "seconds": 453,
+          "label": "Wisdom of Solomon 4"
+        },
+        {
+          "timecode": "10:18",
+          "seconds": 618,
+          "label": "Wisdom of Solomon 5"
+        },
+        {
+          "timecode": "13:36",
+          "seconds": 816,
+          "label": "Wisdom of Solomon 6"
+        },
+        {
+          "timecode": "16:22",
+          "seconds": 982,
+          "label": "Good Chapter 7"
+        },
+        {
+          "timecode": "20:11",
+          "seconds": 1211,
+          "label": "Good Chapter 8"
+        },
+        {
+          "timecode": "23:09",
+          "seconds": 1389,
+          "label": "Good Chapter 9"
+        },
+        {
+          "timecode": "25:27",
+          "seconds": 1527,
+          "label": "Good Chapter 10"
+        },
+        {
+          "timecode": "28:18",
+          "seconds": 1698,
+          "label": "Good Chapter 11"
+        },
+        {
+          "timecode": "31:34",
+          "seconds": 1894,
+          "label": "Good Chapter 12"
+        },
+        {
+          "timecode": "35:29",
+          "seconds": 2129,
+          "label": "Good Chapter 13"
+        },
+        {
+          "timecode": "38:23",
+          "seconds": 2303,
+          "label": "Good Chapter 14"
+        },
+        {
+          "timecode": "45:47",
+          "seconds": 2747,
+          "label": "Good Chapter 16"
+        },
+        {
+          "timecode": "50:06",
+          "seconds": 3006,
+          "label": "Good Chapter 17"
+        },
+        {
+          "timecode": "53:07",
+          "seconds": 3187,
+          "label": "Good Chapter 18"
+        }
+      ]
+    },
+    {
+      "id": "scourby-kjv-73-ecclesiasticus-sirach",
+      "showId": "scourby-kjv",
+      "bookNum": 73,
+      "bookName": "Ecclesiasticus (Sirach)",
+      "title": "Book 73 · Ecclesiasticus (Sirach)",
+      "ytTitle": "7. | The Apocrypha | Ecclesiasticus | Read By Alexander Scourby | AUDIO and TEXT | Synced Together",
+      "testament": "Apocrypha",
+      "totalBookChapters": 18,
+      "youtubeId": "LN1qq3g3-Q8",
+      "durationSec": 9722,
+      "coverUrl": "https://i.ytimg.com/vi/LN1qq3g3-Q8/hqdefault.jpg",
+      "coverMaxUrl": "https://i.ytimg.com/vi/LN1qq3g3-Q8/maxresdefault.jpg",
+      "synopsis": "The Book of ECCLESIASTICUS in The Apocrypha, Read by Alexander Scourby, was composed in Jerusalem by the Jewish scribe Jesus ben Sira around 180, B.C. The Book of Ecclesiasticus, also known as Sirach, serves as a comprehensive guide to ethical living and divine wisdom. Spanning 51, chapters, the text begins by establishing that all true wisdom originates from the Lord and belongs to those who fear and love Him. As the chapters unfold, ben Sira offers practical instruction on daily conduct, addressing humility, honesty, self-control, and the proper use of speech. He outlines the duties children owe their parents, the respect due to elders, and the value of loyal friendship over fleeting wealth.",
+      "chapters": [
+        {
+          "timecode": "0:00",
+          "seconds": 0,
+          "label": "Ch1 Chapter 1"
+        },
+        {
+          "timecode": "5:03",
+          "seconds": 303,
+          "label": "Ch2 Chapter 2"
+        },
+        {
+          "timecode": "6:59",
+          "seconds": 419,
+          "label": "Ch3 Chapter 3"
+        },
+        {
+          "timecode": "10:16",
+          "seconds": 616,
+          "label": "Ch4 Chapter 4"
+        },
+        {
+          "timecode": "13:19",
+          "seconds": 799,
+          "label": "Ch5 Chapter 5"
+        },
+        {
+          "timecode": "22:34",
+          "seconds": 1354,
+          "label": "Ch7 Chapter 8"
+        },
+        {
+          "timecode": "24:39",
+          "seconds": 1479,
+          "label": "Ch7 Chapter 9"
+        },
+        {
+          "timecode": "26:54",
+          "seconds": 1614,
+          "label": "Ch7 Chapter 10"
+        },
+        {
+          "timecode": "30:34",
+          "seconds": 1834,
+          "label": "Ch7 Chapter 11"
+        },
+        {
+          "timecode": "34:33",
+          "seconds": 2073,
+          "label": "Ch7 Chapter 12"
+        },
+        {
+          "timecode": "36:55",
+          "seconds": 2215,
+          "label": "Ch7 Chapter 13"
+        },
+        {
+          "timecode": "40:10",
+          "seconds": 2410,
+          "label": "Ch7 Chapter 14"
+        },
+        {
+          "timecode": "42:53",
+          "seconds": 2573,
+          "label": "Ch7 Chapter 15"
+        },
+        {
+          "timecode": "44:42",
+          "seconds": 2682,
+          "label": "Ch7 Chapter 16"
+        },
+        {
+          "timecode": "48:05",
+          "seconds": 2885,
+          "label": "Ch7 Chapter 17"
+        },
+        {
+          "timecode": "51:11",
+          "seconds": 3071,
+          "label": "Ch7 Chapter 18"
+        },
+        {
+          "timecode": "54:40",
+          "seconds": 3280,
+          "label": "Ch7 Chapter 19"
+        },
+        {
+          "timecode": "58:06",
+          "seconds": 3486,
+          "label": "Ch7 Chapter 20"
+        }
+      ]
+    },
+    {
+      "id": "scourby-kjv-74-baruch",
+      "showId": "scourby-kjv",
+      "bookNum": 74,
+      "bookName": "Baruch",
+      "title": "Book 74 · Baruch",
+      "ytTitle": "8 | The Apocrypha | Book of Baruch | Read By Alexander Scourby | AUDIO and TEXT | Synced Together",
+      "testament": "Apocrypha",
+      "totalBookChapters": 7,
+      "youtubeId": "xsOtZ9iuICY",
+      "durationSec": 1245,
+      "coverUrl": "https://i.ytimg.com/vi/xsOtZ9iuICY/hqdefault.jpg",
+      "coverMaxUrl": "https://i.ytimg.com/vi/xsOtZ9iuICY/maxresdefault.jpg",
+      "synopsis": "The Book of BARUCH in The Apocrypha, Read by Alexander Scourby, written in Babylon during the fifth year, on the seventh day of the month, recounts the exile following the destruction of Jerusalem by the Chaldeans. Baruch, the son of Neriah, reads these words aloud to King Jeconiah, the nobles, the elders, and all the people gathered by the river Sud. Upon hearing the message, the exiles weep, fast, and pray before the Lord, recognizing their past disobedience.",
+      "chapters": [
+        {
+          "timecode": "0:00",
+          "seconds": 0,
+          "label": "Introduction"
+        },
+        {
+          "timecode": "0:08",
+          "seconds": 8,
+          "label": "Baruch chapter 1"
+        },
+        {
+          "timecode": "3:35",
+          "seconds": 215,
+          "label": "Baruch chapter 2"
+        },
+        {
+          "timecode": "8:35",
+          "seconds": 515,
+          "label": "Baruch chapter 3"
+        },
+        {
+          "timecode": "12:44",
+          "seconds": 764,
+          "label": "Baruch chapter 4"
+        },
+        {
+          "timecode": "17:17",
+          "seconds": 1037,
+          "label": "Baruch chapter 5"
+        },
+        {
+          "timecode": "18:31",
+          "seconds": 1111,
+          "label": "Conclusion"
+        }
+      ]
+    },
+    {
+      "id": "scourby-kjv-75-letter-of-jeremiah",
+      "showId": "scourby-kjv",
+      "bookNum": 75,
+      "bookName": "Letter of Jeremiah",
+      "title": "Book 75 · Letter of Jeremiah",
+      "ytTitle": "9 | The Apocrypha | Letter of Jeremiah | Read By Alexander Scourby | AUDIO and TEXT",
+      "testament": "Apocrypha",
+      "totalBookChapters": 1,
+      "youtubeId": "O-r7EIe4Z70",
+      "durationSec": 699,
+      "coverUrl": "https://i.ytimg.com/vi/O-r7EIe4Z70/hqdefault.jpg",
+      "coverMaxUrl": "https://i.ytimg.com/vi/O-r7EIe4Z70/maxresdefault.jpg",
+      "synopsis": "The letter of Jeremiah in The Apocrypha, Read by Alexander Scourby, presents a message sent from Jeremiah to the Judean exiles being led away as captives into Babylon by King Nebuchadnezzar. Because of their sins against God, the people are told they will remain in this foreign land for many years, lasting up to seven, generations before God brings them back in peace. Throughout their captivity, the exiles will encounter surrounding nations bowing down to gods made of silver, gold, and wood that are carried upon men's shoulders to inspire fear.",
+      "chapters": [
+        {
+          "timecode": "0:00",
+          "seconds": 0,
+          "label": "Letter of Jeremiah (Complete)"
+        }
+      ]
+    },
+    {
+      "id": "scourby-kjv-76-prayer-of-azariah",
+      "showId": "scourby-kjv",
+      "bookNum": 76,
+      "bookName": "Prayer of Azariah",
+      "title": "Book 76 · Prayer of Azariah",
+      "ytTitle": "10 | The Apocrypha | Lost Prayer of Azariah | Read By Alexander Scourby | AUDIO and TEXT |",
+      "testament": "Apocrypha",
+      "totalBookChapters": 5,
+      "youtubeId": "MiCINUBdM7s",
+      "durationSec": 624,
+      "coverUrl": "https://i.ytimg.com/vi/MiCINUBdM7s/hqdefault.jpg",
+      "coverMaxUrl": "https://i.ytimg.com/vi/MiCINUBdM7s/maxresdefault.jpg",
+      "synopsis": "The Book of LOST PRAYER OF AZARIAH in The Apocrypha, Read by Alexander Scourby,\nIn the heart of Babylon, three, young Jewish men named Azariah, Hananiah, and Mishael refuse to bow down to King Nebuchadnezzar’s golden idol. Enraged by their defiance, the king orders them bound and thrown into a blazing fiery furnace heated seven, times hotter than usual. Amidst the roaring flames, Azariah stands upright and opens his mouth to offer a heartfelt prayer of repentance and supplication. He acknowledges the sins of his nation, admitting that their exile and suffering are just consequences for turning away from divine commandments. Humbly, he pleads for mercy, asking God not to abandon His people for the sake of His covenant with Abraham, Isaac, and Jacob.",
+      "chapters": [
+        {
+          "timecode": "0:00",
+          "seconds": 0,
+          "label": "Azariah's prayer"
+        },
+        {
+          "timecode": "1:44",
+          "seconds": 104,
+          "label": "Hymn of praise"
+        },
+        {
+          "timecode": "7:21",
+          "seconds": 441,
+          "label": "Conclusion of prayer"
+        },
+        {
+          "timecode": "8:48",
+          "seconds": 528,
+          "label": "Apocrypha overview"
+        },
+        {
+          "timecode": "9:06",
+          "seconds": 546,
+          "label": "Bible channel resources"
+        }
+      ]
+    },
+    {
+      "id": "scourby-kjv-77-susanna-daniel-ch-13",
+      "showId": "scourby-kjv",
+      "bookNum": 77,
+      "bookName": "Susanna (Daniel Ch. 13)",
+      "title": "Book 77 · Susanna (Daniel Ch. 13)",
+      "ytTitle": "11 | The Aprorypha | Book of Susanna | Read By Alexander Scourby | AUDIO and TEXT..",
+      "testament": "Apocrypha",
+      "totalBookChapters": 6,
+      "youtubeId": "eMafLr54SjA",
+      "durationSec": 615,
+      "coverUrl": "https://i.ytimg.com/vi/eMafLr54SjA/hqdefault.jpg",
+      "coverMaxUrl": "https://i.ytimg.com/vi/eMafLr54SjA/maxresdefault.jpg",
+      "synopsis": "The Book of SUSANNA in The Apocrypha, Read by Alexander Scourby. In ancient Babylon, a devout and remarkably beautiful woman named Susanna lives with her wealthy husband, Joakim. Their home serves as a gathering place for the Jewish community, including two newly appointed elders who act as judges. Consumed by lust, both elders secretly spy on Susanna as she walks in her private garden. One hot afternoon, Susanna sends her maids away to fetch oils and soaps so she can bathe alone. Seizing the moment, the two elders confront her and demand that she submit to their desires. When Susanna refuses to sin against God, they threaten to falsely accuse her of adultery with a young man. Choosing death over dishonor, she cries out for help, prompting the elders to fabricate their deceitful testimony.",
+      "chapters": [
+        {
+          "timecode": "0:00",
+          "seconds": 0,
+          "label": "Introduction to Susanna"
+        },
+        {
+          "timecode": "0:37",
+          "seconds": 37,
+          "label": "The judges' conspiracy"
+        },
+        {
+          "timecode": "1:48",
+          "seconds": 108,
+          "label": "The confrontation in the garden"
+        },
+        {
+          "timecode": "3:13",
+          "seconds": 193,
+          "label": "Susanna's trial and sentence"
+        },
+        {
+          "timecode": "4:48",
+          "seconds": 288,
+          "label": "Daniel intervenes"
+        },
+        {
+          "timecode": "7:39",
+          "seconds": 459,
+          "label": "Conclusion and channel info"
+        }
+      ]
+    },
+    {
+      "id": "scourby-kjv-78-bel-the-dragon-daniel-ch-14",
+      "showId": "scourby-kjv",
+      "bookNum": 78,
+      "bookName": "Bel & the Dragon (Daniel Ch. 14)",
+      "title": "Book 78 · Bel & the Dragon (Daniel Ch. 14)",
+      "ytTitle": "12 | The Apocrypha | Bel & the Dragon | Read By Alexander Scourby | AUDIO & TEXT | Synced Together",
+      "testament": "Apocrypha",
+      "totalBookChapters": 5,
+      "youtubeId": "3Xh7axC3dJ8",
+      "durationSec": 495,
+      "coverUrl": "https://i.ytimg.com/vi/3Xh7axC3dJ8/hqdefault.jpg",
+      "coverMaxUrl": "https://i.ytimg.com/vi/3Xh7axC3dJ8/maxresdefault.jpg",
+      "synopsis": "The Book of BEL AND THE DRAGON in The Apocrypha, Read by Alexander Scourby. Set in ancient Babylon during the reign of King Cyrus, this account follows Daniel as he confronts idolatry and deception through sharp wisdom and unwavering faith. When the king questions why Daniel refuses to worship Bel, a massive bronze and clay idol believed to consume daily offerings of flour, sheep, and wine, Daniel sets a clever trap.",
+      "chapters": [
+        {
+          "timecode": "0:00",
+          "seconds": 0,
+          "label": "Introduction to Bel"
+        },
+        {
+          "timecode": "1:30",
+          "seconds": 90,
+          "label": "Exposing the Priests"
+        },
+        {
+          "timecode": "3:14",
+          "seconds": 194,
+          "label": "Destroying the Dragon"
+        },
+        {
+          "timecode": "4:24",
+          "seconds": 264,
+          "label": "Daniel in the lion's den"
+        },
+        {
+          "timecode": "5:57",
+          "seconds": 357,
+          "label": "Conclusion and channel info"
+        }
+      ]
+    },
+    {
+      "id": "scourby-kjv-79-prayer-of-manasseh",
+      "showId": "scourby-kjv",
+      "bookNum": 79,
+      "bookName": "Prayer of Manasseh",
+      "title": "Book 79 · Prayer of Manasseh",
+      "ytTitle": "13 | The Apocrypha | Prayer of Manasseh | Read By Alexander Scourby | AUDIO & TEXT | Synced Together",
+      "testament": "Apocrypha",
+      "totalBookChapters": 1,
+      "youtubeId": "nodJTpAiaNs",
+      "durationSec": 288,
+      "coverUrl": "https://i.ytimg.com/vi/nodJTpAiaNs/hqdefault.jpg",
+      "coverMaxUrl": "https://i.ytimg.com/vi/nodJTpAiaNs/maxresdefault.jpg",
+      "synopsis": "The Book of The PRAYER OF MANASSEH in The Apocrypha, Read by Alexander Scourby.  King Manasseh of Judah once reigned with extreme wickedness, leading his entire nation into deep idolatry and severe moral corruption. Because of his terrible sins and defiant rebellion against heaven, the Lord allowed the mighty Assyrian army to invade the land. The enemy soldiers swiftly captured the rebellious monarch, bound him in heavy iron chains, and dragged him away as a humiliated prisoner to the distant, ancient city of Babylon.",
+      "chapters": [
+        {
+          "timecode": "0:00",
+          "seconds": 0,
+          "label": "Prayer of Manasseh (Complete)"
+        }
+      ]
+    },
+    {
+      "id": "scourby-kjv-80-1-maccabees",
+      "showId": "scourby-kjv",
+      "bookNum": 80,
+      "bookName": "1 Maccabees",
+      "title": "Book 80 · 1 Maccabees",
+      "ytTitle": "14 | The Apocrypha | 1-MACCABEES | Read By Alexander Scourby | AUDIO & TEXT | Synced Together",
+      "testament": "Apocrypha",
+      "totalBookChapters": 46,
+      "youtubeId": "EwXqiSRA5xk",
+      "durationSec": 7623,
+      "coverUrl": "https://i.ytimg.com/vi/EwXqiSRA5xk/hqdefault.jpg",
+      "coverMaxUrl": "https://i.ytimg.com/vi/EwXqiSRA5xk/maxresdefault.jpg",
+      "synopsis": "The Book of 1-MACCABEES in The Apocrypha, Read by Alexander Scourby, chronicles the dramatic struggle of the Jewish people against religious oppression during the second century,  Following the conquests of Alexander the Great,  Antiochus IV Epiphanes, seizes control of Judea and launches a brutal campaign to eradicate Jewish traditions. He outlaws sacred practices, destroys holy texts, and desecrates the Jerusalem Temple by erecting a pagan altar. In response to this severe persecution, an elderly priest named Mattathias sparks an open rebellion in the town of Modein, refusing to bow to imperial decrees and rallying faithful followers into the wilderness.",
+      "chapters": [
+        {
+          "timecode": "0:00",
+          "seconds": 0,
+          "label": "The reign of Alexander"
+        },
+        {
+          "timecode": "1:26",
+          "seconds": 86,
+          "label": "Antiochus rises to power"
+        },
+        {
+          "timecode": "2:30",
+          "seconds": 150,
+          "label": "Plundering of Jerusalem"
+        },
+        {
+          "timecode": "3:39",
+          "seconds": 219,
+          "label": "Oppression and desolation"
+        },
+        {
+          "timecode": "5:11",
+          "seconds": 311,
+          "label": "Forced Hellenization"
+        },
+        {
+          "timecode": "7:46",
+          "seconds": 466,
+          "label": "Mattathias takes a stand"
+        },
+        {
+          "timecode": "10:37",
+          "seconds": 637,
+          "label": "Resistance in the hills"
+        },
+        {
+          "timecode": "13:40",
+          "seconds": 820,
+          "label": "The death of Mattathias"
+        },
+        {
+          "timecode": "15:57",
+          "seconds": 957,
+          "label": "Judas Maccabeus takes charge"
+        },
+        {
+          "timecode": "17:18",
+          "seconds": 1038,
+          "label": "Victory over Seron"
+        },
+        {
+          "timecode": "19:08",
+          "seconds": 1148,
+          "label": "Lysias's campaign"
+        },
+        {
+          "timecode": "21:22",
+          "seconds": 1282,
+          "label": "Preparation for battle"
+        },
+        {
+          "timecode": "23:54",
+          "seconds": 1434,
+          "label": "Judas defeats Gorgias"
+        },
+        {
+          "timecode": "26:57",
+          "seconds": 1617,
+          "label": "Lysias defeated at Beth-zura"
+        },
+        {
+          "timecode": "28:15",
+          "seconds": 1695,
+          "label": "Rededication of the Temple"
+        },
+        {
+          "timecode": "31:35",
+          "seconds": 1895,
+          "label": "Wars with neighboring nations"
+        },
+        {
+          "timecode": "34:47",
+          "seconds": 2087,
+          "label": "Campaign in Galaad"
+        },
+        {
+          "timecode": "37:17",
+          "seconds": 2237,
+          "label": "The return to Judea"
+        },
+        {
+          "timecode": "39:16",
+          "seconds": 2356,
+          "label": "Defeat at Jamnia"
+        },
+        {
+          "timecode": "41:07",
+          "seconds": 2467,
+          "label": "The death of Antiochus"
+        },
+        {
+          "timecode": "43:29",
+          "seconds": 2609,
+          "label": "Siege of the Citadel"
+        },
+        {
+          "timecode": "45:32",
+          "seconds": 2732,
+          "label": "Battle at Beth-zacharias"
+        },
+        {
+          "timecode": "47:57",
+          "seconds": 2877,
+          "label": "Peace with Lysias"
+        },
+        {
+          "timecode": "50:08",
+          "seconds": 3008,
+          "label": "Demetrius seizes the throne"
+        },
+        {
+          "timecode": "52:25",
+          "seconds": 3145,
+          "label": "Nicanor's treacherous campaign"
+        },
+        {
+          "timecode": "53:46",
+          "seconds": 3226,
+          "label": "Victory over Nicanor"
+        },
+        {
+          "timecode": "56:39",
+          "seconds": 3399,
+          "label": "The Roman alliance"
+        },
+        {
+          "timecode": "1:01:32",
+          "seconds": 3692,
+          "label": "The death of Judas"
+        },
+        {
+          "timecode": "1:03:56",
+          "seconds": 3836,
+          "label": "Jonathan leads the revolt"
+        },
+        {
+          "timecode": "1:05:54",
+          "seconds": 3954,
+          "label": "Bacchides fortified Judea"
+        },
+        {
+          "timecode": "1:08:19",
+          "seconds": 4099,
+          "label": "Jonathan gains control"
+        },
+        {
+          "timecode": "1:10:52",
+          "seconds": 4252,
+          "label": "Alexander Balas supports Jonathan"
+        },
+        {
+          "timecode": "1:13:53",
+          "seconds": 4433,
+          "label": "Demetrius courts Jonathan"
+        },
+        {
+          "timecode": "1:17:38",
+          "seconds": 4658,
+          "label": "Alexander defeats Demetrius"
+        },
+        {
+          "timecode": "1:20:25",
+          "seconds": 4825,
+          "label": "Jonathan defeats Apollonius"
+        },
+        {
+          "timecode": "1:23:14",
+          "seconds": 4994,
+          "label": "The reign of Ptolemy"
+        },
+        {
+          "timecode": "1:25:55",
+          "seconds": 5155,
+          "label": "Truce with Demetrius II"
+        },
+        {
+          "timecode": "1:28:00",
+          "seconds": 5280,
+          "label": "Jonathan saves Demetrius"
+        },
+        {
+          "timecode": "1:30:24",
+          "seconds": 5424,
+          "label": "Triphon betrays Jonathan"
+        },
+        {
+          "timecode": "1:32:56",
+          "seconds": 5576,
+          "label": "Simon takes command"
+        },
+        {
+          "timecode": "1:35:30",
+          "seconds": 5730,
+          "label": "Simon's leadership"
+        },
+        {
+          "timecode": "1:38:22",
+          "seconds": 5902,
+          "label": "The siege of Gaza"
+        },
+        {
+          "timecode": "1:40:33",
+          "seconds": 6033,
+          "label": "Antiochus VII honors Simon"
+        },
+        {
+          "timecode": "1:45:56",
+          "seconds": 6356,
+          "label": "Peace and prosperity"
+        },
+        {
+          "timecode": "1:49:01",
+          "seconds": 6541,
+          "label": "Commemoration of Simon"
+        },
+        {
+          "timecode": "1:54:45",
+          "seconds": 6885,
+          "label": "Antiochus VII breaks the treaty"
+        }
+      ]
+    },
+    {
+      "id": "scourby-kjv-81-2-maccabees",
+      "showId": "scourby-kjv",
+      "bookNum": 81,
+      "bookName": "2 Maccabees",
+      "title": "Book 81 · 2 Maccabees",
+      "ytTitle": "15 | The Apocrypha | 2 MACCABEES | Read By Alexander Scourby | AUDIO & TEXT | Synced Together.",
+      "testament": "Apocrypha",
+      "totalBookChapters": 12,
+      "youtubeId": "fnHahg5H6vw",
+      "durationSec": 5442,
+      "coverUrl": "https://i.ytimg.com/vi/fnHahg5H6vw/hqdefault.jpg",
+      "coverMaxUrl": "https://i.ytimg.com/vi/fnHahg5H6vw/maxresdefault.jpg",
+      "synopsis": "The Book of 2, MACCABEES in The Apocrypha, Read by Alexander Scourby, recounts a dramatic period of Jewish history during the second century, B.C. Opening with letters urging Jews in Egypt to celebrate the purification of the Temple, the text quickly shifts to the reign of King Seleucus IV. When the royal minister Heliodorus attempts to confiscate the sacred treasury in Jerusalem, heavenly angels strike him down, preserving the holy sanctuary from plunder.",
+      "chapters": [
+        {
+          "timecode": "0:00",
+          "seconds": 0,
+          "label": "Letter to Egypt"
+        },
+        {
+          "timecode": "16:09",
+          "seconds": 969,
+          "label": "Intrigues and sacrilege"
+        },
+        {
+          "timecode": "24:25",
+          "seconds": 1465,
+          "label": "Antiochus defiles the temple"
+        },
+        {
+          "timecode": "29:13",
+          "seconds": 1753,
+          "label": "Martyrdom of Eleazar"
+        },
+        {
+          "timecode": "34:23",
+          "seconds": 2063,
+          "label": "Martyrdom of the seven"
+        },
+        {
+          "timecode": "41:05",
+          "seconds": 2465,
+          "label": "Judas Maccabeus's victories"
+        },
+        {
+          "timecode": "47:12",
+          "seconds": 2832,
+          "label": "Death of Antiochus"
+        },
+        {
+          "timecode": "52:18",
+          "seconds": 3138,
+          "label": "Purification and victory"
+        },
+        {
+          "timecode": "58:13",
+          "seconds": 3493,
+          "label": "Truce with Lysias"
+        },
+        {
+          "timecode": "1:03:24",
+          "seconds": 3804,
+          "label": "Battles against foes"
+        },
+        {
+          "timecode": "1:11:02",
+          "seconds": 4262,
+          "label": "Nicanor's threat"
+        },
+        {
+          "timecode": "1:20:38",
+          "seconds": 4838,
+          "label": "Death of Nicanor"
+        }
+      ]
+    },
+    {
+      "id": "scourby-kjv-82-book-of-enoch",
+      "showId": "scourby-kjv",
+      "bookNum": 82,
+      "bookName": "Book of Enoch",
+      "title": "Book 82 · Book of Enoch",
+      "ytTitle": "1. | The Book of Enoch Complete | KJV | Read By Alexander Scourby | AUDIO and TEXT.",
+      "testament": "Apocrypha",
+      "totalBookChapters": 1,
+      "youtubeId": "hIfh9m_CSXs",
+      "durationSec": 11217,
+      "coverUrl": "https://i.ytimg.com/vi/hIfh9m_CSXs/hqdefault.jpg",
+      "coverMaxUrl": "https://i.ytimg.com/vi/hIfh9m_CSXs/maxresdefault.jpg",
+      "synopsis": "The Book of Enoch Read by Alexander Scourby. This ancient apocalyptic text opens with the prophecy of Enoch, a righteous patriarch chosen to deliver a message of impending judgment to a remote future generation. The story begins with the descent of the Watchers, a group of rebellious angels led by Samyaza and Azazel who abandon heaven to take human wives. Their union produces the Nephilim, destructive giants who consume the resources of the earth and introduce bloodshed, sorcery, and forbidden knowledge to humanity.",
+      "chapters": [
+        {
+          "timecode": "0:00",
+          "seconds": 0,
+          "label": "Book of Enoch (Complete)"
         }
       ]
     }

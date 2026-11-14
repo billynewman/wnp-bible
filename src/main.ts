@@ -165,9 +165,20 @@ class BibleApp {
       return true;
     });
 
+    const totalCount = this.episodes.length;
+    const otCount = this.episodes.filter((e) => e.testament === 'OT').length;
+    const ntCount = this.episodes.filter((e) => e.testament === 'NT').length;
+    const introCount = this.episodes.filter((e) => e.testament === 'Intro').length;
+    const apocCount = this.episodes.filter((e) => e.testament === 'Apocrypha').length;
+
     const cardsHtml = filtered
       .map((ep) => {
-        const numBadge = ep.bookNum === 0 ? 'INTRO' : `BOOK ${String(ep.bookNum).padStart(2, '0')}`;
+        const numBadge =
+          ep.bookNum === 0
+            ? 'INTRO'
+            : ep.testament === 'Apocrypha'
+              ? `APOC ${String(ep.bookNum - 66).padStart(2, '0')}`
+              : `BOOK ${String(ep.bookNum).padStart(2, '0')}`;
         const dur = formatDuration(ep.durationSec);
         return `
           <article class="book-tile glass" data-open-book="${escapeHtml(ep.id)}">
@@ -196,14 +207,15 @@ class BibleApp {
         <header class="plane-header">
           <div>
             <div class="kicker">KING JAMES BIBLE · ALEXANDER SCOURBY</div>
-            <h1 class="plane-title">All 67 Books &amp; Chapter Index</h1>
+            <h1 class="plane-title">All ${totalCount} Books &amp; Chapter Index</h1>
           </div>
           <div class="books-toolbar">
             <div class="filter-pills" role="group" aria-label="Filter by Testament">
-              <button type="button" class="filter-chip ${this.bookFilter === 'ALL' ? 'active' : ''}" data-filter="ALL">All (67)</button>
-              <button type="button" class="filter-chip ${this.bookFilter === 'OT' ? 'active' : ''}" data-filter="OT">Old Testament (39)</button>
-              <button type="button" class="filter-chip ${this.bookFilter === 'NT' ? 'active' : ''}" data-filter="NT">New Testament (27)</button>
-              <button type="button" class="filter-chip ${this.bookFilter === 'Intro' ? 'active' : ''}" data-filter="Intro">Intro (1)</button>
+              <button type="button" class="filter-chip ${this.bookFilter === 'ALL' ? 'active' : ''}" data-filter="ALL">All (${totalCount})</button>
+              <button type="button" class="filter-chip ${this.bookFilter === 'OT' ? 'active' : ''}" data-filter="OT">Old Testament (${otCount})</button>
+              <button type="button" class="filter-chip ${this.bookFilter === 'NT' ? 'active' : ''}" data-filter="NT">New Testament (${ntCount})</button>
+              <button type="button" class="filter-chip ${this.bookFilter === 'Apocrypha' ? 'active' : ''}" data-filter="Apocrypha">Apocrypha (${apocCount})</button>
+              <button type="button" class="filter-chip ${this.bookFilter === 'Intro' ? 'active' : ''}" data-filter="Intro">Intro (${introCount})</button>
             </div>
             <input
               type="search"

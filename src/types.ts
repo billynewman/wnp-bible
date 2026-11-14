@@ -1,4 +1,4 @@
-export type Testament = 'Intro' | 'OT' | 'NT';
+export type Testament = 'Intro' | 'OT' | 'NT' | 'Apocrypha';
 
 export interface ShowConfig {
   id: string;
